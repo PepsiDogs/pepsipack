@@ -1,0 +1,13 @@
+name = "ClickThrough"
+filename = "clickthrough-1.18-fabric0.43.1-0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/425/clickthrough-1.18-fabric0.43.1-0.4.jar"
+hash-format = "murmur2"
+hash = "2439114021"
+
+[update]
+[update.curseforge]
+file-id = 3543425
+project-id = 405262

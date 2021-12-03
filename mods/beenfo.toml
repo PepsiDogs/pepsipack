@@ -1,0 +1,13 @@
+name = "Beenfo"
+filename = "beenfo-1.18-fabric0.43.1-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/422/beenfo-1.18-fabric0.43.1-1.3.3.jar"
+hash-format = "murmur2"
+hash = "4042376739"
+
+[update]
+[update.curseforge]
+file-id = 3543422
+project-id = 357256

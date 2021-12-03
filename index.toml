@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.toml"
+hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.toml"
+hash = "b608fcfa11830d6e4f4228cc657b7d18b19c7e2964f18f6e8dca0a0471ff28d1"
+metafile = true
+
+[[files]]
+file = "mods/clear-despawn-fabric.toml"
+hash = "b67dc30cc376b1318e0232972b0a4948c2b102247cdd63a83c07502a0711d572"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.toml"
+hash = "8360e6871954c6e91d729e9d1f68c06898dc199624719e0d3154b565b2a22908"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.toml"
+hash = "c30dabf3610c9184337049586db2f6f35b0948959a1d6881febba4c85b3e1b8d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+metafile = true
+
+[[files]]
+file = "mods/giselbaers-durability-viewer.toml"
+hash = "d9a81942556d58f89d8f92749404d39ec039184863e10c9e0b5dae94f3751f2e"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "865f2adc57260df8f53e9f3444bf918b7af79b093008533256c61a6fb05c75d4"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "a0b0d6b6e4d8ec2a80c60665ae6f4d2a7d0c3b7dbab75ef9f03dbf616a5b17cc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "65580017b27e0f38290448b991efffd2ebaeb23f1426afccf28cc1c9303e5f0d"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "3a45ada8bc17f62ff819428d7fcfc06d0dff6e9c74518b532957b38e959d5536"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "2e074ebc473b8c449bd68792887779c33157f2f1a380d3d1afa9951d98a2257b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+metafile = true
