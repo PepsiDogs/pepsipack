@@ -1,0 +1,17 @@
+name = "multiconnect"
+filename = "multiconnect-1.5.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/349/multiconnect-1.5.2.jar"
+hash-format = "murmur2"
+hash = "934977792"
+
+[update]
+[update.curseforge]
+file-id = 3544349
+project-id = 336018
+
+[option]
+optional = true
+description = "Support connecting to older Minecraft servers."
