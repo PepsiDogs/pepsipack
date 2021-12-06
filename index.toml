@@ -115,6 +115,11 @@ hash = "572fad0afe00e0a808ca378495cd61ab1662d6339083e8bccefe3bb9d859c09e"
 metafile = true
 
 [[files]]
+file = "mods/ledger.toml"
+hash = "1b3e4d1fec0adc5f0d259b37fe2f69ea06aca9b91db08ea4e5e78bd031c6e847"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.toml"
 hash = "6d2fd501b4d39d6142322bc1fdfd8f82fc19f8df691c0c31200a01baa2800530"
 metafile = true
