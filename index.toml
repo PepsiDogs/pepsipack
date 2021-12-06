@@ -100,6 +100,11 @@ hash = "3935c21a42cf8b8ba194ab2f5013d77eb2ec3f3a96d981c91bf553035c017025"
 metafile = true
 
 [[files]]
+file = "mods/krypton.toml"
+hash = "cf1fe24fe7b0484c83bd74cfb2d4320e2f472149545a4b2807f99dca2462a172"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "5b0c3f962edb7d15db9c1fa8be1d3ba1f27d761ba7bcdd9d7cc1f8fe5381ff02"
 metafile = true
