@@ -26,6 +26,11 @@ hash = "c6079512edb0aa9144d1485ae5112e0a5742659faef0d0d1ab2674661c255d4f"
 metafile = true
 
 [[files]]
+file = "mods/carpet.toml"
+hash = "a52ad65583a9a012dbe041abf0ec1c6680d9525b78dd38550263191743d7837d"
+metafile = true
+
+[[files]]
 file = "mods/clear-despawn-fabric.toml"
 hash = "920e5e99e75e9d3dd52fed0090d4b86cbfe4d60d1d4980ad25772d903a16b30f"
 metafile = true
