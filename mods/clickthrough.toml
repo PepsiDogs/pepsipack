@@ -2,11 +2,6 @@ name = "ClickThrough"
 filename = "clickthrough-1.18-fabric0.43.1-0.4.jar"
 side = "client"
 
-[option]
-default = true
-description = "Allows click-through on chests with frames/signs, crouch to override."
-optional = true
-
 [download]
 url = "https://edge.forgecdn.net/files/3543/425/clickthrough-1.18-fabric0.43.1-0.4.jar"
 hash-format = "murmur2"
@@ -16,3 +11,8 @@ hash = "2439114021"
 [update.curseforge]
 file-id = 3543425
 project-id = 405262
+
+[option]
+optional = true
+description = "Allows click-through on chests with frames/signs, crouch to override."
+default = true

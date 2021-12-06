@@ -2,11 +2,6 @@ name = "Cloth Config API (Fabric)"
 filename = "cloth-config-6.0.45-fabric.jar"
 side = "client"
 
-[option]
-default = true
-description = "Config Screen API."
-optional = false
-
 [download]
 url = "https://edge.forgecdn.net/files/3546/622/cloth-config-6.0.45-fabric.jar"
 hash-format = "murmur2"
@@ -16,3 +11,6 @@ hash = "4158055047"
 [update.curseforge]
 file-id = 3546622
 project-id = 319057
+
+[option]
+description = "Config Screen API."

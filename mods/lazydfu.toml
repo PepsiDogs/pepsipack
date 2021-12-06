@@ -2,11 +2,6 @@ name = "LazyDFU"
 filename = "lazydfu-0.1.2.jar"
 side = "both"
 
-[option]
-default = true
-description = "Lazy-loads the DataFixerUpper."
-optional = false
-
 [download]
 url = "https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar"
 hash-format = "murmur2"
@@ -16,3 +11,6 @@ hash = "2594861637"
 [update.curseforge]
 file-id = 3209972
 project-id = 433518
+
+[option]
+description = "Lazy-loads the DataFixerUpper."

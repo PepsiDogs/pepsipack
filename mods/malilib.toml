@@ -2,11 +2,6 @@ name = "MaLiLib"
 filename = "malilib-fabric-1.18.0-0.10.0-dev.26.jar"
 side = "client"
 
-[option]
-default = true
-description = "Library for masa's client-side mods."
-optional = false
-
 [download]
 url = "https://edge.forgecdn.net/files/3544/210/malilib-fabric-1.18.0-0.10.0-dev.26.jar"
 hash-format = "murmur2"
@@ -16,3 +11,6 @@ hash = "4277400873"
 [update.curseforge]
 file-id = 3544210
 project-id = 303119
+
+[option]
+description = "Library for masa's client-side mods."

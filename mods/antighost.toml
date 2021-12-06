@@ -2,11 +2,6 @@ name = "AntiGhost"
 filename = "antighost-1.18-fabric0.43.1-1.1.4.jar"
 side = "client"
 
-[option]
-default = false
-description = "Install if internet shit. Press G to refresh block info."
-optional = true
-
 [download]
 url = "https://edge.forgecdn.net/files/3543/423/antighost-1.18-fabric0.43.1-1.1.4.jar"
 hash-format = "murmur2"
@@ -16,3 +11,7 @@ hash = "3690634280"
 [update.curseforge]
 file-id = 3543423
 project-id = 273279
+
+[option]
+optional = true
+description = "Install if internet shit. Press G to refresh block info."

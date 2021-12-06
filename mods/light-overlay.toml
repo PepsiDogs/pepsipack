@@ -1,18 +1,17 @@
 name = "Light Overlay (Rift/Forge/Fabric)"
-filename = "light-overlay-6.0.3.jar"
+filename = "light-overlay-6.0.4.jar"
 side = "client"
 
-[option]
-default = false
-description = "Press F7 to see light levels."
-optional = true
-
 [download]
-url = "https://edge.forgecdn.net/files/3537/957/light-overlay-6.0.3.jar"
+url = "https://edge.forgecdn.net/files/3552/777/light-overlay-6.0.4.jar"
 hash-format = "murmur2"
-hash = "4059434163"
+hash = "3043555689"
 
 [update]
 [update.curseforge]
-file-id = 3537957
+file-id = 3552777
 project-id = 325492
+
+[option]
+optional = true
+description = "Press F7 to see light levels."

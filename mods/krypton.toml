@@ -2,11 +2,6 @@ name = "Krypton"
 filename = "krypton-0.1.5.jar"
 side = "both"
 
-[option]
-default = true
-description = "Optomizes the Minecraft networking stack."
-optional = false
-
 [download]
 url = "https://edge.forgecdn.net/files/3542/839/krypton-0.1.5.jar"
 hash-format = "murmur2"
@@ -16,3 +11,6 @@ hash = "2122985240"
 [update.curseforge]
 file-id = 3542839
 project-id = 428912
+
+[option]
+description = "Optimizes the Minecraft networking stack."
