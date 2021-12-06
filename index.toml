@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "7398b5f76d5ece5a8a2557493f58dc47bc2ae42754ecfce72b3195e97a7582a8"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "e5ae5c6c3c4c4d4b6f6622ee00b938d68c422fa89f62136aab575a80e02484c1"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "1118892c2a556f256eca513b8d27553b196ea8e3d7544019f13bf31e0da80fb1"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "456715f25b4f4894eabec873a91cc48cca01c080ae4f89504271cddfbe07cc2b"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "1d446bfe40368406c8d8ac9191281b93f180aa4e52dc5221ce2323b15e11cbc4"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "4610ea28de0790b18ed64c2c2f5090f789e9be8cfa8dc0f727c6ddb90baadd8c"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "625cbfd9e60852105029011498ebd261a4be557be10bcb4eac3e01a81e259266"
 metafile = true
