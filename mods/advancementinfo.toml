@@ -1,6 +1,11 @@
 name = "AdvancementInfo"
 filename = "advancementinfo-1.18-fabric0.43.1-1.3.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "More info on advancement requirements, etc."
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3543/420/advancementinfo-1.18-fabric0.43.1-1.3.jar"

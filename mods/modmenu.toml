@@ -1,6 +1,11 @@
 name = "Mod Menu"
 filename = "modmenu-3.0.0.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Adds a screen for viewing a list of installed mods."
+optional = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3479/754/modmenu-3.0.0.jar"

@@ -1,6 +1,11 @@
 name = "EasierVillagerTrading"
 filename = "easiervillagertrading-1.18-fabric0.43.1-1.5.4.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Villager trades are insta-click."
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3543/431/easiervillagertrading-1.18-fabric0.43.1-1.5.4.jar"

@@ -1,6 +1,11 @@
 name = "Iris Shaders"
 filename = "iris-mc1.18-1.1.3.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Optifine shader support for Sodium."
+optional = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3542/382/iris-mc1.18-1.1.3.jar"

@@ -2,6 +2,11 @@ name = "Lithium"
 filename = "lithium-fabric-mc1.18-0.7.6-rc1.jar"
 side = "both"
 
+[option]
+default = true
+description = "General-purpose optimization mod."
+optional = false
+
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar"
 hash-format = "sha512"

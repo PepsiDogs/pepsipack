@@ -2,85 +2,125 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
+hash = "625cbfd9e60852105029011498ebd261a4be557be10bcb4eac3e01a81e259266"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "ffd62d5971fb0a147671a271a0600a1210b01597fbafe809701c010b994c0fae"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+hash = "65a5c943c98b053ffd405c23a4116047d0296d6df58de702363177170f220a9c"
 metafile = true
 
 [[files]]
 file = "mods/beenfo.toml"
-hash = "b608fcfa11830d6e4f4228cc657b7d18b19c7e2964f18f6e8dca0a0471ff28d1"
+hash = "78d36a4d33eb32fe30a90639a6bbec7201ef21b1cdbf80cda5a5aa689eeae0f3"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.toml"
+hash = "c6079512edb0aa9144d1485ae5112e0a5742659faef0d0d1ab2674661c255d4f"
 metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
-hash = "b67dc30cc376b1318e0232972b0a4948c2b102247cdd63a83c07502a0711d572"
+hash = "920e5e99e75e9d3dd52fed0090d4b86cbfe4d60d1d4980ad25772d903a16b30f"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough.toml"
-hash = "8360e6871954c6e91d729e9d1f68c06898dc199624719e0d3154b565b2a22908"
+hash = "1a457c2865ef4bd7b83193130ea5304d8932b0e192c83d6a4d95af5b52482a97"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
+hash = "cd160386e2a260f13c5340a31963695765a02c7856671d84f2488cf3a0f31c96"
 metafile = true
 
 [[files]]
 file = "mods/easiervillagertrading.toml"
-hash = "c30dabf3610c9184337049586db2f6f35b0948959a1d6881febba4c85b3e1b8d"
+hash = "436fdecca539b2186d25196474513a1f20965a202f0416fc04639568c347395b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+hash = "48f33082be152ff5092c868bb10697a1cae5c56baa5afee9808d40d18c6b3bc2"
 metafile = true
 
 [[files]]
 file = "mods/giselbaers-durability-viewer.toml"
-hash = "d9a81942556d58f89d8f92749404d39ec039184863e10c9e0b5dae94f3751f2e"
+hash = "e4e9f34fcfd95fc4b04fa6b4c64bcd9aed63737ec169507daeabc912cc2f0d6c"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "1b390ca33f84aad461f495e2322588343e17327f40b072ff3f31ddf8603b4308"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "865f2adc57260df8f53e9f3444bf918b7af79b093008533256c61a6fb05c75d4"
+hash = "b1a4d84c0f74625b4513a159371a39707cf380727191a11f169b6bfccbe4d4b0"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.toml"
+hash = "3935c21a42cf8b8ba194ab2f5013d77eb2ec3f3a96d981c91bf553035c017025"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "5b0c3f962edb7d15db9c1fa8be1d3ba1f27d761ba7bcdd9d7cc1f8fe5381ff02"
 metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
+hash = "1dbf0873bd26f765c746e0d9fb92054c4a04c3ca784f8f31b57d82f5ba5fb06a"
+metafile = true
+
+[[files]]
+file = "mods/litematica.toml"
+hash = "81b7c3dc7054d00f5fae866341b67a58162fb2507b882119b9479aaab9aa0624"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
+hash = "ca1e51649d56ceb7975f2cb065ee5148d6e3fde4c2d8076228125393c6c94a77"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "a0b0d6b6e4d8ec2a80c60665ae6f4d2a7d0c3b7dbab75ef9f03dbf616a5b17cc"
+hash = "bb8dd8a6bb4b92551d21aa9b7e669bdd1073b9ddb14a11e57c4547f8111b3d64"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "65580017b27e0f38290448b991efffd2ebaeb23f1426afccf28cc1c9303e5f0d"
+hash = "eba3774707a47da2149b13696e51ca202c0c574197e8204866ad1bbfc49ba2d8"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "3a45ada8bc17f62ff819428d7fcfc06d0dff6e9c74518b532957b38e959d5536"
+hash = "82d6ed8e9e2c0d738284c963c6202a4310bd9f4fbb1e9332b869aba4e5d90af2"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "2e074ebc473b8c449bd68792887779c33157f2f1a380d3d1afa9951d98a2257b"
+hash = "1620df0ade8d387a1f035c363c972252f03cbf91e793c1cc945dfdc5037f96fe"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "543fd3e33a92354593d1bc50e80c9133275a8c392084769c20712688466620fe"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+hash = "64f373a683910377e129716ff990baa7381b289a46015bd24702c3ad273ffcd4"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "17a5953574a0952a699f46f4ca30e318d13f20c685f560c8ed6051fee53848ca"
 metafile = true

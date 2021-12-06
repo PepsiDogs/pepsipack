@@ -1,6 +1,11 @@
 name = "Giselbaer's Durability Viewer"
 filename = "durabilityviewer-1.18-fabric0.43.1-1.10.2.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Tool Durability Viewer. Sound config fixed btw!"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3543/427/durabilityviewer-1.18-fabric0.43.1-1.10.2.jar"

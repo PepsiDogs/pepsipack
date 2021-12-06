@@ -2,6 +2,11 @@ name = "Beenfo"
 filename = "beenfo-1.18-fabric0.43.1-1.3.3.jar"
 side = "both"
 
+[option]
+default = true
+description = "Adds honey and bee level information to hives."
+optional = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3543/422/beenfo-1.18-fabric0.43.1-1.3.3.jar"
 hash-format = "murmur2"

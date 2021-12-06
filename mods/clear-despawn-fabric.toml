@@ -1,6 +1,11 @@
 name = "Clear Despawn (Fabric)"
 filename = "ClearDespawn-1.18-rc4-1.1.5.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Makes dropped items flash when they're about to de-spawn."
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3541/409/ClearDespawn-1.18-rc4-1.1.5.jar"

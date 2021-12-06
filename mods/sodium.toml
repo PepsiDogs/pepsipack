@@ -1,6 +1,11 @@
 name = "Sodium"
 filename = "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Rendering engine replacement."
+optional = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3542/74/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"

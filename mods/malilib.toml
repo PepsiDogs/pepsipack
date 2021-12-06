@@ -1,6 +1,11 @@
 name = "MaLiLib"
 filename = "malilib-fabric-1.18.0-0.10.0-dev.26.jar"
-side = "both"
+side = "client"
+
+[option]
+default = true
+description = "Library for masa's client-side mods."
+optional = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3544/210/malilib-fabric-1.18.0-0.10.0-dev.26.jar"

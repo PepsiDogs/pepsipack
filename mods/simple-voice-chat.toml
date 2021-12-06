@@ -2,6 +2,11 @@ name = "Simple Voice Chat"
 filename = "voicechat-fabric-1.18-2.1.21.jar"
 side = "both"
 
+[option]
+default = true
+description = "In-game proximity voice chat."
+optional = false
+
 [download]
 url = "https://edge.forgecdn.net/files/3551/416/voicechat-fabric-1.18-2.1.21.jar"
 hash-format = "murmur2"
