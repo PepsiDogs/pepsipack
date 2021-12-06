@@ -106,6 +106,11 @@ hash = "eba3774707a47da2149b13696e51ca202c0c574197e8204866ad1bbfc49ba2d8"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "7daa16600cad43e69d3d1bd1bb1800d812b6bd19f990972bce6b9a629346b1bd"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.toml"
 hash = "82d6ed8e9e2c0d738284c963c6202a4310bd9f4fbb1e9332b869aba4e5d90af2"
 metafile = true
