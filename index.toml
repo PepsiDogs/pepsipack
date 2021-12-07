@@ -50,6 +50,11 @@ hash = "1952a546f2d7aa98244a10b3ce711173e0a1bc5ff4ea5150aef0e05f501a9430"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.toml"
+hash = "fb41a66cbca7f3956bf087b046b3116333e219d1ece95604b8bad420087a089c"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "4ac79a26379b12276722a4c03b8ac802d7eb868c5c475499ea3f1508bb3e7761"
 metafile = true
