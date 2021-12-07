@@ -1,6 +1,6 @@
 name = "Pepsi Dogs"
 author = "Dan Porter"
-version = "2.7.0"
+version = "2.8.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
