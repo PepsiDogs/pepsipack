@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "8068f7862aab882f79683e8cb83f83ab84b428b8ba48d0c868e4163336f2d0bd"
+hash = "1952a546f2d7aa98244a10b3ce711173e0a1bc5ff4ea5150aef0e05f501a9430"
 metafile = true
 
 [[files]]

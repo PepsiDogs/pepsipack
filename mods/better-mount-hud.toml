@@ -15,3 +15,4 @@ project-id = 475358
 [option]
 optional = true
 description = "Improves mount HUD, adding your hunger and restoring XP bar when not jumping."
+default = true
