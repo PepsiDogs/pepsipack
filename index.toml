@@ -155,6 +155,11 @@ hash = "d1364aed1b020e4549d24f7fc80efd8c7d57fb82790d28f07588d2d426fdde0b"
 metafile = true
 
 [[files]]
+file = "mods/no-fade.toml"
+hash = "e6a9ab1c886a43f0bc5483eada9e7831855e09624dab95971fc94c618d66cb70"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "2ce10572491b6a61611f244f12b11111830bb8169028864ead9a760df13550bb"
 metafile = true
