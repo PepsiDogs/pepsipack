@@ -90,6 +90,11 @@ hash = "1645665064bdd2375f51f37cca0f3e863ee95a6c666622b9458f0b2d70ffe5e3"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.toml"
+hash = "68dd3bb439bde328b8b2685b509e0a6cd4d22a0d7e095867ccaa2c637de41efd"
+metafile = true
+
+[[files]]
 file = "mods/giselbaers-durability-viewer.toml"
 hash = "ca678a7371113d56240d65ae4e3f29eec39fed96740757b73002527ac77d2f49"
 metafile = true
