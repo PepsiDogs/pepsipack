@@ -190,6 +190,11 @@ hash = "c02ea32cd2bc35488379d238a67a753d481bc66cb03040dab5b77320e5bfb24e"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "4a5bc7ea0ba0c3aa4665533512510a8329a0da925dc8009f1f8c4f87a991c00c"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "cce86aabdc33a734154245447e2a7dfab98c107a56032668ff6c6f12cc320ab0"
 metafile = true
