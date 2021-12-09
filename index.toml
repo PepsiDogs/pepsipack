@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "1952a546f2d7aa98244a10b3ce711173e0a1bc5ff4ea5150aef0e05f501a9430"
+hash = "fa6a1bbc7bee82bd27e9c5d3c6efd179979c43f797cb391d239e4c4fd1ca5d5e"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "d1364aed1b020e4549d24f7fc80efd8c7d57fb82790d28f07588d2d426fdde0b"
+hash = "3d4651d3a856419a0171e821a9248666693b64d692c9632c0e4481d1c190b400"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "e455ec19df8342fbb14d911d1e01df7ca370569a1caceb0f753c6a417c30629f"
+hash = "f42849325e8818e2bac9037031bfdbc217d493d152da1c224267786af615859b"
 metafile = true
 
 [[files]]
