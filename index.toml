@@ -5,6 +5,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "7398b5f76d5ece5a8a2557493f58dc47bc2ae42754ecfce72b3195e97a7582a8"
 
 [[files]]
+file = "config/yosbr/config/lightoverlay.properties"
+hash = "abf58281143da59bed1d9e8f1a349a7e89a2de6d09437b492f164ace7fc6dd70"
+
+[[files]]
 file = "config/yosbr/config/replaymod.json"
 hash = "e5ae5c6c3c4c4d4b6f6622ee00b938d68c422fa89f62136aab575a80e02484c1"
 
