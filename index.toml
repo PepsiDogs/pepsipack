@@ -79,6 +79,11 @@ hash = "f94f780428a32dae04adf791961125ed6697309af1bf22d6d65bc3b9408a78ef"
 metafile = true
 
 [[files]]
+file = "mods/damage-tilt.toml"
+hash = "6084cda19ce53f030b6e3c77f82700d470190715b2a8fba4ed8abaefff52161c"
+metafile = true
+
+[[files]]
 file = "mods/easiervillagertrading.toml"
 hash = "5c5c678796a4a4b3a552b709daa2d4926c4019d022487db537fb76e47c9b48b3"
 metafile = true
