@@ -99,11 +99,6 @@ hash = "1645665064bdd2375f51f37cca0f3e863ee95a6c666622b9458f0b2d70ffe5e3"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.toml"
-hash = "68dd3bb439bde328b8b2685b509e0a6cd4d22a0d7e095867ccaa2c637de41efd"
-metafile = true
-
-[[files]]
 file = "mods/giselbaers-durability-viewer.toml"
 hash = "ca678a7371113d56240d65ae4e3f29eec39fed96740757b73002527ac77d2f49"
 metafile = true
@@ -125,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "c2824c61610d07f7b6d29173b6baac598921dc3b68c516e052975bb80a91650f"
+hash = "105f5b98af4bbb4c41141b58ce47ee4a753414fd3554289fa7ba165055a2fd93"
 metafile = true
 
 [[files]]
@@ -150,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "c68aeaaa65101e29e15d3078e1a7a6b65c2b930375bf36adc24edf3982f38cc5"
+hash = "a73595b87ead9a31e00888c55821f8c44ae79c53b9c924a32c20d46c6220632d"
 metafile = true
 
 [[files]]
@@ -165,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "3d4651d3a856419a0171e821a9248666693b64d692c9632c0e4481d1c190b400"
+hash = "7a775864e49bcc37263d2d407664b4dbd329160842c11996f5a4d2b3dd9d567b"
 metafile = true
 
 [[files]]
@@ -180,12 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "adc1385574018e856a6948271ba26ee997d70789ca14b5ba639cc1fdaa4c8bc5"
+hash = "3950b007bc01c5105935201ea0cc0767cb0e178c5bb7f741bf642096d1145047"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "f42849325e8818e2bac9037031bfdbc217d493d152da1c224267786af615859b"
+hash = "6ab8ddd20abd699337ad029f457b9545fa1859e44fb7de4620fc32129be720c9"
 metafile = true
 
 [[files]]
@@ -200,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "c02ea32cd2bc35488379d238a67a753d481bc66cb03040dab5b77320e5bfb24e"
+hash = "031dc66196974b7d30348ac8da76e4418e8c7cb30e5003f06e8998ad5709aac7"
 metafile = true
 
 [[files]]
