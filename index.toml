@@ -164,11 +164,6 @@ hash = "7a775864e49bcc37263d2d407664b4dbd329160842c11996f5a4d2b3dd9d567b"
 metafile = true
 
 [[files]]
-file = "mods/no-fade.toml"
-hash = "e6a9ab1c886a43f0bc5483eada9e7831855e09624dab95971fc94c618d66cb70"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "2ce10572491b6a61611f244f12b11111830bb8169028864ead9a760df13550bb"
 metafile = true
@@ -181,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "6ab8ddd20abd699337ad029f457b9545fa1859e44fb7de4620fc32129be720c9"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot.toml"
-hash = "fa707bebbc80ac73efa443aabeb284e5a578140bcf2137a888fca1cdda7d4ef5"
 metafile = true
 
 [[files]]
