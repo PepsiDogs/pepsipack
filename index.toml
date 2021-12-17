@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "7398b5f76d5ece5a8a2557493f58dc47bc2ae42754ecfce72b3195e97a7582a8"
 
