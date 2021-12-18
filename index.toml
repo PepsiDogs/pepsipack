@@ -26,7 +26,7 @@ hash = "456715f25b4f4894eabec873a91cc48cca01c080ae4f89504271cddfbe07cc2b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1d446bfe40368406c8d8ac9191281b93f180aa4e52dc5221ce2323b15e11cbc4"
+hash = "10c02513974f7dc93513e32299488b6b86570ed1096a6e21f6f664f0432c9906"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -201,3 +201,19 @@ metafile = true
 file = "mods/yosbr.toml"
 hash = "cce86aabdc33a734154245447e2a7dfab98c107a56032668ff6c6f12cc320ab0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_post_ends.json"
+hash = "f2546026b66a7d255798babcb3d49dcb457bb4147b85f78597e4a4191b00b305"
+
+[[files]]
+file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_side.json"
+hash = "97ae730d63d5352a55121db77454785b5d7e091071e7e6e4725087edc3d7c4f0"
+
+[[files]]
+file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_side_alt.json"
+hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
+
+[[files]]
+file = "resourcepacks/PepsiDogs/pack.mcmeta"
+hash = "cf6e3814689776cc27cb465fda2da84ebd034ca5ba2d178613c12cf8e11e402a"

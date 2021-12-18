@@ -8,7 +8,7 @@ renderDistance:32
 simulationDistance:12
 guiScale:2
 maxFps:260
-resourcePacks:["vanilla","Fabric Mods"]
+resourcePacks:["vanilla","Fabric Mods","file/PepsiDogs"]
 lang:en_gb
 rawMouseInput:true
 skipMultiplayerWarning:true
