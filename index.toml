@@ -215,5 +215,9 @@ file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_side_alt
 hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
 
 [[files]]
+file = "resourcepacks/PepsiDogs/assets/minecraft/textures/misc/pumpkinblur.png"
+hash = "e8b5883fd73c262761e06da0e8a61bd2be61b07fc7e69fda8ea53953201df8db"
+
+[[files]]
 file = "resourcepacks/PepsiDogs/pack.mcmeta"
 hash = "cf6e3814689776cc27cb465fda2da84ebd034ca5ba2d178613c12cf8e11e402a"
