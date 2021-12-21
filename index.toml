@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "7a775864e49bcc37263d2d407664b4dbd329160842c11996f5a4d2b3dd9d567b"
+hash = "eda51dab4bd1cf6bf5d1cf954eedd99dc5ca98f532fd82878d56c92026ec74fa"
 metafile = true
 
 [[files]]
