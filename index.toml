@@ -93,6 +93,11 @@ hash = "5c5c678796a4a4b3a552b709daa2d4926c4019d022487db537fb76e47c9b48b3"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "1c6f792727f14c779fd912b075f185a5c01019d2829687fc1d6ad1a0ab820a4d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "a2e4bbf02561166fed644089771e416c62b9d12493aae66ebceb77afed8704f7"
 metafile = true
