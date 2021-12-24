@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "8e6c507d89ab0a9a1c04013f749d9bdaed63d8a082beba554461fa8657bda61d"
+hash = "9d954c3161ad7fe41f1b57d112107b049f96e902da564dd81584837aea797090"
 metafile = true
 
 [[files]]
@@ -94,12 +94,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.toml"
-hash = "1c6f792727f14c779fd912b075f185a5c01019d2829687fc1d6ad1a0ab820a4d"
+hash = "c5ae1d7d40600f82cbfdd071004de38925a9f95ae5fe53ca088170634467b306"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "a2e4bbf02561166fed644089771e416c62b9d12493aae66ebceb77afed8704f7"
+hash = "723b7619391ea5fe968be6b4fc67a7e1f87173282240ce515bdaf4b64df15fd5"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "2ce10572491b6a61611f244f12b11111830bb8169028864ead9a760df13550bb"
+hash = "bfc4613fc946a5493fe748fa5642a9ac59122bfb9abff3be137d85f48f513397"
 metafile = true
 
 [[files]]
