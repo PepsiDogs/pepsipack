@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9d954c3161ad7fe41f1b57d112107b049f96e902da564dd81584837aea797090"
+hash = "2201b11ee8e8a9f9034a3bfea92532f3d794e8ee00111ade1f2d9cbe318f3c8c"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.toml"
-hash = "fb41a66cbca7f3956bf087b046b3116333e219d1ece95604b8bad420087a089c"
+hash = "7c44b6585e460e53c03c2ea22247cb85c74125dd467e41d78d9605f38cd16f8f"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.toml"
-hash = "c5ae1d7d40600f82cbfdd071004de38925a9f95ae5fe53ca088170634467b306"
+hash = "abb78b11b368c2395d8230f3307dc0caa28518272299ec1bca4e84b35d88e06d"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "fbb38ff568b3490bdc8fc1685fb0bd5806ee4d0ae7f7a5496c8437301f76153e"
+hash = "45f3b98f52d9fc94f456ed6ec08e79c3ceaa0e0b51a5f5d37d8740861d31b62e"
 metafile = true
 
 [[files]]

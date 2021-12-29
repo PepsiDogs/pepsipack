@@ -1,15 +1,15 @@
 name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-Fabric-1.18.1-9.0.4.jar"
+filename = "EnchantmentDescriptions-Fabric-1.18.1-9.0.5.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3576/548/EnchantmentDescriptions-Fabric-1.18.1-9.0.4.jar"
+url = "https://edge.forgecdn.net/files/3582/625/EnchantmentDescriptions-Fabric-1.18.1-9.0.5.jar"
 hash-format = "murmur2"
-hash = "774274084"
+hash = "4131898747"
 
 [update]
 [update.curseforge]
-file-id = 3576548
+file-id = 3582625
 project-id = 250419
 
 [option]
