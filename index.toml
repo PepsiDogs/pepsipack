@@ -183,6 +183,11 @@ hash = "bfc4613fc946a5493fe748fa5642a9ac59122bfb9abff3be137d85f48f513397"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.toml"
+hash = "f70ba8318c41cb0ccf189e7bf4c991809aa526d1b1bb76a94dc7b3c6055e0202"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "18e92a7f50487e9f81d45327a43d1df85e86d584ea0930d20b85ef8900b51a1c"
 metafile = true
