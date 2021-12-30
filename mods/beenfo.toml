@@ -1,15 +1,15 @@
 name = "Beenfo"
-filename = "beenfo-1.18-fabric0.43.1-1.3.3.jar"
+filename = "beenfo-1.18.1-fabric0.45.0-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/422/beenfo-1.18-fabric0.43.1-1.3.3.jar"
+url = "https://edge.forgecdn.net/files/3585/804/beenfo-1.18.1-fabric0.45.0-1.3.3.jar"
 hash-format = "murmur2"
-hash = "4042376739"
+hash = "2188195238"
 
 [update]
 [update.curseforge]
-file-id = 3543422
+file-id = 3585804
 project-id = 357256
 
 [option]
