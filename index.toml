@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2201b11ee8e8a9f9034a3bfea92532f3d794e8ee00111ade1f2d9cbe318f3c8c"
+hash = "bb04448f540cb2be08cd65dcc3c5106c20531295df825fdb041499d49f4113a9"
 metafile = true
 
 [[files]]
