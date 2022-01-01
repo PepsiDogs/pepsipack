@@ -208,6 +208,11 @@ hash = "4a5bc7ea0ba0c3aa4665533512510a8329a0da925dc8009f1f8c4f87a991c00c"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.toml"
+hash = "0c956d3e30729951dd78dabac6021d0b2ed23c2820e8def091aade61db7352b5"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "cce86aabdc33a734154245447e2a7dfab98c107a56032668ff6c6f12cc320ab0"
 metafile = true
