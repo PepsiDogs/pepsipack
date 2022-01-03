@@ -173,11 +173,6 @@ hash = "0c278726c5ae9359b1cc18c3f8e4e652f12116304892a39df3594383b76996c3"
 metafile = true
 
 [[files]]
-file = "mods/multiconnect.toml"
-hash = "eda51dab4bd1cf6bf5d1cf954eedd99dc5ca98f532fd82878d56c92026ec74fa"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "bfc4613fc946a5493fe748fa5642a9ac59122bfb9abff3be137d85f48f513397"
 metafile = true
