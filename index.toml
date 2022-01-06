@@ -841,6 +841,34 @@ file = "config/openloader/data/wandering trades v1.5.1/pack.png"
 hash = "8f455e3b99134ed8d2c2992019a1ac5824017741524f3386c8c5056a8ed3c057"
 
 [[files]]
+file = "config/openloader/resources/VanillaTweaks/Selected Packs.txt"
+hash = "ebdbf1e5513f5ebbb62b60c85fe59be5b7a1345b8777d8f4a1cf744558b2b35c"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks/assets/minecraft/models/block/iron_bars_post_ends.json"
+hash = "f2546026b66a7d255798babcb3d49dcb457bb4147b85f78597e4a4191b00b305"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks/assets/minecraft/models/block/iron_bars_side.json"
+hash = "97ae730d63d5352a55121db77454785b5d7e091071e7e6e4725087edc3d7c4f0"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks/assets/minecraft/models/block/iron_bars_side_alt.json"
+hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks/assets/minecraft/textures/misc/pumpkinblur.png"
+hash = "e8b5883fd73c262761e06da0e8a61bd2be61b07fc7e69fda8ea53953201df8db"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks/pack.mcmeta"
+hash = "07eb2ec104ba731e34ef193f48f34242023ef7477384fcdaf9b271528180d9dd"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "17947402d29037bcf8fef4a2d5a2fdf8e831eef9681bb908cdce3dff9a34e604"
 
@@ -866,7 +894,7 @@ hash = "456715f25b4f4894eabec873a91cc48cca01c080ae4f89504271cddfbe07cc2b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cf9997ca1097de306bc7ef2f68b67bba1214ea699efe90bfdfe774facd9ae499"
+hash = "753b445fb9ac3da97e94188cd6122c603015cb18b5b759b4be675c3d23807ae2"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -1061,23 +1089,3 @@ metafile = true
 file = "mods/yosbr.toml"
 hash = "cce86aabdc33a734154245447e2a7dfab98c107a56032668ff6c6f12cc320ab0"
 metafile = true
-
-[[files]]
-file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_post_ends.json"
-hash = "f2546026b66a7d255798babcb3d49dcb457bb4147b85f78597e4a4191b00b305"
-
-[[files]]
-file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_side.json"
-hash = "97ae730d63d5352a55121db77454785b5d7e091071e7e6e4725087edc3d7c4f0"
-
-[[files]]
-file = "resourcepacks/PepsiDogs/assets/minecraft/models/block/iron_bars_side_alt.json"
-hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
-
-[[files]]
-file = "resourcepacks/PepsiDogs/assets/minecraft/textures/misc/pumpkinblur.png"
-hash = "e8b5883fd73c262761e06da0e8a61bd2be61b07fc7e69fda8ea53953201df8db"
-
-[[files]]
-file = "resourcepacks/PepsiDogs/pack.mcmeta"
-hash = "cf6e3814689776cc27cb465fda2da84ebd034ca5ba2d178613c12cf8e11e402a"
