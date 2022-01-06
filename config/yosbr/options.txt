@@ -1,4 +1,4 @@
-version:2860
+version:2865
 autoJump:false
 darkMojangStudiosBackground:true
 gamma:0.5
@@ -11,6 +11,7 @@ maxFps:260
 resourcePacks:["vanilla","Fabric Mods","file/PepsiDogs"]
 lang:en_gb
 rawMouseInput:true
+tutorialStep:none
 skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true

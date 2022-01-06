@@ -6,15 +6,19 @@ hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "7398b5f76d5ece5a8a2557493f58dc47bc2ae42754ecfce72b3195e97a7582a8"
+hash = "17947402d29037bcf8fef4a2d5a2fdf8e831eef9681bb908cdce3dff9a34e604"
 
 [[files]]
 file = "config/yosbr/config/lightoverlay.properties"
 hash = "abf58281143da59bed1d9e8f1a349a7e89a2de6d09437b492f164ace7fc6dd70"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "3ba79c41f6b457caafe5590ebc24b71f1cc65c3424c57fd8723eb41da61efda9"
+
+[[files]]
 file = "config/yosbr/config/replaymod.json"
-hash = "e5ae5c6c3c4c4d4b6f6622ee00b938d68c422fa89f62136aab575a80e02484c1"
+hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -26,7 +30,7 @@ hash = "456715f25b4f4894eabec873a91cc48cca01c080ae4f89504271cddfbe07cc2b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "10c02513974f7dc93513e32299488b6b86570ed1096a6e21f6f664f0432c9906"
+hash = "cf9997ca1097de306bc7ef2f68b67bba1214ea699efe90bfdfe774facd9ae499"
 
 [[files]]
 file = "config/yosbr/servers.dat"
