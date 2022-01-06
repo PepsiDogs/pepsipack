@@ -869,6 +869,10 @@ file = "config/openloader/resources/VanillaTweaks/pack.png"
 hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "0934bccd3130c5a426a258a729ca7ab71a2646f8968a3974939fe59faed88382"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "17947402d29037bcf8fef4a2d5a2fdf8e831eef9681bb908cdce3dff9a34e604"
 
