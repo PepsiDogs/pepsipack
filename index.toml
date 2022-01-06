@@ -30,7 +30,7 @@ hash = "10c02513974f7dc93513e32299488b6b86570ed1096a6e21f6f664f0432c9906"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "4610ea28de0790b18ed64c2c2f5090f789e9be8cfa8dc0f727c6ddb90baadd8c"
+hash = "0675cf11824383e2504cd7c707484a4cb7f60247ed802089f88d4b677af3c696"
 
 [[files]]
 file = "mods/advancementinfo.toml"
