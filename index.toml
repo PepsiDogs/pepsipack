@@ -930,6 +930,11 @@ hash = "fa6a1bbc7bee82bd27e9c5d3c6efd179979c43f797cb391d239e4c4fd1ca5d5e"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.toml"
+hash = "6caa90ec195f3b86f0b0a7ee738fce0f4b1190894d438a6886aa6cc77a7830d1"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.toml"
 hash = "7c44b6585e460e53c03c2ea22247cb85c74125dd467e41d78d9605f38cd16f8f"
 metafile = true
