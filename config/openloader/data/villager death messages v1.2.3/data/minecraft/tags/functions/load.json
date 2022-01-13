@@ -1,0 +1,6 @@
+{
+	"values": [
+		"villager_death:load",
+		"villager_death:tick"
+	]
+}
