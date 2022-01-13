@@ -533,6 +533,734 @@ file = "config/openloader/data/item-frame-v3/pack.mcmeta"
 hash = "fc787e03032bfb12c105c3bbb2d60a4d3233d49c33fa6de06335593399d87581"
 
 [[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/axolotl.json"
+hash = "cf8c936f54438e183a579c0fe3f69997f0344f315caa273a4752b56dca105515"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/bat.json"
+hash = "5e7bf3356371e806793b91ba2ff8de5f88237a98270fa9af64d4324af9511de5"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/bee.json"
+hash = "54e61882ff2330e61730f0c6b8245f2a6921ea325d876ed9d51755cbbbedef93"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/blaze.json"
+hash = "0f8805244a541c05c44baf8403687bc5b072ac7528a8f6bea4658e8f2fe4c3b0"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/cat.json"
+hash = "2367e3ffad877ae56ac8b5be9e7cfd39c01d94574d330fe2c6c8de5ece22d30b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/cave_spider.json"
+hash = "189f57e2572cd90b2e8f313f3459d10946e424dbd82a06320ae5d11a1db6e9ba"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/chicken.json"
+hash = "9168f1f30a2dc76a13964a964ffe55f2bef5bbae647ff61b98037205e13c79bf"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/cod.json"
+hash = "5913d100f0590aa946408f84c742c63b9ae9913aa99e360b1c34cb7619479e03"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/cow.json"
+hash = "58348e7f6484495f09b165875458561db40a78628b4fff74221bdf72b29d4dff"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/creeper.json"
+hash = "8ab1ad64529f7061d229ca05a2b4f790e13b12c412353175ec868cf0e57935e6"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/dolphin.json"
+hash = "e55c640cf3b1f393b7ab545820ea42722396eb228812fc5b1ed56d5304235f8a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/donkey.json"
+hash = "a22050139586e512c4796d8d5e184e8f8a019883d1e0e0efa4d48320cdde5216"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/drowned.json"
+hash = "8ebce4ec8ce1f74eeb0e0ddcb27d62dca8dd861e2a0ffd8634143a1f56fe0c8a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/elder_guardian.json"
+hash = "0d1af33b76eae28452ee6eb420db59065e4740fe2d0df2c0019132ca2d3500a2"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/ender_dragon.json"
+hash = "a716d95125b7eadbb46d69912003b317f81b5f701d82743fec9fe1bdb74413a4"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/enderman.json"
+hash = "e7ae9943ad89e0ef6d00b75b1421dd3037102c2e64989d0f84af6a9586f19c4c"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/endermite.json"
+hash = "e70e695c9e36064760f31cd2d7e72af9eb1c43080effefd183e1b538eee0f744"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/evoker.json"
+hash = "b2e8cd15a29886b16b5d052252712fa51b5f60fdd964698356726cd4a519f86a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/fox.json"
+hash = "ab5aad57be6b221a16b8160a62b0247d88d490fff545c00a6a3c1d699373e5ca"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/ghast.json"
+hash = "bcb870f52441642f9bacc69287b8f82ee5a98f4a5a8f93d51483616b56f2b3d2"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/glow_squid.json"
+hash = "05e4f75912a729ffe4c46dbca1867d4af3589f06005129c804aad2a7f896a94b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/goat.json"
+hash = "27e45d5e329595d05cf765c388d26adda2a8fa3bbe19dff22f1c74e21d6b72f1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/guardian.json"
+hash = "aa48e658c2c46e50e1fbfde6efc1177bc068d0a175763e41c41ac8931e3322de"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/hoglin.json"
+hash = "62ea6ae7dda43f4b9bb87cdb1a8566fbfbc759f02ab1015f5bd423534f718fcb"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/horse.json"
+hash = "42b5745bf65496858b499833f25de9af4d12f7e92d0b6d65a7a60f25acb8852a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/husk.json"
+hash = "3e8b4973b688acfea5904572718563a93a456a369faf6cc2712dc2488a9103f1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/illusioner.json"
+hash = "2dae97027d1334e96f9327d55de5fa2e88985dd7bc64bbd865ec57354eb60442"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/iron_golem.json"
+hash = "4b0f6df86b7c8877921c61e4c25842ab9c63d356d6117d7d7e28326ddef92397"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/llama.json"
+hash = "144f5e670d88447bd97c52c09a1cb11fc8d1cb4361fee885e5deeac3168b6003"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/magma_cube.json"
+hash = "e9e4de71c0415b06b4fd6c99d1a3a3e243ffa77b2dbbdc33e740cdbda84bcea8"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/mooshroom.json"
+hash = "1ac3296ca5687cff3a34b53c5694d7fba791e3976372460146ee7f827a567acd"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/mule.json"
+hash = "c5e407f548e3af463ace794dcd3c9d90f2750b3b5e29e8325f1751444b7c23a1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/ocelot.json"
+hash = "aef6e0515c29925ebcd28a6b4dfc0cc81394c776d0055f83bf4a36be5f38dc2e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/panda.json"
+hash = "05cf7f09a724d85d79da2967a5de8ec8322094c6eb352688952f9c5df61b8bc9"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/parrot.json"
+hash = "12df90e615b504653fc3c3103ff677f0bd6226f562f27bcd365cc402466b6754"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/phantom.json"
+hash = "4b457b4044fa90435e21435407e2abaf67d56573187c84d3726549a295fa3b38"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/pig.json"
+hash = "bc58b9599c837adf2e3e6a7aa4c1876d1367df765dc4dc6ee6902cb43340c3e1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/piglin.json"
+hash = "3cdfbbc8268885ac40cac9bf39589f2de89c2eab1426389d213959d1331645e9"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/piglin_brute.json"
+hash = "bbef20ac8a9eeec6125b89e08c8f96c1b82105c4f6160c767945f3a0450b7211"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/pillager.json"
+hash = "fcee64bba17c4b6064fb9cb016ff9053f50e4f7955d3727067d9f8ec79ecb44b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/polar_bear.json"
+hash = "b4268f0ab5adecf6393e788fb69c071475e7327956fbc3d9c87ac25045aac492"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/pufferfish.json"
+hash = "d0869c5c1844d6f4fd597c84c12a806fe029810e0b3ddfbb8fabe7136e77948a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/rabbit.json"
+hash = "a82f88a55ebb37fdd01d70da721cb0db4c32f1f030c36ea42919cc4966d5ebf5"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/ravager.json"
+hash = "d5ffd45e160456c2b53e481b94e974ee7d9514538517cc9049c65fb944589b04"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/reference/mmh/ender_dragon.json"
+hash = "bdc541ada87fc24f9570026f52405428216694c15ca2dd43e5bbc28037600a17"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/reference/mmh/shulker.json"
+hash = "379dd45afbe7cb818c3df78007cc58106d633652657818a1a86a62fcdb9e7d74"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/salmon.json"
+hash = "cf20b7655fae508e003eb24992ee64fffc0655610695e968cb927f0d6481a6b3"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/black.json"
+hash = "f9acf21236583007e004b20817c209a79b11b193e42be7cf67d24dd4feeeda29"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/blue.json"
+hash = "c79da2daa547af3e463e8264790179617443240f9f8412b9bae04f810913fa62"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/brown.json"
+hash = "8f2b7bd1c949956d05d53e0225c8e198bccad11cf585415c2cbc0176925dd724"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/cyan.json"
+hash = "be8bff0a3da2c9ae5544a0004751a9ba66e1add2d8830e56f55d71fedab27ef7"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/gray.json"
+hash = "3121a96d9e219a92799f2c1708f5ff77bbf3bbe0a0fbb8c8fdd9d396bbd409da"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/green.json"
+hash = "308bb22030a40021d45a23f6b943e637a7f119e2472f610d808d9b61324ba7c7"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/jeb_sheep.json"
+hash = "3732abfeb07f9178bb76863396d7c22ed232a011d0c93aae9f1ae7b01b844131"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/light_blue.json"
+hash = "b76441a2ebe7cd5ef6d2fedcecb73c206b759b3b17bfe33cb058d31b0a980ab2"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/light_gray.json"
+hash = "149d10c68d742dcb68e8938c34896886d3f8507efb0fdd565ed9e522a421a2ee"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/lime.json"
+hash = "54201a1f9947fee57c64afaba3e48de7be320c369d284e136d61f63b917f8dac"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/magenta.json"
+hash = "0023aacd1b16709961c1aff0975ee2034d950ca7971089d8c4ceda16706b8ba3"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/orange.json"
+hash = "581aed2052f7763066e83317b47eea80174de64dd43361a991ff4c298a3df905"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/pink.json"
+hash = "b24c9edc9a15660633bd646f09295e8f7e8a7e8cc59d8abb8e47f6f26f2116e5"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/purple.json"
+hash = "adb1186b6f3fd49fc602c45949f34d4a8a248bccebc5b3a0839dd6021cca5dba"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/red.json"
+hash = "2cf7dcf0237738d3cd7f766e3cada4d6c6858299f602037162539a98d85ceb9f"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/white.json"
+hash = "39e3f766ba129a3fc44d9a7a79a0081077743ff81cdb9fa901a58da734d1359c"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/sheep/yellow.json"
+hash = "57d21d6252d381c3de0ed25f6c1b7ef60b159eb799ea36ae3a49d4bafbf56395"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/shulker.json"
+hash = "edd754da9a22c07ffb54b93deabda1bbcebd4fc0f41fb908ce26917f96bf161b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/silverfish.json"
+hash = "d59d1dabfc5a3d49de700666741ec67405561016d095b6a3658ba2ad91f05849"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/skeleton_horse.json"
+hash = "51dd6a0445be9a98d374a0df46ee6f0bd667c16facbc8334da79b7777dedaea5"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/slime.json"
+hash = "e90a8bfa6b7ed878d4eef942a67147d64d89879da4f8f53b42305d505a32199a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/snow_golem.json"
+hash = "d284dafee4dd5ad81cdda3039b5875b0af44e3edeca759fd196e1b3827b8a0d1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/spider.json"
+hash = "0bb17a802252b4e2baa4eae48159de7db77164638c6b8b701684a068422dca5d"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/squid.json"
+hash = "9998baf2636f1777d0fef2b6c785c707b5525a40947264bd73eb5785209caffc"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/stray.json"
+hash = "28496ce05166298fc625339a3e2695cb3e0f4b7c0c15f0e74752851e39a72a3e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/strider.json"
+hash = "c42e483927a258d9bfd542275c1ea73149e0b990dc9f6623df51e2bb3d2cfcc4"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/trader_llama.json"
+hash = "ad1f923691b12782a586e80771b24568297a651b0597c0e1e9e32e8b756a7358"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/tropical_fish.json"
+hash = "7888c09ebb4e091e6315cdf9040588cd179052e67df3841e6ee19dac51848009"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/turtle.json"
+hash = "004ba12dca858925cfb6c44d85f69afb776c644e5eb14890f7136a3ada774905"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/vex.json"
+hash = "9f930b3a9dedd72398761696ffd3ea85fea1fb32d5b7d54504f430e73a9484ca"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/villager.json"
+hash = "cc6c1c37c73ac163429c9d7439b3b9ea7c2a8da23750c132ee098a8332bf7308"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/vindicator.json"
+hash = "97e9e553636ec978ce5210ec324a00ec1d4f064a22c4d8a5b1bf1f52d99d6d8b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/wandering_trader.json"
+hash = "b94db28cf02fed8a355401b2e966cd11a623bee35a00ac5f6dc9bb823c840cc5"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/witch.json"
+hash = "147a5e174a6069dd52032eb9a1257489975bb937d264fee3ab66ba0337ed20d7"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/wither.json"
+hash = "f6d048fe59d43d234754fa46a53dad0e81c0f31ce5634704970960b34b65249a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/wolf.json"
+hash = "12513647e093b539376110592e4fc2a32b00db9bda387f614bbdcf5ac6db4424"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/zoglin.json"
+hash = "b0ac70add40bdcf1748d2d58539774295e361c6c6975dbcb44862f6a6601bcd3"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/zombie_horse.json"
+hash = "642f60c5748cf40da1a01470879a619b388e025128024f189312ad059b4472c8"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/zombie_villager.json"
+hash = "2d2719f6a5f67d784f6f2ff9d15fcbfac38419c88f8dcc37fa9f4bff3147ae41"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/minecraft/loot_tables/entities/zombified_piglin.json"
+hash = "7a0a304f482a0c84ca4a3ddf303c092027863908eb36840a045afb1b8210cecb"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/armor_stand.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/axolotl.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/bat.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/bee.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/blaze.json"
+hash = "a26443b24111d001f4a30d0942f47071b99ec6b452f24fd062b57092ab5f98eb"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/cat.json"
+hash = "d1e67c4f27c72448febf472cc16d3d1cd4e8601b1bf05d7b28ca8aa51752c242"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/cave_spider.json"
+hash = "9b56b5ef9d2a28b7e627efa47b319a767e7093ebbbba8f4ff8ca9637b19ec61b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/chicken.json"
+hash = "a8583cb31e113acbbab5a7a364def17de00f29cea5eec5c212a9e803c3c4e4f7"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/cod.json"
+hash = "c22c2d36dc3dfd3e85b19911bb636728c79e0c9966b18d49c6665d4e641a125d"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/cow.json"
+hash = "f66890e5c00a31ce02efc706ef9bd833bd697fba15c746db6c4de5955d5327f0"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/creeper.json"
+hash = "eb3e4daaf98f9c8a9a291027740bc134309347ba01b701dcc7fc3cc766e789a6"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/dolphin.json"
+hash = "78a3d722d53300b16ad231794a089d29902f998b8bae3dcdf22572cb9b0e0833"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/donkey.json"
+hash = "b8eb4fa2c12b55817c7b5ab3b01768d357cf6b543c27d18344b8c95600edc69e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/drowned.json"
+hash = "fae471367295d1b71563ebf08b26b9d834d53ba2a77d27de5d33fda33aa6ac04"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/elder_guardian.json"
+hash = "30a34709c0e7fc23f7c8904790f71617239d9c2d4b0711a3f28d0d53ffa828b3"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/ender_dragon.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/enderman.json"
+hash = "25c38521c56d48513444a0307d0a1eddf2ecaeb90f8e186419dc839900ee1648"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/endermite.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/evoker.json"
+hash = "4ded8f2a70e59a62d116fe872828ffd9aa8c763324947245b5aa317aae8dd16f"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/fox.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/ghast.json"
+hash = "fd79bb39157d8597492d5619ec57cde6094419ebd6f3c7f091e7fb9e66017ea1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/giant.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/glow_squid.json"
+hash = "2927c5e612e34b0d210dac1aed7d2b6bde3ef832cba3c3279f07e748fbe93f84"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/goat.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/guardian.json"
+hash = "8e0dbcdf9bc3166cf8e918fb61fd28774d2402d293d1fc77f0c0c307119d77f1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/hoglin.json"
+hash = "5908af612261efff0a4046bc8a3558cd3120905008ffae59ee6b7c6b6dcd7c56"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/horse.json"
+hash = "b8eb4fa2c12b55817c7b5ab3b01768d357cf6b543c27d18344b8c95600edc69e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/husk.json"
+hash = "d6e62cf5b24d180be242e48a9cbe7f64307d68066a79d1be1eb0b831d5ec5b45"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/illusioner.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/iron_golem.json"
+hash = "fba63d355e8856b919bb6d9042ef5850a3bb49c18e3a21db63e4a797988b146c"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/llama.json"
+hash = "b8eb4fa2c12b55817c7b5ab3b01768d357cf6b543c27d18344b8c95600edc69e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/magma_cube.json"
+hash = "f36c0e9f341ff805e36ae8f6fb9514d8d5849cdec45a83c95244d086d4a1010d"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/mooshroom.json"
+hash = "f66890e5c00a31ce02efc706ef9bd833bd697fba15c746db6c4de5955d5327f0"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/mule.json"
+hash = "b8eb4fa2c12b55817c7b5ab3b01768d357cf6b543c27d18344b8c95600edc69e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/ocelot.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/panda.json"
+hash = "d06a6a665b64488f7d60bbe5fc3c39ea6d91442de9ff397b6e23d00d90b23db2"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/parrot.json"
+hash = "d9ca9e61bf36542c92664103f1c7df5941d471e63fe7b4f38d6f1443165a3537"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/phantom.json"
+hash = "09d7ac02821394cc6b61b71ea2ffc4d86625c2280d0ce6a48bb0fee647bd0433"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/pig.json"
+hash = "a580df1ccc88923a0f3aa906983f9e96cd5d8645afed4022c233bcde6f3c445f"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/piglin.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/piglin_brute.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/pillager.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/player.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/polar_bear.json"
+hash = "3785b9b2df195d3472e29addf2046b7171177247bcb1997c59fdfa4b3c079083"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/pufferfish.json"
+hash = "0b053a24d3935aa6312f96fb867e03c929b3c2f41679d988fcdb5e182cd4d33a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/rabbit.json"
+hash = "d7fbfdb48ce1d75833fcd205cfb6eab85c44a1f7df18ffbaddbe56e7ce140088"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/ravager.json"
+hash = "dc19ae8728e6b0a50842306671b993edb2671550b55b7f099d05bb31fb68a804"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/salmon.json"
+hash = "dd812effaa6cd229e73980ceb2ad8c0335a9dfeed5f489c90727579effb798dd"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep.json"
+hash = "75819b2eb7bb91a17b6e7fe9fd3a2a45a27ac13c061fcae7c63adaa846c3a7fc"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/black.json"
+hash = "41643a652883e069a1928e38b1f3089002e915bd0995207c3be773f699d5c759"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/blue.json"
+hash = "5521c418588008c828e1e918bd7b0d2ff4e49f3f4c290d71dba91c7561c40207"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/brown.json"
+hash = "bf95d38f6cbc08f30c24e9e6729155c57ce5f6234c49367e87d55b3787b36b7b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/cyan.json"
+hash = "eca092df07d27fdc263f60b8f147dc6eabf1b815cc855a9d21350019a3256333"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/gray.json"
+hash = "084c39beec41bd12dba4f225d140b11ca8cd5b07a7bf067dccdeb7aa739565ab"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/green.json"
+hash = "20efc665e50fe85699d39ce0d4cd303ca62b46256eb85994bd00de9563cfd174"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/light_blue.json"
+hash = "548b8c792af8f716aa4e6140711401052e95d7afb5d7be24de167f46df2d235c"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/light_gray.json"
+hash = "f68ee76b3433b73c98c8fcce3ff0e7d68d28ce3cab836a04eba391c96dc3e02a"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/lime.json"
+hash = "6fda8ef25a2e1dd49754714b2033b194f474178403b03b57d640e7ea9780f409"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/magenta.json"
+hash = "1e24bf9307835d37cc81415cabb510ec7437f443445dd579ea8fc24982d888f8"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/orange.json"
+hash = "cbb4365d60357da3876219f768074d1817bf223d629b854341036ae05cfe79fb"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/pink.json"
+hash = "a5380455b14494d1c2e64f5d767d4e5176add570b1e2b776ee06bc3b9b94c2aa"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/purple.json"
+hash = "b6d3f0b61cc800fdd40acae3c8c848870395f9ade4ae91103f6b4ff22947c660"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/red.json"
+hash = "2af9631df024770a74ea03142ed786550116c988f4bce1466bf4d8b62e2677e1"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/white.json"
+hash = "483d1b053a313b25ced7b2cf1033fc9ec0c380115e0f132237a53878e2074f3e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/sheep/yellow.json"
+hash = "2e0f1f3b54ddf769c2a0c9a70d2b70f8ea80aa883f4286de3d5944391c439089"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/shulker.json"
+hash = "64da2c42b6f39148da3573895a0b4ef46c05ed2051c8a001789159981c518978"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/silverfish.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/skeleton.json"
+hash = "7714596ff6f2349cbd95c6770bfe3e1450e12d63511a6143feb7173fe1e69473"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/skeleton_horse.json"
+hash = "e58ae67867895c8c6afff3a402366d6382190b6c89487a935bd04f4a21683ce6"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/slime.json"
+hash = "3a21c552f25e343b4cd33c0d4f6bffe8bc468996fa6f07a76f8b66623005c3df"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/snow_golem.json"
+hash = "de0d5ca75dc1c510440e7f54683a4a4d2ae59e67708a74aa27fa7d8188fb5561"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/spider.json"
+hash = "9b56b5ef9d2a28b7e627efa47b319a767e7093ebbbba8f4ff8ca9637b19ec61b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/squid.json"
+hash = "84a7b54831ec1d7be3cd94644afacf7f3fccbeab8b1d9a2b0a5d0d2dfaed94d3"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/stray.json"
+hash = "4581098903be366f7e4e343ee598c3e82ed8d3e3200d560582aa701056aeb606"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/strider.json"
+hash = "aa0499c08fff832c422aa435bc2f86432149c1d63677d3cfdf7e178a27d93977"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/trader_llama.json"
+hash = "b8eb4fa2c12b55817c7b5ab3b01768d357cf6b543c27d18344b8c95600edc69e"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/tropical_fish.json"
+hash = "7df0cbc60eefd4c4e4a955306377c042156208fba42c2b90a726613e057b8b3b"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/turtle.json"
+hash = "5de36d0d7606b4fe8e17838996bf5359af983ff2238b1ca951f5fe2880167f08"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/vex.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/villager.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/vindicator.json"
+hash = "1efdcbdd95d6a353e6b383ccbab3f2f48285dac3567cb3cab399a0c733901181"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/wandering_trader.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/witch.json"
+hash = "b6077b5ea95eec892d260a93b97192cf417624fe8e997e74892425f36c72aa00"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/wither.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/wither_skeleton.json"
+hash = "ce63db68a937be2ce3f904fca0cd75f5f10c9da8d81906207d6de914c7d0c5be"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/wolf.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/zoglin.json"
+hash = "6669459da07e83df09ec9e0acb15fe19b170f0a5157b111e4beea9e2de355527"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/zombie.json"
+hash = "d6e62cf5b24d180be242e48a9cbe7f64307d68066a79d1be1eb0b831d5ec5b45"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/zombie_horse.json"
+hash = "8b05eea3f04af1eafd1f7eef573a2e741ee8a368d4fdfaec2b00bca869c328f9"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/zombie_villager.json"
+hash = "d6e62cf5b24d180be242e48a9cbe7f64307d68066a79d1be1eb0b831d5ec5b45"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanilla/loot_tables/entities/zombified_piglin.json"
+hash = "9767a4cd572eab9d13aeb904f80838f444b421e216cda12c822e399fcb9d0a5f"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanillatweaks/advancements/more_mob_heads.json"
+hash = "f23989dd545bda3877a79e75ea68870d4388133cd639d83a7b9d16655fc59696"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/pack.mcmeta"
+hash = "2678bed3b4ea433e1d509fe01ddc904d8b51eed6414f99316fe202c3506adcdf"
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.9.4/pack.png"
+hash = "be390f39163e45c588cde459c1721f80822d653a2abf20077b1d02afa1af1f36"
+
+[[files]]
 file = "config/openloader/data/multiplayer sleep v2.6.2/data/minecraft/tags/functions/load.json"
 hash = "13c2008e94fb5806cf0500fc954842d1c53963df4da5587a12d3ace36460e8ca"
 
