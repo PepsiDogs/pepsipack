@@ -49,6 +49,26 @@ file = "config/openloader/data/afk display v1.1.2/pack.png"
 hash = "2edfea3a56ef637eb20ab2c24aeedb3fe8c757ff7c4df0f0cb2f48b2b6463400"
 
 [[files]]
+file = "config/openloader/data/anti enderman grief v1.1.2/data/minecraft/tags/blocks/enderman_holdable.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "config/openloader/data/anti enderman grief v1.1.2/data/vanillatweaks/advancements/anti_enderman_grief.json"
+hash = "3afb421de89d79467b901953070a9cea672ce54efc27110bcecf033d79eb1646"
+
+[[files]]
+file = "config/openloader/data/anti enderman grief v1.1.2/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "config/openloader/data/anti enderman grief v1.1.2/pack.mcmeta"
+hash = "a72e3f30f8ca603912c318a8338bc4352d430805847228c04daa98b4b085e9f2"
+
+[[files]]
+file = "config/openloader/data/anti enderman grief v1.1.2/pack.png"
+hash = "1452df747f8973ff95da5dd576dc90e44248920e046df6ce663a45aeaef027fc"
+
+[[files]]
 file = "config/openloader/data/armor statues v2.8.3/data/armor_statues/advancements/crafting.json"
 hash = "d5afe334f6463fcc6a07624ed5c311e9f32e9fad3cc560ce719144130303352f"
 
