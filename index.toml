@@ -1541,6 +1541,54 @@ file = "config/openloader/data/track statistics v1.1.3/pack.png"
 hash = "60116055033fe8cbc011bf0617ee571772d7bad2c671d6b0233d14085922c6ff"
 
 [[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/minecraft/loot_tables/entities/reference/villager/villager_death.json"
+hash = "cdea6767198ffb2029dbd31789035a87b238de0fb00775017c8ce9b1227b546a"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/minecraft/loot_tables/entities/villager.json"
+hash = "2a21fd28219957f02f60dcbc6d6f081ca40a28cbdc9db1ab30020498a42d49d2"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/minecraft/tags/functions/load.json"
+hash = "dff1d2937b68df4d8f1aa274a143601090a280296d0eaa33a8d0d028b9214ff6"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/vanillatweaks/advancements/villager_death.json"
+hash = "7f408dc0230bd388b6d56b4ac3159879083a5f33a452b6828a3fc8cf44d3b98e"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "cf4833d75dfdc808b4889dccf280a457a0a30ae43d92a960fa28281263c83cbf"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/villager_death/functions/died.mcfunction"
+hash = "6e1b1e5a1bc71ba80e12819ac12d97e8f8e749945b1e8e4f7e970aaf2211fda6"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/villager_death/functions/load.mcfunction"
+hash = "bdff23c725014cb5f229848d8123abc2b3ab60743d7f7095d22aa3a3e82d2d0b"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/villager_death/functions/tick.mcfunction"
+hash = "1d9ef6654a555ec1a5e3e1d69a5a6044935933714268d7233d331194fc55c76e"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/data/villager_death/functions/uninstall.mcfunction"
+hash = "68e6e44f628e5c37545452162b4922078d3d335468482c6f9808635d2f34ad3d"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/pack.mcmeta"
+hash = "238d6dcdb4b4994c26918bf73617561c2688b0a4bdcd36e76f14c9731104c2f2"
+
+[[files]]
+file = "config/openloader/data/villager death messages v1.2.3/pack.png"
+hash = "3f0ba9ecbb73a3808eb73e5d7b9b1cde48d9c960714317616e31c3baa6b52209"
+
+[[files]]
 file = "config/openloader/data/villager workstation highlights v1.1.2/data/minecraft/tags/functions/load.json"
 hash = "716920f9454d7302ea8378ea44596b3514f080fee77e83e8b0e77972df82a9a8"
 
