@@ -1866,7 +1866,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "cb5584f04ceda134f44c6ce9d8892c128f0f149f44b8595a0314b445544b132d"
+hash = "a37148f5f25b5e5a2ca81083ace0e284b4bae80fdeecb6c9e9eb76234cce7257"
 metafile = true
 
 [[files]]
@@ -1931,7 +1931,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1facbd83f83962bf05f04dffb670d4e4cce567ee30fd94c85044cd8e839c7640"
+hash = "6076538e7b8024e9e33f62be651aae45c3d714c5e75431176d90fd1d096e3c56"
 metafile = true
 
 [[files]]
