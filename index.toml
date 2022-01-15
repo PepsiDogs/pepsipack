@@ -1916,7 +1916,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "bfc4613fc946a5493fe748fa5642a9ac59122bfb9abff3be137d85f48f513397"
+hash = "62b006f944ba696f8169c0284d368a947d1757ff0c37ce247df10b2a73d4424a"
 metafile = true
 
 [[files]]
