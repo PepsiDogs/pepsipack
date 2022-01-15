@@ -1830,6 +1830,11 @@ hash = "6084cda19ce53f030b6e3c77f82700d470190715b2a8fba4ed8abaefff52161c"
 metafile = true
 
 [[files]]
+file = "mods/easiercrafting.toml"
+hash = "e9273cbdceb17cfa1b3e8b00a57953562dcaf4517f41a7fddca1a059034323a1"
+metafile = true
+
+[[files]]
 file = "mods/easiervillagertrading.toml"
 hash = "5c5c678796a4a4b3a552b709daa2d4926c4019d022487db537fb76e47c9b48b3"
 metafile = true
