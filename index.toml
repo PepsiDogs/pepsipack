@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "226cdb8f04aa0628573690ea199e4a361b24a3cb3043a67995cb38e7eab1868a"
+hash = "ebb18479f58a51237af08c29be2927b0458244fb596d90a3f55924b751f0bf3c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
