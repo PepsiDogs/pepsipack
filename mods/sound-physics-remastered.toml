@@ -1,6 +1,6 @@
 name = "Sound Physics Remastered"
 filename = "soundphysics-fabric-1.18.1-1.0.4.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3599/527/soundphysics-fabric-1.18.1-1.0.4.jar"
