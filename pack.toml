@@ -1,6 +1,6 @@
 name = "Pepsi Dogs"
 author = "Dan Porter"
-version = "3.14.5"
+version = "3.14.6"
 pack-format = "packwiz:1.0.0"
 
 [index]
@@ -11,3 +11,6 @@ hash = "3898af2767e78beca035a498460e36852edc63c1258633217516d6825a93f210"
 [versions]
 fabric = "0.12.12"
 minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]
