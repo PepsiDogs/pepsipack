@@ -1077,6 +1077,11 @@ hash = "813944d4f0959d645ce349b1ec43f4d06353b66d6b5ce0f86c661c74ecf88259"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.toml"
+hash = "02dd99eda5ab9efd9e4fdf806e2e2d07389db2d71cdba7780cbdda968680742e"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "4ac79a26379b12276722a4c03b8ac802d7eb868c5c475499ea3f1508bb3e7761"
 metafile = true
