@@ -1,0 +1,3 @@
+hackOnlineMode = true
+hackEarlySend = true
+secret = "{CFG_VELOCITY_SECRET}"

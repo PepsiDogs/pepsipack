@@ -1,0 +1,13 @@
+name = "FabricProxy-Lite"
+filename = "FabricProxy-Lite-1.1.6.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/908/FabricProxy-Lite-1.1.6.jar"
+hash-format = "murmur2"
+hash = "2010628971"
+
+[update]
+[update.curseforge]
+file-id = 3541908
+project-id = 442176

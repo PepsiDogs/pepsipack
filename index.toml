@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "226cdb8f04aa0628573690ea199e4a361b24a3cb3043a67995cb38e7eab1868a"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
 
@@ -1129,6 +1133,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "679d37564c530d7718293d6aa805e4226debece6408fac62b3aaac4a2d05b415"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.toml"
+hash = "6063ab12416a4c8ad3e72d96b0f4521310e877d5e933c09f077add8bff637330"
 metafile = true
 
 [[files]]
