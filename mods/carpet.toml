@@ -1,16 +1,17 @@
 name = "Carpet"
-filename = "fabric-carpet-1.18-1.4.56+v211130.jar"
+filename = "fabric-carpet-1.18.1-1.4.57+v220119.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3542/18/fabric-carpet-1.18-1.4.56+v211130.jar"
+url = "https://edge.forgecdn.net/files/3613/878/fabric-carpet-1.18.1-1.4.57+v220119.jar"
 hash-format = "murmur2"
-hash = "3541337216"
+hash = "778229290"
 
 [update]
 [update.curseforge]
-file-id = 3542018
+file-id = 3613878
 project-id = 349239
 
 [option]
+optional = false
 description = "Carpet mod."
