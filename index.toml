@@ -1006,7 +1006,7 @@ hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "0934bccd3130c5a426a258a729ca7ab71a2646f8968a3974939fe59faed88382"
+hash = "66700ba300bc7013538b548319c94e19a1a2b381ce33a840f168347a673045b8"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
