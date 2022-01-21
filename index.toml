@@ -1162,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "6f891a9f1e8a1c943f3c8918a010774d7888e623aa71f12ad2e48d651f6e251e"
+hash = "b0dff763e94c9675d8ea214beecbfe4db0fa012a5c9725fdcc1d15319ce7e140"
 metafile = true
 
 [[files]]
@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "45f3b98f52d9fc94f456ed6ec08e79c3ceaa0e0b51a5f5d37d8740861d31b62e"
+hash = "c4edf64256e266f3cf16fa8b38c021d8028355b3882bdbf8adae0c5136fe5250"
 metafile = true
 
 [[files]]
@@ -1197,7 +1197,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "62114f7c137a6e0e94668c356fcfef4248b5e940b46451cae47c8ba38660053b"
+hash = "8188781eef1980daf56c95fd082d6185fbee5f196736030b7008dc2316cd1498"
+metafile = true
+
+[[files]]
+file = "mods/minihud.toml"
+hash = "30281f0be7446b8ef28521082f9db46a0bdf9eef4c5fbb777f257d4491e88db1"
 metafile = true
 
 [[files]]
@@ -1237,7 +1242,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "0c956d3e30729951dd78dabac6021d0b2ed23c2820e8def091aade61db7352b5"
+hash = "220531233a1bb7088635f0b66bf026819e51fb66d7dd7a0cf487d5f2e623bc69"
 metafile = true
 
 [[files]]
