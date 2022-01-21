@@ -1,15 +1,15 @@
-name = "Clear Despawn (Fabric)"
-filename = "ClearDespawn-1.18-rc4-1.1.5.jar"
+name = "Clear Despawn [Fabric]"
+filename = "ClearDespawn-fabric-1.18.1-1.1.6.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3541/409/ClearDespawn-1.18-rc4-1.1.5.jar"
+url = "https://edge.forgecdn.net/files/3615/727/ClearDespawn-fabric-1.18.1-1.1.6.jar"
 hash-format = "murmur2"
-hash = "953537881"
+hash = "3720824713"
 
 [update]
 [update.curseforge]
-file-id = 3541409
+file-id = 3615727
 project-id = 308793
 
 [option]
