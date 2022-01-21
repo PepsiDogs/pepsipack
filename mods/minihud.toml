@@ -1,0 +1,17 @@
+name = "MiniHUD"
+filename = "minihud-fabric-1.18.1-0.21.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3619/950/minihud-fabric-1.18.1-0.21.3.jar"
+hash-format = "murmur2"
+hash = "2919762916"
+
+[update]
+[update.curseforge]
+file-id = 3619950
+project-id = 244260
+
+[option]
+optional = true
+description = "Displays various info lines on the screen (mini-F3)."
