@@ -1092,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
-hash = "de6c6296e0cdea70baf9f5fa2ddfcc02c51db85e2aa998529538165a68493273"
+hash = "b98c82eb0059ef7735a144a4b61424ab51a567e1c5a47a132cc6f2ae03d6190d"
 metafile = true
 
 [[files]]
