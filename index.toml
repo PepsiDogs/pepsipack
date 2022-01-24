@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.toml"
-hash = "a685f73418951dbadd8f8c56f79c00027496f1affbba662f5f1d6b75e875f735"
+hash = "47ea2edcce7fbcb93cc5ee0d89e224e8c33ec6a9c44def23856a1f5b93b02aec"
 metafile = true
 
 [[files]]
