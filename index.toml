@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c432123d2d6495f54e75b0080b6bdbe38952765a205ad6c4d85e0ebddb3a8e87"
+hash = "e6e7c52cb71ac6b59d43d1c78a5bf381638bb6d1db7f050a39c1c0e357f132c5"
 metafile = true
 
 [[files]]
@@ -1222,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "acf4662805423a1fc85068edb88d218485b6cf76ca0b767107121aa1a7cef30c"
+hash = "3216fc8a9825044ee35cc9dc8100cbf0d3e02ae22c55f5bfffb79046b5613fdf"
 metafile = true
 
 [[files]]
