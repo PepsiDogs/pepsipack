@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "e6e7c52cb71ac6b59d43d1c78a5bf381638bb6d1db7f050a39c1c0e357f132c5"
+hash = "ff107d614f6657e0e01040e15632b5baa8697f1bee23db3a47dbd05164e1c0e9"
 metafile = true
 
 [[files]]
@@ -1062,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "fa6a1bbc7bee82bd27e9c5d3c6efd179979c43f797cb391d239e4c4fd1ca5d5e"
+hash = "91e2e2c9e991d781066b28c48b112a8b4bf00d502c231d0d12c69215dfa84c78"
 metafile = true
 
 [[files]]
@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "8406c2fed7b9604ed9e5fba804f5693711145da92da492f177185edb2f6473b1"
+hash = "fcfe7c22c78f16d203c2c92a755e496ce7a47177c57a43571abef67d12c707ee"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.toml"
-hash = "902a26b14c65d0168008700eb4520facea88f58c5529bd55a28b421333ff22d4"
+hash = "6dd42df545ea3cd85614ab957e91e036f04d505ae7ba8424eea3aa3cbe27472c"
 metafile = true
 
 [[files]]
@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
 metafile = true
 
 [[files]]
@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.toml"
-hash = "1b3e4d1fec0adc5f0d259b37fe2f69ea06aca9b91db08ea4e5e78bd031c6e847"
+hash = "9a925c4b91015085b16f578ee3a21578705fa89de5ae627403ae5d21eca3185f"
 metafile = true
 
 [[files]]
@@ -1222,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "3216fc8a9825044ee35cc9dc8100cbf0d3e02ae22c55f5bfffb79046b5613fdf"
+hash = "e36971203214f19ee467e62cf7c938d8b1d8be3008c646afeb83da2bdc04379d"
 metafile = true
 
 [[files]]
