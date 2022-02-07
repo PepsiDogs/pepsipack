@@ -1,16 +1,17 @@
 name = "Ledger"
-filename = "ledger-1.2.0.jar"
+filename = "ledger-1.2.1.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3541/799/ledger-1.2.0.jar"
+url = "https://edge.forgecdn.net/files/3640/167/ledger-1.2.1.jar"
 hash-format = "murmur2"
-hash = "1373449325"
+hash = "564595044"
 
 [update]
 [update.curseforge]
-file-id = 3541799
+file-id = 3640167
 project-id = 491137
 
 [option]
+optional = false
 description = "server-side fabric logging mod"
