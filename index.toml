@@ -1221,6 +1221,11 @@ hash = "47ea2edcce7fbcb93cc5ee0d89e224e8c33ec6a9c44def23856a1f5b93b02aec"
 metafile = true
 
 [[files]]
+file = "mods/servercore.toml"
+hash = "a5b2c742fd556fc10576b394f2881f294b15f1f16b7a457afb8f03a4e851e820"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "e36971203214f19ee467e62cf7c938d8b1d8be3008c646afeb83da2bdc04379d"
 metafile = true
