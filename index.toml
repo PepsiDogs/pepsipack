@@ -1005,6 +1005,10 @@ file = "config/openloader/resources/VanillaTweaks/pack.png"
 hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
+file = "config/servercore.toml"
+hash = "9d9ded898cfebe31aaea9c85d9e6f5aa471dbc31ac8de64ee78b626e4290326f"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "66700ba300bc7013538b548319c94e19a1a2b381ce33a840f168347a673045b8"
 
