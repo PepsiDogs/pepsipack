@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "deb2581300dca4ed18a23ce33e3ddced227c1b40296225166c33333b9c340fb0"
+hash = "4d062bf99f70995f308abb8b806c38ab8a3856299fc851b0f2111a7a2d150757"
 metafile = true
 
 [[files]]
@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.toml"
-hash = "9a925c4b91015085b16f578ee3a21578705fa89de5ae627403ae5d21eca3185f"
+hash = "b6137a7de077577b517383f83728016e68d4a46b4c95812a1e3fc822c28f7668"
 metafile = true
 
 [[files]]
