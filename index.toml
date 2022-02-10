@@ -1152,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "2847721a86aa032bcaecc18740a8f49809a953a3460a8970eb31a0f8569d7fd5"
+hash = "9ad5329984827c5422d4a91e980c0e09a9e7557eac22d013a2c1de210c68877b"
 metafile = true
 
 [[files]]
@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "ff512d58e3c391b9d407999118cd22b15d8a40744599895b1ddaf9c6158827cf"
+hash = "e2c08a5220d9119b7b892dcc43abf269d68f1469f0956a4f87d0234f86df3f3c"
 metafile = true
 
 [[files]]
