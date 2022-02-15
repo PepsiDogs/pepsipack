@@ -1081,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "fcfe7c22c78f16d203c2c92a755e496ce7a47177c57a43571abef67d12c707ee"
+hash = "7c79772c9fdee0d81a6c197df926397f0040ab37a059bb35e84dd3c90c4d9dda"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "c4edf64256e266f3cf16fa8b38c021d8028355b3882bdbf8adae0c5136fe5250"
+hash = "c4ca97586e7cc949e197290a4c58f9078115216a0d11ef785d1821cfecebc0a6"
 metafile = true
 
 [[files]]
@@ -1201,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "ee1e333247593dc17c5e34f8cae007ff6f4bb7e1b04799391622836e5a8251d7"
+hash = "4587eb5ccd0850dc8ed96cc5cb8e782c8f24bf00a6e68a30ebc479c767d19f25"
 metafile = true
 
 [[files]]
@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "0b3abcacfa3f814594b85ed6deb3b55e648d4772f48e66fabde47c18ba264aaa"
+hash = "1bb788096ff383957a22486e36624ee09a2bdbaa22be47e8d352ade940148fc6"
 metafile = true
 
 [[files]]
