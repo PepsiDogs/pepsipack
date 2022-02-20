@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ff107d614f6657e0e01040e15632b5baa8697f1bee23db3a47dbd05164e1c0e9"
+hash = "4981b5b3bc618f1901604363fef59f0d3893f76612966770ba370c8c82c7f3a0"
 metafile = true
 
 [[files]]
@@ -1146,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
 metafile = true
 
 [[files]]
