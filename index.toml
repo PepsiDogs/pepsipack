@@ -1151,11 +1151,6 @@ hash = "1bb788096ff383957a22486e36624ee09a2bdbaa22be47e8d352ade940148fc6"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.toml"
-hash = "c6ec1939a63d9d4247b59363a18984181a87d28b90233140074169b5eada1b2a"
-metafile = true
-
-[[files]]
 file = "mods/yosbr.toml"
 hash = "cce86aabdc33a734154245447e2a7dfab98c107a56032668ff6c6f12cc320ab0"
 metafile = true
