@@ -1092,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "e2c08a5220d9119b7b892dcc43abf269d68f1469f0956a4f87d0234f86df3f3c"
+hash = "215e9f3de28d10dd29700294ef1c361b1dfdb5b5afbd2a8a86a1432fdaece8d5"
 metafile = true
 
 [[files]]
@@ -1127,7 +1127,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "9b4f2dcae532be573d749bb99a42ee4a7daa6b7e7fd88b84ec487c466e497be2"
+hash = "120680e6f41928ae15a9541a9bc37f77137dc3739cc70c8fff3f6a2341b14bd1"
 metafile = true
 
 [[files]]
