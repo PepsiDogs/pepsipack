@@ -1,15 +1,15 @@
 name = "Ledger"
-filename = "ledger-1.2.2.jar"
+filename = "ledger-1.2.3.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3642/470/ledger-1.2.2.jar"
-hash-format = "murmur2"
-hash = "3954847672"
+url = "https://edge.forgecdn.net/files/3661/170/ledger-1.2.3.jar"
+hash-format = "sha1"
+hash = "1a316885522c9c78ce47a37e66dffb6fecc83a37"
 
 [update]
 [update.curseforge]
-file-id = 3642470
+file-id = 3661170
 project-id = 491137
 
 [option]
