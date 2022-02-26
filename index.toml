@@ -1121,6 +1121,11 @@ hash = "47ea2edcce7fbcb93cc5ee0d89e224e8c33ec6a9c44def23856a1f5b93b02aec"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.toml"
+hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
+metafile = true
+
+[[files]]
 file = "mods/servercore.toml"
 hash = "a5b2c742fd556fc10576b394f2881f294b15f1f16b7a457afb8f03a4e851e820"
 metafile = true
@@ -1138,11 +1143,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.toml"
 hash = "efa4a5bd4f7ab2ef6753e750c0d43fe7a57683bd5c9346211002d1ffc238ef0f"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "68eb618213ac24b723d749d9e5531c29fc81f1d067bbe1432d752efa1ee21a29"
 metafile = true
 
 [[files]]
