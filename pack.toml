@@ -1,12 +1,12 @@
 name = "Pepsi Dogs"
 author = "Dan Porter"
-version = "3.20.4"
+version = "3.20.5"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a2a52c66a3e5f473b9a18e58217c749e6c3a4ab25a5c4099aa7251b444ee2cd9"
+hash = "cda293bde1b9f5dc23e49143cd7524df14a0bae600355c279ecd20a3eac97708"
 
 [versions]
 fabric = "0.13.2"
