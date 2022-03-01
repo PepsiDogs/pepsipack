@@ -2,7 +2,7 @@
 
 This repository contains the [packwiz] configuration for the Pepsi Dogs minecraft modpack.
 
-Both server and client configurations are provided. The version of Minecraft supported as of now is 1.18.1.
+Both server and client configurations are provided. The version of Minecraft supported as of now is 1.18.2.
 
 ## MultiMC setup
 
