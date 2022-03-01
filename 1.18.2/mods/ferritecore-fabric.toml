@@ -1,0 +1,17 @@
+name = "FerriteCore (Fabric)"
+filename = "ferritecore-4.2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3672/143/ferritecore-4.2.0-fabric.jar"
+hash-format = "sha1"
+hash = "5e78186d306ca68dd8b5da4f9939126bf96fdbc0"
+
+[update]
+[update.curseforge]
+file-id = 3672143
+project-id = 459857
+
+[option]
+optional = false
+description = "Reduces the memory usage of Minecraft"

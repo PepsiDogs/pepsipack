@@ -1,0 +1,17 @@
+name = "Iris Shaders"
+filename = "iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/331/iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar"
+hash-format = "sha1"
+hash = "ecd7b64f80821721b2cd15c866140225baa9d4ad"
+
+[update]
+[update.curseforge]
+file-id = 3669331
+project-id = 455508
+
+[option]
+optional = false
+description = "Optifine shader support for Sodium."

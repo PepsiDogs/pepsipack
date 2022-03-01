@@ -1,0 +1,17 @@
+name = "Carpet Extra"
+filename = "carpet-extra-1.18.2-pre2-1.4.64.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3658/4/carpet-extra-1.18.2-pre2-1.4.64.jar"
+hash-format = "sha1"
+hash = "713d143691cbced3352644938555ec1bf6a054a4"
+
+[update]
+[update.curseforge]
+file-id = 3658004
+project-id = 349240
+
+[option]
+optional = false
+description = "Carpet extensions."
