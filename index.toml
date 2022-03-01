@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "4981b5b3bc618f1901604363fef59f0d3893f76612966770ba370c8c82c7f3a0"
+hash = "95dc4ff6e302228ca6d47c18640fcfb7c77da2e1108c58f89d22538ebafcbae2"
 metafile = true
 
 [[files]]
@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "9ad5329984827c5422d4a91e980c0e09a9e7557eac22d013a2c1de210c68877b"
+hash = "74987d6b004817e055e22e4a084c3c5d6ad49c664b2e9ca608074cac55b013b9"
 metafile = true
 
 [[files]]
