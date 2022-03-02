@@ -1,15 +1,15 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.18.1-0.4.0-alpha6+replaymod.rev.b90e7f3.jar"
+filename = "sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
 side = "client"
 
 [download]
-url= "https://www.replaymod.com/download/sodium-fabric-mc1.18.1-0.4.0-alpha6+replaymod.rev.b90e7f3.jar"
+url = "https://edge.forgecdn.net/files/3669/187/sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
 hash-format = "sha1"
-hash = "472c90f89b5ca72d8acead2f3b3cbd15477f4f57"
+hash = "f839863a6be7014b8d80058ea1f361521148d049"
 
 [update]
 [update.curseforge]
-file-id = 3605309
+file-id = 3669187
 project-id = 394468
 
 [option]
