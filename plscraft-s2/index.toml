@@ -1,0 +1,59 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "ebb18479f58a51237af08c29be2927b0458244fb596d90a3f55924b751f0bf3c"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "66700ba300bc7013538b548319c94e19a1a2b381ce33a840f168347a673045b8"
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "649578a1b5770860536dcdf8f09d24f6e20eaec6be6ed481062d918b14df0ccf"
+metafile = true
+
+[[files]]
+file = "mods/damage-tilt.toml"
+hash = "11e8b55f137d6c40ba8ca1d28c3844363d9d1f731117cbb21f1e89ecbf14a736"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "a81b96c7081399790a24e8d5cf38ce3c9b5528755fb6bde8b435625fe68f89d2"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.toml"
+hash = "af5a8193d9da9bf045e63c38ec1d7a8657a86190a60611581c5fdb468b0cdf5c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "54326d466b78099c508a5a2b499c4a26f60c679e17b3c069419ca201485e0a07"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "74d84f7a4e66e0a93bd53e7a8d8962abf1be37ae4873d33f2c9f907c74468c68"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.toml"
+hash = "076ab795661d83a71b6e0a0638bea398d1a419e30e8f1ba2c53628dfae118c28"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "930f171a7d657fdcc9aa21b86ebd1151d1549c582201c597f9c254ec66d8b158"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "db3149534a6ae08ffde31519b35b19cf3afdda1a28ab33bf7d2dec302b9c3e08"
+metafile = true
