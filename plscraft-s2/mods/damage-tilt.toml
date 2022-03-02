@@ -1,0 +1,13 @@
+name = "Damage Tilt"
+filename = "DamageTilt-1.17-fabric-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/434/DamageTilt-1.17-fabric-0.1.2.jar"
+hash-format = "murmur2"
+hash = "1360270612"
+
+[update]
+[update.curseforge]
+file-id = 3347434
+project-id = 411705
