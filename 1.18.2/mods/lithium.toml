@@ -1,0 +1,17 @@
+name = "Lithium (Fabric)"
+filename = "lithium-fabric-mc1.18.2-0.7.8-697.jar"
+side = "both"
+
+[download]
+url = "https://pepsi.dog/minecraft/jar/lithium-fabric-mc1.18.2-0.7.8-697.jar"
+hash-format = "sha1"
+hash = "0c85034d29b33131f11d5ada7d3727470fc1b36b"
+
+[update]
+[update.curseforge]
+file-id = 3659182
+project-id = 360438
+
+[option]
+optional = false
+description = "General-purpose optimization mod."

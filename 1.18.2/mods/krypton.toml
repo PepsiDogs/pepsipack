@@ -1,0 +1,17 @@
+name = "Krypton"
+filename = "krypton-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/215/krypton-0.1.7.jar"
+hash-format = "sha1"
+hash = "8c9286ce6f17b600407c52ace5387f1f14d142a2"
+
+[update]
+[update.curseforge]
+file-id = 3668215
+project-id = 428912
+
+[option]
+optional = false
+description = "Optimizes the Minecraft networking stack."

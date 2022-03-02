@@ -1,0 +1,17 @@
+name = "Simple Voice Chat"
+filename = "voicechat-fabric-1.18.2-2.2.25.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/880/voicechat-fabric-1.18.2-2.2.25.jar"
+hash-format = "sha1"
+hash = "e124af93c2d00259d68fe407c283a5c5f223f142"
+
+[update]
+[update.curseforge]
+file-id = 3669880
+project-id = 416089
+
+[option]
+optional = false
+description = "In-game proximity voice chat."

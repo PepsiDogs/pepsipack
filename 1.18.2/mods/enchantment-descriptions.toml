@@ -1,0 +1,18 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Fabric-1.18.1-9.0.13.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3636/900/EnchantmentDescriptions-Fabric-1.18.1-9.0.13.jar"
+hash-format = "murmur2"
+hash = "1582345073"
+
+[update]
+[update.curseforge]
+file-id = 3636900
+project-id = 250419
+
+[option]
+optional = true
+description = "Adds descriptions of enchantments to the tool tip of enchanted books."
+default = true
