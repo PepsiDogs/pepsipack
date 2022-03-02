@@ -1,11 +1,11 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"
+filename = "sodium-fabric-mc1.18.1-0.4.0-alpha6+replaymod.rev.b90e7f3.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3605/309/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"
-hash-format = "murmur2"
-hash = "3139421437"
+url= "https://www.replaymod.com/download/sodium-fabric-mc1.18.1-0.4.0-alpha6+replaymod.rev.b90e7f3.jar"
+hash-format = "sha1"
+hash = "472c90f89b5ca72d8acead2f3b3cbd15477f4f57"
 
 [update]
 [update.curseforge]
