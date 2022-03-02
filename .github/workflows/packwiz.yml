@@ -22,6 +22,7 @@ jobs:
         run: for pack in $(find . -type f -name 'pack.toml' -exec dirname "{}" \;); do (echo "Running packwiz refresh --build on '${pack}'" && cd ${pack} && packwiz refresh --build); done
 
       - name: Publish to GitHub Pages
+        if : ${{github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
