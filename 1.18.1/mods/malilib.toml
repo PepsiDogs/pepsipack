@@ -1,0 +1,17 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.18.1-0.11.7.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3647/223/malilib-fabric-1.18.1-0.11.7.jar"
+hash-format = "murmur2"
+hash = "3856806250"
+
+[update]
+[update.curseforge]
+file-id = 3647223
+project-id = 303119
+
+[option]
+optional = false
+description = "Library for masa's client-side mods."

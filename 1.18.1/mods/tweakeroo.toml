@@ -1,0 +1,17 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.18.1-0.12.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3643/79/tweakeroo-fabric-1.18.1-0.12.3.jar"
+hash-format = "murmur2"
+hash = "2060549405"
+
+[update]
+[update.curseforge]
+file-id = 3643079
+project-id = 297344
+
+[option]
+optional = true
+description = "Adds a bunch of various tweaks, including auto-clicker, freecam, tool change, etc."

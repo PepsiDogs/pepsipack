@@ -1,0 +1,18 @@
+name = "Better Mount HUD"
+filename = "bettermounthud-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3637/536/bettermounthud-1.1.4.jar"
+hash-format = "murmur2"
+hash = "464303316"
+
+[update]
+[update.curseforge]
+file-id = 3637536
+project-id = 475358
+
+[option]
+optional = true
+description = "Improves mount HUD, adding your hunger and restoring XP bar when not jumping."
+default = true

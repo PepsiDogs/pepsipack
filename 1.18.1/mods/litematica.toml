@@ -1,0 +1,17 @@
+name = "Litematica"
+filename = "litematica-fabric-1.18.1-0.10.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3645/957/litematica-fabric-1.18.1-0.10.2.jar"
+hash-format = "murmur2"
+hash = "2359837998"
+
+[update]
+[update.curseforge]
+file-id = 3645957
+project-id = 308892
+
+[option]
+optional = true
+description = "Build schematic mod."
