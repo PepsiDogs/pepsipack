@@ -1067,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "105f5b98af4bbb4c41141b58ce47ee4a753414fd3554289fa7ba165055a2fd93"
+hash = "4bb1ad43290de9796dff480c502754a9e36ad84f4978276f518f054ea1288c09"
 metafile = true
 
 [[files]]
@@ -1127,12 +1127,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "a5b2c742fd556fc10576b394f2881f294b15f1f16b7a457afb8f03a4e851e820"
+hash = "1c0a40c7808a926f94027eb65ba854025969b85d4cd15b8ddea39e2dc624aee7"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "d7a8495b262a4d6e2b34950a700690a289e1b534af9a6c7f0a406479571f9535"
+hash = "2dcc846f5df2e57c6990c18a0f57b070bbde57cb83ea31a311725a7badfaa5e9"
 metafile = true
 
 [[files]]
