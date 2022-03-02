@@ -1,0 +1,12 @@
+name = "Replay Mod"
+filename = "replaymod-1.18.1-2.6.3.jar"
+side = "client"
+
+[download]
+url = "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.3.jar"
+hash-format = "sha1"
+hash = "a68fed1d79349749d92792bd66769957ad9471f7"
+
+[option]
+optional = true
+description = "Allows for recording gameplay sessions to later render out as timelapses or VODs."
