@@ -850,6 +850,10 @@ file = "mods/phosphor.toml"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.toml"
+metafile = true
+
+[[files]]
 file = "mods/servercore.toml"
 metafile = true
 
