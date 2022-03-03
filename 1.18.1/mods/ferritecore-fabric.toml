@@ -11,3 +11,6 @@ hash = "11d973fe8601658fade9f9981f568efb4b8a5dce"
 [update.curseforge]
 file-id = 3652642
 project-id = 459857
+
+[option]
+description = "Reduces the memory usage of Minecraft"

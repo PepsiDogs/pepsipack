@@ -11,3 +11,6 @@ hash = "1443285631"
 [update.curseforge]
 file-id = 3618464
 project-id = 354339
+
+[option]
+description = "Enables data packs and resource packs to be applied globally"

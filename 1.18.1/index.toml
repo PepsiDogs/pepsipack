@@ -942,7 +942,7 @@ hash = "0675cf11824383e2504cd7c707484a4cb7f60247ed802089f88d4b677af3c696"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "722edc4307b556741997e75db985138b5b608807ba1f36ad5228d2ca03715685"
+hash = "e4fdc9675eb6b96f7989dbe10c0287fecfd4f214fd038581cf1f01100bc1fad0"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.toml"
-hash = "6caa90ec195f3b86f0b0a7ee738fce0f4b1190894d438a6886aa6cc77a7830d1"
+hash = "d898ba08b6202137ff4777a14137ad1a0695c16b9fe98635298d8d139a9e9e05"
 metafile = true
 
 [[files]]
@@ -977,12 +977,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.toml"
-hash = "02dd99eda5ab9efd9e4fdf806e2e2d07389db2d71cdba7780cbdda968680742e"
+hash = "7eba622774d599516462305c67f848bc1c6fe334edfc5e130f662ae3db1f7f09"
 metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "ab968ad948748af4e3269c04fb1889df0db2fffa0ecacbd0a7497e3d744a9faf"
+hash = "5b5226643be9ec7134f1a722f67499159cafef2f8f2410e2de6d88a426e82483"
 metafile = true
 
 [[files]]
@@ -1032,17 +1032,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.toml"
-hash = "6063ab12416a4c8ad3e72d96b0f4521310e877d5e933c09f077add8bff637330"
+hash = "b48187d92128bd44907f3b462e962c503da8b7685f0aa17d33659112cf8b4dc9"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
+hash = "5460cec04fe01549c4c5486dd17f0b1fa43dddcc6366f334bf09e1d47f220ff4"
 metafile = true
 
 [[files]]
 file = "mods/giselbaers-durability-viewer.toml"
-hash = "ca678a7371113d56240d65ae4e3f29eec39fed96740757b73002527ac77d2f49"
+hash = "ca048a9ba590c503fd0a07c8ff0d943b0f136f5a75490f084cbbebf1e447e854"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.toml"
-hash = "f8081eea374ee7fb12235e53d6836f163aa014198a1ab5f075e3fde05d958b32"
+hash = "e3ff470ee7cd34c0ef2177f701323731498eda1f502850dd97927500d0a5ad56"
 metafile = true
 
 [[files]]
@@ -1107,12 +1107,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "62b006f944ba696f8169c0284d368a947d1757ff0c37ce247df10b2a73d4424a"
+hash = "b103d917fe0d44c6e6ff97617fa693420e71383bc7c9152c7875c2f6d53c25ba"
 metafile = true
 
 [[files]]
 file = "mods/open-loader.toml"
-hash = "47ea2edcce7fbcb93cc5ee0d89e224e8c33ec6a9c44def23856a1f5b93b02aec"
+hash = "0e4aea8ebb84b621b43e08a9620e7626c9ab68e2bd7755188aa3c88e7158e8dc"
 metafile = true
 
 [[files]]
@@ -1127,17 +1127,17 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "1c0a40c7808a926f94027eb65ba854025969b85d4cd15b8ddea39e2dc624aee7"
+hash = "1ec6f55506b81637634744da382979b52446f8a062579872694977b16fb40492"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "2dcc846f5df2e57c6990c18a0f57b070bbde57cb83ea31a311725a7badfaa5e9"
+hash = "f9f588c0d046d315b6271c70954fb667cf12a88fe987b52dd820e8aaa2de0cbb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "69b09aac78333a1058bc22d6c23d83a744acc44c7a29454deb1b4c41c62e6e77"
+hash = "c4507562ab65d34a99297d863d28f3d894f013a8e6bd60b398f349a212507b9e"
 metafile = true
 
 [[files]]
@@ -1152,5 +1152,5 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.toml"
-hash = "cce86aabdc33a734154245447e2a7dfab98c107a56032668ff6c6f12cc320ab0"
+hash = "fe46cb14fcb5804405f6c46c427f53971d841265fc92c9eae00991462fae61ff"
 metafile = true

@@ -13,5 +13,4 @@ file-id = 3661170
 project-id = 491137
 
 [option]
-optional = false
-description = "server-side fabric logging mod"
+description = "Server-side Logging mod"
