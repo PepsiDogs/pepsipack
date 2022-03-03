@@ -14,5 +14,5 @@ project-id = 262146
 
 [option]
 optional = true
-description = "Tool Durability Viewer. Sound config fixed btw!"
+description = "Tool Durability Viewer HUD"
 default = true

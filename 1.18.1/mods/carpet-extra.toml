@@ -11,3 +11,6 @@ hash = "4164022290"
 [update.curseforge]
 file-id = 3542068
 project-id = 349240
+
+[option]
+description = "Carpet extensions."
