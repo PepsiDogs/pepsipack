@@ -33,8 +33,8 @@ Here you can find what mods we include across Minecraft versions.
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
 | [Better Third Person] | Adds independent rotation of the camera from a third person view. | Client | ❎ (default) |
-| [Carpet] | Carpet mod. | Both | ✅ |
 | [Carpet Extra] | Carpet extensions. | Server | ✅ |
+| [Carpet] | Carpet mod. | Both | ✅ |
 | [Clear Despawn] | Makes dropped items flash when they're about to de-spawn. | Client | ❎ (default) |
 | [ClickThrough] | Allows click-through on chests with frames/signs, crouch to override. | Client | ❎ (default) |
 | [Cloth Config API] | Config Screen API. | Client | ✅ |
@@ -63,12 +63,14 @@ Here you can find what mods we include across Minecraft versions.
 | [Open Loader] | Enables data packs and resource packs to be applied globally | Both | ✅ |
 | [Replay Mod]¹ | Allows for recording gameplay sessions to later render out as timelapses or VODs. | Client | ❎ |
 | [ServerCore] | Optimisations for the Minecraft server | Server | ✅ |
+| [Simple Discord RPC] | Display what you are doing in Minecraft in your Discord status | Client | ❎ (default) |
 | [Simple Voice Chat] | In-game proximity voice chat | Both | ✅ |
 | [Sodium] | Rendering engine replacement | Client | ✅ |
 | [Sound Physics Remastered] | Provides realistic sound attenuation, reverberation, and absorption through blocks. Helps with Voice Chat. | Both | ❎ (default) |
 | [Starlight] | Rewrites the light engine to fix lighting performance and lighting errors. | Both | ✅ |
 | [Tweakeroo] | Adds a bunch of various tweaks, including auto-clicker, freecam, tool change, etc. | Client | ❎ |
 | [Your Options Shall Be Respected] | Provide default configuration where applicable | Client | ✅ |
+
 
 ¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
