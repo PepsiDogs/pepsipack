@@ -858,6 +858,10 @@ file = "mods/servercore.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.toml"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 metafile = true
 

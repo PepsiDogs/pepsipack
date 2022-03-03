@@ -1,0 +1,18 @@
+name = "Simple Discord RPC [Forge/Fabric]"
+filename = "simple-rpc-fabric-1.18.x-2.7.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3654/859/simple-rpc-fabric-1.18.x-2.7.2.jar"
+hash-format = "sha1"
+hash = "08741b093673f97cc01d5b9053f6907dbf843ca4"
+
+[update]
+[update.curseforge]
+file-id = 3654859
+project-id = 411816
+
+[option]
+optional = true
+description = "Display what you are doing in Minecraft in your Discord status"
+default = true
