@@ -1131,6 +1131,11 @@ hash = "1ec6f55506b81637634744da382979b52446f8a062579872694977b16fb40492"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "3dbd252fd03900ed666f0e365170f306f33f2a3aacf5602bfe4989e5c209b1e5"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "fed2182d9862214fd6cf5c9602eb52047b4823bed9795da65a144b66ced923e4"
 metafile = true
