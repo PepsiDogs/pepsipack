@@ -14,5 +14,5 @@ project-id = 403815
 
 [option]
 optional = true
-description = "More info on advancement requirements, etc."
+description = "Makes the advancement pages bigger, adds a requirement list and search bar"
 default = true

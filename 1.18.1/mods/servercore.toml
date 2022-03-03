@@ -11,3 +11,6 @@ hash = "bc756dcf90e45b40b633d19789c5c8028322906d"
 [update.curseforge]
 file-id = 3668847
 project-id = 550579
+
+[option]
+description = "Optimisations for the Minecraft server"

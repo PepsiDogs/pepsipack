@@ -13,5 +13,4 @@ file-id = 3669874
 project-id = 416089
 
 [option]
-optional = false
-description = "In-game proximity voice chat."
+description = "In-game proximity voice chat"

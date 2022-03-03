@@ -13,5 +13,4 @@ file-id = 3605309
 project-id = 394468
 
 [option]
-optional = false
-description = "Rendering engine replacement."
+description = "Rendering engine replacement"

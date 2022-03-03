@@ -11,3 +11,6 @@ hash = "2010628971"
 [update.curseforge]
 file-id = 3541908
 project-id = 442176
+
+[option]
+description = "Enables the server to communicate with a Velocity proxy."

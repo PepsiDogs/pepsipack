@@ -11,3 +11,6 @@ hash = "1407778813"
 [update.curseforge]
 file-id = 3565287
 project-id = 406343
+
+[option]
+description = "Display player's ping in the player list as a number"
