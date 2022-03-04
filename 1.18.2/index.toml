@@ -941,11 +941,6 @@ file = "config/yosbr/servers.dat"
 hash = "0675cf11824383e2504cd7c707484a4cb7f60247ed802089f88d4b677af3c696"
 
 [[files]]
-file = "mods/antighost.toml"
-hash = "e4f33c8bba25eb1f373789887b15ff66db1455b00a9d8691336544f5c9f1838f"
-metafile = true
-
-[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "362844a6b4e69703e96c880b55f7e18bfa4b9eb71b3dc3e40365a92fb5416b80"
 metafile = true
