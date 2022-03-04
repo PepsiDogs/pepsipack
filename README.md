@@ -101,6 +101,7 @@ Here you can find what mods we include across Minecraft versions.
 [Open Loader]: https://www.curseforge.com/minecraft/mc-mods/open-loader
 [Replay Mod]: https://www.replaymod.com/
 [ServerCore]: https://www.curseforge.com/minecraft/mc-mods/servercore
+[Simple Discord RPC]: https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
 [Simple Voice Chat]: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 [Sodium]: https://www.curseforge.com/minecraft/mc-mods/sodium
 [Sound Physics Remastered]: https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
