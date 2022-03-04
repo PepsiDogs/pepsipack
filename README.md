@@ -53,7 +53,6 @@ Here you can find what mods we include across Minecraft versions.
 | [Mod Menu] | Adds a screen for viewing a list of installed mods. | Client | ✅ |
 | [Not Enough Crashes] | Improves crashes in Minecraft. | Client | ✅ |
 | [Open Loader] | Enables data packs and resource packs to be applied globally | Both | ✅ |
-| [Replay Mod]¹ | Allows for recording gameplay sessions to later render out as timelapses or VODs. | Client | ❎ |
 | [ServerCore] | Optimisations for the Minecraft server | Server | ✅ |
 | [Simple Discord RPC] | Display what you are doing in Minecraft in your Discord status | Client | ❎ (default) |
 | [Simple Voice Chat] | In-game proximity voice chat | Both | ✅ |
@@ -62,9 +61,6 @@ Here you can find what mods we include across Minecraft versions.
 | [Starlight] | Rewrites the light engine to fix lighting performance and lighting errors. | Both | ✅ |
 | [Tweakeroo] | Adds a bunch of various tweaks, including auto-clicker, freecam, tool change, etc. | Client | ❎ |
 | [Your Options Shall Be Respected] | Provide default configuration where applicable | Client | ✅ |
-
-
-¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 
 [packwiz]: https://packwiz.infra.link/
