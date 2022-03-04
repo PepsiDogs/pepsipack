@@ -730,10 +730,6 @@ file = "mods/carpet.toml"
 metafile = true
 
 [[files]]
-file = "mods/clear-despawn-fabric.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.toml"
 metafile = true
 
