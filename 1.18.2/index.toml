@@ -971,11 +971,6 @@ hash = "5da3f1b565a3ce2c35b23c806cdb65d07ed657cd14b6e64cef4d4900fa885d47"
 metafile = true
 
 [[files]]
-file = "mods/clear-despawn-fabric.toml"
-hash = "b98c82eb0059ef7735a144a4b61424ab51a567e1c5a47a132cc6f2ae03d6190d"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.toml"
 hash = "4d062bf99f70995f308abb8b806c38ab8a3856299fc851b0f2111a7a2d150757"
 metafile = true
