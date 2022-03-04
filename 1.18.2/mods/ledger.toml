@@ -1,0 +1,17 @@
+name = "Ledger"
+filename = "ledger-1.2.4.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/397/ledger-1.2.4.jar"
+hash-format = "sha1"
+hash = "55845e0ab71515e27f4c7c77524a094b6189c10e"
+
+[update]
+[update.curseforge]
+file-id = 3669397
+project-id = 491137
+
+[option]
+optional = false
+description = "Server-side Logging mod"

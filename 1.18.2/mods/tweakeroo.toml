@@ -1,15 +1,15 @@
 name = "Tweakeroo"
-filename = "tweakeroo-fabric-1.18.1-0.12.3.jar"
+filename = "tweakeroo-fabric-1.18.2-0.13.0.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3643/79/tweakeroo-fabric-1.18.1-0.12.3.jar"
-hash-format = "murmur2"
-hash = "2060549405"
+url = "https://edge.forgecdn.net/files/3671/393/tweakeroo-fabric-1.18.2-0.13.0.jar"
+hash-format = "sha1"
+hash = "a9cde56c21c0e14af29d41ecc7fe91d505287c7a"
 
 [update]
 [update.curseforge]
-file-id = 3643079
+file-id = 3671393
 project-id = 297344
 
 [option]

@@ -1,0 +1,17 @@
+name = "Pepsi Dogs"
+author = "Dan Porter"
+version = "4.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad5e576178a5b9018bacc15ac59a6e41ab2c86a9ce0e6f26f756cb0611dc69e1"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]
+no-internal-hashes = true
