@@ -1,0 +1,15 @@
+
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "minecraft:item_frame"
+                ],
+                "nbt": "{display:{Name:'{\"text\":\"Invisible\"}'}}"
+            }
+        }
+    }
+}
