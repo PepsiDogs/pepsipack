@@ -32,7 +32,6 @@ Here you can find what mods we include across Minecraft versions.
 | [Beenfo] | Adds honey and bee level information to hives. | Both | ❎ (default) |
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
-| [Better Third Person] | Adds independent rotation of the camera from a third person view. | Client | ❎ (default) |
 | [Carpet Extra] | Carpet extensions. | Server | ✅ |
 | [Carpet] | Carpet mod. | Both | ✅ |
 | [Clear Despawn] | Makes dropped items flash when they're about to de-spawn. | Client | ❎ (default) |
