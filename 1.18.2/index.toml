@@ -525,18 +525,6 @@ file = "config/openloader/data/custom_roleplay_data_v1.0/pack.png"
 hash = "8094ce786343b32be9d76444f43a848697054d9134bd7cdd2fae055f1744a9fa"
 
 [[files]]
-file = "config/openloader/data/item-frame-v3/data/item_frame/functions/ticker.mcfunction"
-hash = "1ebd1a036d547446672873a4324402a533c970196563c5313fc78bbb60716fd2"
-
-[[files]]
-file = "config/openloader/data/item-frame-v3/data/minecraft/tags/functions/tick.json"
-hash = "c90b1b8cb0f5ebcbdf55a1f3ac279e5ae0a10e4894639ad09f94e347b38e0ed8"
-
-[[files]]
-file = "config/openloader/data/item-frame-v3/pack.mcmeta"
-hash = "fc787e03032bfb12c105c3bbb2d60a4d3233d49c33fa6de06335593399d87581"
-
-[[files]]
 file = "config/openloader/data/multiplayer sleep v2.6.2/data/minecraft/tags/functions/load.json"
 hash = "13c2008e94fb5806cf0500fc954842d1c53963df4da5587a12d3ace36460e8ca"
 
@@ -699,6 +687,74 @@ hash = "9c0e0001d5e35c4bbb63a4046b19888000555466b75465dc01622b932e3b8536"
 [[files]]
 file = "config/openloader/data/multiplayer sleep v2.6.2/pack.png"
 hash = "262c191f193dbf0e2b07152946c7b8f4ed7e0727242f673c8b868c7bfb02b25c"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/minecraft/tags/functions/load.json"
+hash = "5b86de64d8ff71b5e540554f6b66d8be32efb4f061080c0d23cd3357ff0193e1"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/minecraft/tags/functions/tick.json"
+hash = "511b5947f78e87bbe7610353b4ef34df6dabf46e03ee14f2faf22ebe0e378cdf"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/base/load.mcfunction"
+hash = "83213dbcbcac4c35dc7fde77bb1758a46d5a7e320b80e59ce93bd329f3b10714"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/base/tick.mcfunction"
+hash = "ade904eb3bdac5b2057be3a01fd787e2bb2c0871c5eb9aa9d78514c426a796da"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/item_frame_init.mcfunction"
+hash = "dd30a734237a49cd342f5b36b8df8528b98143ecc379f9f5c7b208600addf56b"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/marker_edit_loot_glow.mcfunction"
+hash = "b96b276f9dee3c9c93d5568f233fbc1c91761ad77f346db43475815abcdab20b"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/marker_edit_loot_regular.mcfunction"
+hash = "fbd91476fee03efdfdce5643f2fa70f055cc09e320ce267473a2832c91d731d9"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/marker_item_frame_broke.mcfunction"
+hash = "597ef9b85f119746605186f52a4e99fee39ec5112cc2e56aa65ec570fd72d5af"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/player_check_hand_item.mcfunction"
+hash = "9b8c4cc3da343ac2228c8616fcb8c7eefba52ce6c217b8defb3b3fc71c261a05"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/item_modifiers/invisible_glow_item_frame.json"
+hash = "8c46291a487401e71e8c924c4f687721d9cf79492412e50df3db1617aa33f261"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/item_modifiers/invisible_item_frame.json"
+hash = "932e90b14e36e310f63f54a6bbcbe596003c4184799d861a9422fcd37d7417ba"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_glow_item_frame_in_mainhand.json"
+hash = "e9c574313f7624468f14dcb2c5d518161cd1b2d9a95260656041809b8c15640c"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_glow_item_frame_in_offhand.json"
+hash = "e761260fead9b52d1c9dbdbbe5e1c8697c826d5c03d1bc0af92f3b727729f12d"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_item_frame_in_mainhand.json"
+hash = "978ab88e53e79af09c16d901619007a8d61202272be5b95155bf3d71cc90ae9d"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_item_frame_in_offhand.json"
+hash = "42decdfa7c68902759c100b00dafa942badfc746ca9114a810d4242adb122429"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/tags/entity_types/item_frames.json"
+hash = "706dad417f93c41e874b42e5037b256303c57e69635d8d84e98876104a22ed42"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/pack.mcmeta"
+hash = "e9299ae2d5b74e17508c064e9555a8ad8f8e531552ac62fd1abc34aa76f7c206"
 
 [[files]]
 file = "config/openloader/data/player head drops v1.1.2/data/minecraft/loot_tables/entities/player.json"
