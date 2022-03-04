@@ -1,6 +1,6 @@
 name = "Carpet Extra"
 filename = "carpet-extra-1.18.2-pre2-1.4.64.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3658/4/carpet-extra-1.18.2-pre2-1.4.64.jar"

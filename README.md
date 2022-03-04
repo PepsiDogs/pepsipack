@@ -30,7 +30,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Architectury] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
-| [Carpet Extra] | Carpet extensions. | Server | ✅ |
+| [Carpet Extra] | Carpet extensions. | Both | ✅ |
 | [Carpet] | Carpet mod. | Both | ✅ |
 | [Cloth Config API] | Config Screen API. | Client | ✅ |
 | [Damage Tilt] | Restores camera tilt in direction of damage. | Both | ✅ |
