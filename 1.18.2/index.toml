@@ -730,10 +730,6 @@ file = "mods/better-ping-display-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.toml"
-metafile = true
-
-[[files]]
 file = "mods/carpet-extra.toml"
 metafile = true
 
@@ -846,10 +842,6 @@ file = "mods/open-loader.toml"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-metafile = true
-
-[[files]]
 file = "mods/replaymod.toml"
 metafile = true
 
@@ -871,6 +863,10 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
 metafile = true
 
 [[files]]
