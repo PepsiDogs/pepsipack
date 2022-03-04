@@ -1076,11 +1076,6 @@ hash = "0e4aea8ebb84b621b43e08a9620e7626c9ab68e2bd7755188aa3c88e7158e8dc"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.toml"
-hash = "7bb3397979e6771d9f95da144e1ad5d8dfff312faf78b5020ca73764007160ce"
-metafile = true
-
-[[files]]
 file = "mods/servercore.toml"
 hash = "e83bdb7a79d70c39fc9e8d0fe35043de924a508eb12b798efc621f935c45d50a"
 metafile = true
