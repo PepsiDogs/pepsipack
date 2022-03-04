@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95dc4ff6e302228ca6d47c18640fcfb7c77da2e1108c58f89d22538ebafcbae2"
+hash = "2b0b4dfa2b27cd76648646d961196812ce859d80fc163c178f7111545df9f255"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e15ba5c7c5e140874601b247c916bb0c70b852e464c8a6293417b458c7200d05"
+hash = "bd2ab45d89bc07d218f8d659b6b1394140af2f41dc185a6f52edd90fdf705d94"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "b0dff763e94c9675d8ea214beecbfe4db0fa012a5c9725fdcc1d15319ce7e140"
+hash = "1c4c6e73ac3024b5e7dff79ced347b4a3ce16ec8687555c797c003f5e0c0f45c"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "c4ca97586e7cc949e197290a4c58f9078115216a0d11ef785d1821cfecebc0a6"
+hash = "fea803cafa8ee3b73aa8640f63cd24783119c9b7647e6c409ceab92bf6ca0796"
 metafile = true
 
 [[files]]
@@ -1092,12 +1092,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "4587eb5ccd0850dc8ed96cc5cb8e782c8f24bf00a6e68a30ebc479c767d19f25"
+hash = "b136943de22b73ce82c4869aa62ede1159a25a4268d8adf20ec4cd2fc7dea52d"
 metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "30281f0be7446b8ef28521082f9db46a0bdf9eef4c5fbb777f257d4491e88db1"
+hash = "f00cf33b954d614d5104bf5c6ee7360f8a25f5eaf78ba75f1b8319bd83cf63d2"
 metafile = true
 
 [[files]]
