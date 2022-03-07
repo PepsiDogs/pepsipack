@@ -1138,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "5a4d7fc9b8f315ff752cd0dcc05fd895673d73dfeda44fc858f3e31c5c9a7482"
+hash = "22de8e48e5b747beb930016e89aa17185525b1060d85d2e9e81d0ef652d4e8fa"
 metafile = true
 
 [[files]]
@@ -1148,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "7addbe4a59d2e08741f862c28cd18fa491bc5ee92d931073bd7f2bb1ff609ca5"
+hash = "62db9647ce14345fa2ddfbdf0d7dae4fde5fc277fac1b5ba39677d9f5f6a3147"
 metafile = true
 
 [[files]]
