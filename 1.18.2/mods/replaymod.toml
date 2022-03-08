@@ -1,0 +1,12 @@
+name = "Replay Mod"
+filename = "replaymod-1.18.2-2.6.3-28-gd029871.jar"
+side = "client"
+
+[download]
+url = "https://www.replaymod.com/download/beta/eeL6loob/replaymod-1.18.2-2.6.3-28-gd029871.jar"
+hash-format = "sha1"
+hash = "a9e95e5ead7b351329eea73a0a630cbb1d7d37f3"
+
+[option]
+optional = true
+description = "Allows for recording gameplay sessions to later render out as timelapses or VODs."

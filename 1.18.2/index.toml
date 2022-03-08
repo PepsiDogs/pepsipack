@@ -1127,6 +1127,11 @@ hash = "0e4aea8ebb84b621b43e08a9620e7626c9ab68e2bd7755188aa3c88e7158e8dc"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.toml"
+hash = "b5105b1da86356036c3b7976b88f73d4e745fc7a0e5e58a27705f72ff90b736d"
+metafile = true
+
+[[files]]
 file = "mods/servercore.toml"
 hash = "e83bdb7a79d70c39fc9e8d0fe35043de924a508eb12b798efc621f935c45d50a"
 metafile = true
@@ -1143,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "50872ca9f0ca68ae672868c1a370bdd49bb2cbffa2aca1cebce649fccb3312eb"
+hash = "f556342d48dede764929c2648a3335ffa41818cf55beccd65cf50755644ad0bd"
 metafile = true
 
 [[files]]
