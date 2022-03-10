@@ -3,7 +3,7 @@ filename = "sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.23e83a1.jar"
 side = "client"
 
 [download]
-url = "https://www.replaymod.com/download/beta/eeL6loob/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.23e83a1.jar"
+url = "https://www.replaymod.com/download/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.23e83a1.jar"
 hash-format = "sha1"
 hash = "0951e1c41eb42bf851b4477fca6cf587d359dceb"
 
