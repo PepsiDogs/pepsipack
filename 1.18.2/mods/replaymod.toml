@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://minio.replaymod.com/replaymod/replaymod-1.18.2-2.6.4.jar"
 hash-format = "sha1"
-hash = "a9e95e5ead7b351329eea73a0a630cbb1d7d37f3"
+hash = "76326cb49c8a81f2d0957edd70d3dc1fa67a0274"
 
 [option]
 optional = true
