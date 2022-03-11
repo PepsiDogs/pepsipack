@@ -1022,6 +1022,11 @@ hash = "5da3f1b565a3ce2c35b23c806cdb65d07ed657cd14b6e64cef4d4900fa885d47"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.toml"
+hash = "91a71b3aef342e45f4d173150a94af5fb78100a721d33677175780febd96e562"
+metafile = true
+
+[[files]]
 file = "mods/clear-despawn-fabric.toml"
 hash = "b6a273a24d085bc642be444daf1efab4003149ff60fb6314ce919689eb25cc32"
 metafile = true
