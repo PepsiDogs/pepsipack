@@ -31,6 +31,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
 | [Carpet Extra] | Carpet extensions. | Both | ✅ |
 | [Carpet] | Carpet mod. | Both | ✅ |
+| [Chat Heads] | Adds player heads next to chat messages | Client | ❎ (default) |
 | [Clear Despawn] | Makes dropped items flash when they're about to de-spawn. | Client | ❎ (default) |
 | [Cloth Config API] | Config Screen API. | Client | ✅ |
 | [Damage Tilt] | Restores camera tilt in direction of damage. | Both | ✅ |
@@ -71,13 +72,14 @@ Here you can find what mods we include across Minecraft versions.
 [packwiz-installer-bootstrap.jar]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
 [AdvancementInfo]: https://www.curseforge.com/minecraft/mc-mods/advancementinfo
 [AntiGhost]: https://www.curseforge.com/minecraft/mc-mods/antighost
-[Beenfo]: https://www.curseforge.com/minecraft/mc-mods/beenfo
 [Architectury]: https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
+[Beenfo]: https://www.curseforge.com/minecraft/mc-mods/beenfo
 [Better Mount Hud]: https://www.curseforge.com/minecraft/mc-mods/better-mount-hud
 [Better Ping Display]: https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
 [Better Third Person]: https://www.curseforge.com/minecraft/mc-mods/better-third-person
-[Carpet]: https://www.curseforge.com/minecraft/mc-mods/carpet
 [Carpet Extra]: https://www.curseforge.com/minecraft/mc-mods/carpet-extra
+[Carpet]: https://www.curseforge.com/minecraft/mc-mods/carpet
+[Chat Heads]: https://www.curseforge.com/minecraft/mc-mods/chat-heads
 [Clear Despawn]: https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
 [ClickThrough]: https://www.curseforge.com/minecraft/mc-mods/clickthrough
 [Cloth Config API]: https://www.curseforge.com/minecraft/mc-mods/cloth-config
@@ -102,6 +104,7 @@ Here you can find what mods we include across Minecraft versions.
 [MaLiLib]: https://www.curseforge.com/minecraft/mc-mods/malilib
 [MiniHUD]: https://www.curseforge.com/minecraft/mc-mods/minihud
 [Mod Menu]: https://www.curseforge.com/minecraft/mc-mods/modmenu
+[No Fade]: https://www.curseforge.com/minecraft/mc-mods/no-fade
 [Not Enough Crashes]: https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
 [Open Loader]: https://www.curseforge.com/minecraft/mc-mods/open-loader
 [Replay Mod]: https://www.replaymod.com/
@@ -112,5 +115,4 @@ Here you can find what mods we include across Minecraft versions.
 [Sound Physics Remastered]: https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
 [Starlight]: https://www.curseforge.com/minecraft/mc-mods/starlight
 [Tweakeroo]: https://www.curseforge.com/minecraft/mc-mods/tweakeroo
-[No Fade]: https://www.curseforge.com/minecraft/mc-mods/no-fade
 [Your Options Shall Be Respected]: https://www.curseforge.com/minecraft/mc-mods/yosbr
