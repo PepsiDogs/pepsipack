@@ -726,6 +726,10 @@ file = "mods/carpet.toml"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.toml"
+metafile = true
+
+[[files]]
 file = "mods/clear-despawn-fabric.toml"
 metafile = true
 
