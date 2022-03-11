@@ -997,8 +997,8 @@ file = "config/yosbr/servers.dat"
 hash = "0675cf11824383e2504cd7c707484a4cb7f60247ed802089f88d4b677af3c696"
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "362844a6b4e69703e96c880b55f7e18bfa4b9eb71b3dc3e40365a92fb5416b80"
+file = "mods/architectury.toml"
+hash = "966eebc0321e2c94dcb493821f3fc3c9dba2bc80482e8ad39bb1e924b4cf6c72"
 metafile = true
 
 [[files]]
@@ -1007,8 +1007,8 @@ hash = "91e2e2c9e991d781066b28c48b112a8b4bf00d502c231d0d12c69215dfa84c78"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.toml"
-hash = "d898ba08b6202137ff4777a14137ad1a0695c16b9fe98635298d8d139a9e9e05"
+file = "mods/better-ping-display.toml"
+hash = "74fcffad03025c5011480faea06b30407bff7e3c1626315668f23556916b7c2a"
 metafile = true
 
 [[files]]
@@ -1027,13 +1027,13 @@ hash = "91a71b3aef342e45f4d173150a94af5fb78100a721d33677175780febd96e562"
 metafile = true
 
 [[files]]
-file = "mods/clear-despawn-fabric.toml"
-hash = "b6a273a24d085bc642be444daf1efab4003149ff60fb6314ce919689eb25cc32"
+file = "mods/clear-despawn.toml"
+hash = "ad0f89f8554fee1ec43b0f65664392bdd8c763ce07bb0a8a4f684b6cc94b5a3c"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4d062bf99f70995f308abb8b806c38ab8a3856299fc851b0f2111a7a2d150757"
+hash = "0fc3f4571d27ec739c7bbca451cbe449176bfc0348957de9a63457a6ca073e21"
 metafile = true
 
 [[files]]
@@ -1062,8 +1062,8 @@ hash = "b48187d92128bd44907f3b462e962c503da8b7685f0aa17d33659112cf8b4dc9"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.toml"
-hash = "c58db0e8f64d1ca599ae59e0a22b22c60f0dcf87d00aeefbd1b63dc71856c8e6"
+file = "mods/ferritecore.toml"
+hash = "8ea92e378ffd21c577cf21990243fa8110b7b9793c9354f0d70e00a2ef023e82"
 metafile = true
 
 [[files]]
@@ -1098,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "6aac7a09e2703a1b414a1136b228c6e9efa0bc799e81132a60d5a2bfed01c403"
+hash = "17902b735439f9e327fb003bf13779ebad233b1b3cbf2e44de50b68a892c7c7b"
 metafile = true
 
 [[files]]
@@ -1108,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "c57000090ace40348b9e24b092723d9686e9c3209154f724dc3553bbc72b2370"
+hash = "052a50ad77b76b6b561db65071965f6bdf9a373d16f54a6a5b346aeb26ed7bcc"
 metafile = true
 
 [[files]]
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "b103d917fe0d44c6e6ff97617fa693420e71383bc7c9152c7875c2f6d53c25ba"
+hash = "48e6098dc1985b6844f01e3cb82a0f5c2f7e08a32ba28ee8d16f9d5c010bccb8"
 metafile = true
 
 [[files]]
@@ -1148,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "bf7f8e2a5e9acfcf84af4933f8891c644e2a3fe2224fd4c689dd25668c55a8b5"
+hash = "97248b26a959b5eb96f16af6e079d7d38b7ef4530c594e24caa36fce770d9413"
 metafile = true
 
 [[files]]
@@ -1168,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "b882f8cc5375b5b0fb06c05a9a404651a8bce6b425853cf3f9e7e5cf980b4214"
+hash = "ca1898dff6a1a3212271af093b41e0ce955b2c6a571026e3dd4f0b98fe809bc2"
 metafile = true
 
 [[files]]

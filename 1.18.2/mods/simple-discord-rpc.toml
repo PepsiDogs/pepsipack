@@ -1,4 +1,4 @@
-name = "Simple Discord RPC [Forge/Fabric]"
+name = "Simple Discord RPC"
 filename = "simple-rpc-fabric-1.18.2-2.7.3.jar"
 side = "client"
 
