@@ -748,7 +748,7 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/servers.dat"
 
 [[files]]
-file = "mods/architectury-fabric.toml"
+file = "mods/architectury.toml"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ file = "mods/better-mount-hud.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.toml"
+file = "mods/better-ping-display.toml"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ file = "mods/chat-heads.toml"
 metafile = true
 
 [[files]]
-file = "mods/clear-despawn-fabric.toml"
+file = "mods/clear-despawn.toml"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ file = "mods/fabricproxy-lite.toml"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.toml"
+file = "mods/ferritecore.toml"
 metafile = true
 
 [[files]]
