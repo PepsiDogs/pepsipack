@@ -1,0 +1,18 @@
+name = "Clear Despawn [Fabric]"
+filename = "ClearDespawn-fabric-1.18.2-1.1.7.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3682/9/ClearDespawn-fabric-1.18.2-1.1.7.jar"
+hash-format = "sha1"
+hash = "2dafad51e4ee153a884fe7cd12b928a5b2339f42"
+
+[update]
+[update.curseforge]
+file-id = 3682009
+project-id = 308793
+
+[option]
+optional = true
+description = "Makes dropped items flash when they're about to de-spawn."
+default = true
