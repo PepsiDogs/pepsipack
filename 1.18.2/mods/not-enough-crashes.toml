@@ -1,16 +1,17 @@
-name = "Not Enough Crashes"
-filename = "notenoughcrashes-4.1.4+1.18.1-fabric.jar"
+name = "Not Enough Crashes (Fabric)"
+filename = "notenoughcrashes-4.1.4+1.18.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3606/828/notenoughcrashes-4.1.4+1.18.1-fabric.jar"
-hash-format = "murmur2"
-hash = "4042653860"
+url = "https://edge.forgecdn.net/files/3684/963/notenoughcrashes-4.1.4+1.18.2-fabric.jar"
+hash-format = "sha1"
+hash = "e3452caf15e9f579e82578e60ad9c5847fe592b1"
 
 [update]
 [update.curseforge]
-file-id = 3606828
+file-id = 3684963
 project-id = 353890
 
 [option]
+optional = false
 description = "Improves crashes in Minecraft."
