@@ -394,15 +394,6 @@ file = "config/openloader/data/custom_roleplay_data_v1.0/pack.mcmeta"
 file = "config/openloader/data/custom_roleplay_data_v1.0/pack.png"
 
 [[files]]
-file = "config/openloader/data/item-frame-v3/data/item_frame/functions/ticker.mcfunction"
-
-[[files]]
-file = "config/openloader/data/item-frame-v3/data/minecraft/tags/functions/tick.json"
-
-[[files]]
-file = "config/openloader/data/item-frame-v3/pack.mcmeta"
-
-[[files]]
 file = "config/openloader/data/multiplayer sleep v2.6.2/data/minecraft/tags/functions/load.json"
 
 [[files]]
@@ -524,6 +515,57 @@ file = "config/openloader/data/multiplayer sleep v2.6.2/pack.mcmeta"
 
 [[files]]
 file = "config/openloader/data/multiplayer sleep v2.6.2/pack.png"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/minecraft/tags/functions/load.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/minecraft/tags/functions/tick.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/base/load.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/base/tick.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/item_frame_init.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/marker_edit_loot_glow.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/marker_edit_loot_regular.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/marker_item_frame_broke.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/functions/helpers/player_check_hand_item.mcfunction"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/item_modifiers/invisible_glow_item_frame.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/item_modifiers/invisible_item_frame.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_glow_item_frame_in_mainhand.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_glow_item_frame_in_offhand.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_item_frame_in_mainhand.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/predicates/renamed_item_frame_in_offhand.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/data/pk_item_frame/tags/entity_types/item_frames.json"
+
+[[files]]
+file = "config/openloader/data/pk-invisible-item-frames-2-0-mc-1-17/pack.mcmeta"
 
 [[files]]
 file = "config/openloader/data/player head drops v1.1.2/data/minecraft/loot_tables/entities/player.json"
