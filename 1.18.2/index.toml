@@ -998,7 +998,7 @@ hash = "0675cf11824383e2504cd7c707484a4cb7f60247ed802089f88d4b677af3c696"
 
 [[files]]
 file = "mods/architectury.toml"
-hash = "966eebc0321e2c94dcb493821f3fc3c9dba2bc80482e8ad39bb1e924b4cf6c72"
+hash = "aacbe912c75e1d9dce2110fcbe98cd9f0a7da21db3c8ba6d67611d9a6fa2e9f7"
 metafile = true
 
 [[files]]
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "48e6098dc1985b6844f01e3cb82a0f5c2f7e08a32ba28ee8d16f9d5c010bccb8"
+hash = "681c07753706123f016b820f11406d66c3eb9c9129f98f215050923b9726e18e"
 metafile = true
 
 [[files]]
