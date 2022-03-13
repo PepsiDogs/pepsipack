@@ -1,0 +1,18 @@
+name = "Giselbaer's Durability Viewer"
+filename = "durabilityviewer-1.18.2-fabric0.47.10-1.10.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3687/751/durabilityviewer-1.18.2-fabric0.47.10-1.10.3.jar"
+hash-format = "sha1"
+hash = "b291d05a07c4db8f25ed58c1e2a5f91334593065"
+
+[update]
+[update.curseforge]
+file-id = 3687751
+project-id = 262146
+
+[option]
+optional = true
+description = "Tool Durability Viewer HUD"
+default = true

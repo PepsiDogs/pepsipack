@@ -26,21 +26,27 @@ Here you can find what mods we include across Minecraft versions.
 
 | Name | Description | Side | Required |
 |---|---|---|---|
+| [AdvancementInfo] | More info on advancement requirements, etc. | Client | ❎ (default) |
 | [AntiGhost] | Install if internet shit. Press G to refresh block info. | Client | ❎ |
 | [Architectury] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
+| [Beenfo] | Adds honey and bee level information to hives. | Both | ❎ (default) |
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
 | [Carpet Extra] | Carpet extensions. | Both | ✅ |
 | [Carpet] | Carpet mod. | Both | ✅ |
 | [Chat Heads] | Adds player heads next to chat messages | Client | ❎ (default) |
 | [Clear Despawn] | Makes dropped items flash when they're about to de-spawn. | Client | ❎ (default) |
+| [ClickThrough] | Allows click-through on chests with frames/signs, crouch to override. | Client | ❎ (default) |
 | [Cloth Config API] | Config Screen API. | Client | ✅ |
 | [Damage Tilt] | Restores camera tilt in direction of damage. | Both | ✅ |
+| [EasierCrafting] | Quick crafting in a sidebar menu. | Client | ❎ |
+| [EasierVillagerTrading] | Villager trades are insta-click. | Client | ❎ (default) |
 | [Enchantment Descriptions] | Adds descriptions of enchantments to the tool tip of enchanted books. | Client | ❎ (default) |
 | [Fabric API] | Fabric API. | Both | ✅ |
 | [Fabric Language Kotlin] | enables usage of the Kotlin programming language for Fabric mods. Both | ✅ |
 | [FabricProxy-Lite] | Enables the server to communicate with a Velocity proxy. | Server | ✅ |
 | [FerriteCore] | Reduces the memory usage of Minecraft | Both | ✅ |
+| [Giselbaer's Durability Viewer] | Tool Durability Viewer HUD | Client | ❎ (default) |
 | [Indium] | Needed for litematica, Fabric Rendering API support for Sodium. | Client | ❎ |
 | [Iris Shaders] | Optifine shader support for Sodium. | Client | ✅ |
 | [Item Scroller] | Adds several ways of moving items in inventory GUIs. | Client | ❎ (default) |
