@@ -1,0 +1,17 @@
+name = "EasierCrafting"
+filename = "easiercrafting-1.18.2-fabric0.47.10-1.7.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3687/753/easiercrafting-1.18.2-fabric0.47.10-1.7.jar"
+hash-format = "sha1"
+hash = "20d7574cf0bf1b8b8ee3b7e9feb6199f921d3a59"
+
+[update]
+[update.curseforge]
+file-id = 3687753
+project-id = 265956
+
+[option]
+optional = true
+description = "Quick crafting in a sidebar menu."

@@ -748,11 +748,19 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/servers.dat"
 
 [[files]]
+file = "mods/advancementinfo.toml"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 metafile = true
 
 [[files]]
 file = "mods/architectury.toml"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.toml"
 metafile = true
 
 [[files]]
@@ -780,11 +788,23 @@ file = "mods/clear-despawn.toml"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 metafile = true
 
 [[files]]
 file = "mods/damage-tilt.toml"
+metafile = true
+
+[[files]]
+file = "mods/easiercrafting.toml"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.toml"
 metafile = true
 
 [[files]]
@@ -805,6 +825,10 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.toml"
+metafile = true
+
+[[files]]
+file = "mods/giselbaers-durability-viewer.toml"
 metafile = true
 
 [[files]]

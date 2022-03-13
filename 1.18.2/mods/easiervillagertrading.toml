@@ -1,0 +1,18 @@
+name = "EasierVillagerTrading"
+filename = "easiervillagertrading-1.18.2-fabric0.47.10-1.5.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3687/768/easiervillagertrading-1.18.2-fabric0.47.10-1.5.4.jar"
+hash-format = "sha1"
+hash = "a9c82b5a903c324ba9e2f11beab50a2e03e380cc"
+
+[update]
+[update.curseforge]
+file-id = 3687768
+project-id = 261605
+
+[option]
+optional = true
+description = "Villager trades are insta-click."
+default = true
