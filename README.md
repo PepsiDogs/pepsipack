@@ -26,6 +26,7 @@ Here you can find what mods we include across Minecraft versions.
 
 | Name | Description | Side | Required |
 |---|---|---|---|
+| [AntiGhost] | Install if internet shit. Press G to refresh block info. | Client | ❎ |
 | [Architectury] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |

@@ -748,6 +748,10 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/servers.dat"
 
 [[files]]
+file = "mods/antighost.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury.toml"
 metafile = true
 
