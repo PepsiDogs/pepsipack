@@ -997,8 +997,23 @@ file = "config/yosbr/servers.dat"
 hash = "0675cf11824383e2504cd7c707484a4cb7f60247ed802089f88d4b677af3c696"
 
 [[files]]
+file = "mods/advancementinfo.toml"
+hash = "f9fbb7ea4335d9eecef2e8158eff9c26efad9ae408c84e2cd4400008207647bb"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "5e0436e52855b46f9011a4216cd89df911eb004dfe13b1bc55930fd9abc5db27"
+metafile = true
+
+[[files]]
 file = "mods/architectury.toml"
 hash = "aacbe912c75e1d9dce2110fcbe98cd9f0a7da21db3c8ba6d67611d9a6fa2e9f7"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.toml"
+hash = "a5a2a8d62bae61b8a8dd56d83cf4793a39e4d4424d0bdc136b31263a3e226a7d"
 metafile = true
 
 [[files]]
@@ -1032,6 +1047,11 @@ hash = "ad0f89f8554fee1ec43b0f65664392bdd8c763ce07bb0a8a4f684b6cc94b5a3c"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.toml"
+hash = "8662653203b25e55b278008774c395a4b13eb1ea58aa77a1b68dc93c9112575f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "0fc3f4571d27ec739c7bbca451cbe449176bfc0348957de9a63457a6ca073e21"
 metafile = true
@@ -1039,6 +1059,16 @@ metafile = true
 [[files]]
 file = "mods/damage-tilt.toml"
 hash = "6084cda19ce53f030b6e3c77f82700d470190715b2a8fba4ed8abaefff52161c"
+metafile = true
+
+[[files]]
+file = "mods/easiercrafting.toml"
+hash = "8ae0c54e5b58fec2365385465ed7da24acb15d9a5edfdfa8cf23ad4060ff51da"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.toml"
+hash = "cd55477c12b6fae39c0de32bb105e29f2239f89fbe7e3d926c7d9d5f2f8271c0"
 metafile = true
 
 [[files]]
@@ -1067,13 +1097,18 @@ hash = "8ea92e378ffd21c577cf21990243fa8110b7b9793c9354f0d70e00a2ef023e82"
 metafile = true
 
 [[files]]
+file = "mods/giselbaers-durability-viewer.toml"
+hash = "0f268f509a36fbfee27022bf82265dc3401020a45ef2cbe7a4e67abf887c6de1"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "8435f12039047bd57b20391008163bebe8f0375f3de8b5c1afaf721bd6181170"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "6e8089529b0955c7447a6e040b09ae144007a81127c88c6358f92278c93adfe2"
+hash = "e594fdd9622abeebdb7aec6f59800007b30d929b1dc7682c07b8963c0c485da9"
 metafile = true
 
 [[files]]
