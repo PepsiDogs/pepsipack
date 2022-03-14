@@ -1078,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "dc1fe1bb8cedb0e2a889f646dd8ea23ee0506ea6f538dc77f0d0c9f420e26e76"
+hash = "f4bcfa1e9683b263ec7812a308f40b307c4bf978736bc4403e4cf260ba9f7943"
 metafile = true
 
 [[files]]
@@ -1138,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "afd3179fdbbd2c2409b623321c723abc0379b0693a4ffffc32b9ef50c257a6df"
+hash = "302faebf7d4330ac89a2dac0565e77051b34666dd1df3d2ace3ad893ac46d152"
 metafile = true
 
 [[files]]
@@ -1148,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "fe6302a223d717b69967ed99cb82eea6dd9e9febffba9b71415395a49b4eb609"
+hash = "8f4a8e8557979a9b6fda11ba828d6692b5939e64a4d165058e0ab2df6db2a75a"
 metafile = true
 
 [[files]]
