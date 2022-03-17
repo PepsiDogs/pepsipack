@@ -1,15 +1,15 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.18.2-2.2.27.jar"
+filename = "voicechat-fabric-1.18.2-2.2.32.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3680/723/voicechat-fabric-1.18.2-2.2.27.jar"
+url = "https://edge.forgecdn.net/files/3732/702/voicechat-fabric-1.18.2-2.2.32.jar"
 hash-format = "sha1"
-hash = "974c2b37bbd2d0cb6e9b50baaaf26e8e9bef061f"
+hash = "61aef2708186b6b9f8860aa2e6d1d0cbcec23f4b"
 
 [update]
 [update.curseforge]
-file-id = 3680723
+file-id = 3732702
 project-id = 416089
 
 [option]
