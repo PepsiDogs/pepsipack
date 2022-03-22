@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury.toml"
-hash = "aacbe912c75e1d9dce2110fcbe98cd9f0a7da21db3c8ba6d67611d9a6fa2e9f7"
+hash = "350aa0200e153970935948a3bc4583a2812d8506953decc9d5714d4aeb59d231"
 metafile = true
 
 [[files]]
@@ -1188,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "d082e138a18cecbd253cc591cbb14fd6fc039b07c0af725c04ba044a58d68677"
+hash = "ff1c5b917ec1552dff70d142f2fef7bad57fd2521fae1f628d0ccff4f275fedd"
 metafile = true
 
 [[files]]
