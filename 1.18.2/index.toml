@@ -776,6 +776,10 @@ file = "mods/bobby.toml"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.toml"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.toml"
 metafile = true
 
