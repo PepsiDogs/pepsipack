@@ -32,6 +32,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Beenfo] | Adds honey and bee level information to hives. | Both | ❎ (default) |
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
+| [Bobby] | Allows for render distances greater than the server's view-distance setting. | Client | ❎ (default) |
 | [Carpet Extra] | Carpet extensions. | Both | ✅ |
 | [Carpet] | Carpet mod. | Both | ✅ |
 | [Chat Heads] | Adds player heads next to chat messages | Client | ❎ (default) |
@@ -84,6 +85,7 @@ Here you can find what mods we include across Minecraft versions.
 [Better Mount Hud]: https://www.curseforge.com/minecraft/mc-mods/better-mount-hud
 [Better Ping Display]: https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
 [Better Third Person]: https://www.curseforge.com/minecraft/mc-mods/better-third-person
+[Bobby]: https://www.curseforge.com/minecraft/mc-mods/bobby
 [Carpet Extra]: https://www.curseforge.com/minecraft/mc-mods/carpet-extra
 [Carpet]: https://www.curseforge.com/minecraft/mc-mods/carpet
 [Chat Heads]: https://www.curseforge.com/minecraft/mc-mods/chat-heads

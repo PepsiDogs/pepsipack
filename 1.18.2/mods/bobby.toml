@@ -1,0 +1,18 @@
+name = "Bobby"
+filename = "bobby-3.1.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3686/441/bobby-3.1.1.jar"
+hash-format = "sha1"
+hash = "783d7ab7d34e87c0671a9426be0021caee58c1b8"
+
+[update]
+[update.curseforge]
+file-id = 3686441
+project-id = 409301
+
+[option]
+optional = true
+description = "Allows for render distances greater than the server's view-distance setting."
+default = true
