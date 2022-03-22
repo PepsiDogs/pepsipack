@@ -772,6 +772,10 @@ file = "mods/better-ping-display.toml"
 metafile = true
 
 [[files]]
+file = "mods/bobby.toml"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.toml"
 metafile = true
 
