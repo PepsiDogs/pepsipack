@@ -772,6 +772,10 @@ file = "mods/better-ping-display.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.toml"
+metafile = true
+
+[[files]]
 file = "mods/bobby.toml"
 metafile = true
 
