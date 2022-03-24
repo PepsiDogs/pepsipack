@@ -32,6 +32,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Beenfo] | Adds honey and bee level information to hives. | Both | ❎ (default) |
 | [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
 | [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
+| [Better Third Person] | Adds independent rotation of the camera from a third person view. | Client | ❎ (default) |
 | [Bobby] | Allows for render distances greater than the server's view-distance setting. | Client | ❎ (default) |
 | [Bookshelf] | Client mod library used by Enchantment Descriptions | Client | ✅ |
 | [Carpet Extra] | Carpet extensions. | Both | ✅ |
