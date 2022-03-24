@@ -1027,6 +1027,11 @@ hash = "74fcffad03025c5011480faea06b30407bff7e3c1626315668f23556916b7c2a"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.toml"
+hash = "0ff7533ce0eb4938729f2648cf53341df3574cf3adc749fe60b7dc51d25f0a98"
+metafile = true
+
+[[files]]
 file = "mods/bobby.toml"
 hash = "2c9c60950124a07b7309023d995b37372f3e8ff7500a225338c2c1343c736b49"
 metafile = true
