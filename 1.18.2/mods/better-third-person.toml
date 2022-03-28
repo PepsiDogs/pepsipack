@@ -1,15 +1,15 @@
 name = "Better Third Person"
-filename = "BetterThirdPerson-Fabric-1.18.2-1.6.0.jar"
+filename = "BetterThirdPerson-Fabric-1.18.2-1.7.2.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3697/481/BetterThirdPerson-Fabric-1.18.2-1.6.0.jar"
+url = "https://edge.forgecdn.net/files/3719/286/BetterThirdPerson-Fabric-1.18.2-1.7.2.jar"
 hash-format = "sha1"
-hash = "38b4e2bfb72b0dd43297068c44772bbc5ef66347"
+hash = "3b18fd679beb75bd74afb03aef9bc1a1864c2a6f"
 
 [update]
 [update.curseforge]
-file-id = 3697481
+file-id = 3719286
 project-id = 435044
 
 [option]

@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury.toml"
-hash = "350aa0200e153970935948a3bc4583a2812d8506953decc9d5714d4aeb59d231"
+hash = "0956f9327dcbe0b2005cc6d1198bee9968c6f77392a1ccbd4ed557494862cb03"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.toml"
-hash = "0ff7533ce0eb4938729f2648cf53341df3574cf3adc749fe60b7dc51d25f0a98"
+hash = "c8c89f79fa74f0f966954a5051080a89827e1039cee92f324f41a0548fc897d2"
 metafile = true
 
 [[files]]
