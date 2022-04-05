@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury.toml"
-hash = "0956f9327dcbe0b2005cc6d1198bee9968c6f77392a1ccbd4ed557494862cb03"
+hash = "fc07391551450b9cbdc074fd7324fc3d62a8393c7d5e12aba3a8961bd3801d7f"
 metafile = true
 
 [[files]]
@@ -1038,17 +1038,17 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "9ccf6f38fbea7acafefe09aca9b180576832192681c8c8c97490230c669f5db2"
+hash = "acd3c28f0073d35b9fdc5b6d3a2b083f0a355280b4e3fcfb6156aa61b45fba6b"
 metafile = true
 
 [[files]]
 file = "mods/carpet-extra.toml"
-hash = "fcf73b16cea1af4a8f94bd5c42b1ca409e65c6332059ffa4c653f23671e552d4"
+hash = "26960f40fcdd32e88c658316c90c06ca7204f66c327f9aa2f75123e1c315ef9d"
 metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "5da3f1b565a3ce2c35b23c806cdb65d07ed657cd14b6e64cef4d4900fa885d47"
+hash = "0a685d15a17c9dc78abdc7545b943997bcc492cc4bbe761684916a9e50ea8aa7"
 metafile = true
 
 [[files]]
@@ -1098,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "679d37564c530d7718293d6aa805e4226debece6408fac62b3aaac4a2d05b415"
+hash = "dc013243141bb71147f254e9910c7140e040e8462e535777dae622df29f517b9"
 metafile = true
 
 [[files]]
@@ -1203,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "f4ea136630852502002f7f8fae237981a4e846c386b65013cbd27357be6ba617"
+hash = "5a103b4b2f8a996f940fbc621ff626d16eefb81d3fbede5dee2ad682e176c780"
 metafile = true
 
 [[files]]
