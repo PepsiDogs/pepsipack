@@ -1,0 +1,17 @@
+name = "Better Ping Display [Fabric]"
+filename = "BetterPingDisplay-Fabric-1.19-1.1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "619331a589027fe5bc8bf401afb076bcf0ecc6c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3825615
+project-id = 406343
+
+[option]
+optional = false
+description = "Display player's ping in the player list as a number"

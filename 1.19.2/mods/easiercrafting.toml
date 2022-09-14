@@ -1,0 +1,17 @@
+name = "EasierCrafting"
+filename = "easiercrafting-1.19.1-fabric0.58.5-1.7.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ddbd28e09b6ac8eda57e956d43f733cf044e9273"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907247
+project-id = 265956
+
+[option]
+optional = true
+description = "Quick crafting in a sidebar menu."

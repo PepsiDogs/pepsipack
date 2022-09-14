@@ -1,0 +1,13 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{EntityTag:{Invisible:1b}}"
+    },
+    {
+        "function": "minecraft:set_name",
+        "name": {
+        "text": "Invisible Glow Item Frame",
+        "italic": false
+        }
+    }
+]

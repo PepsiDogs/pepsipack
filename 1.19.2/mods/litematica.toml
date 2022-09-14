@@ -1,0 +1,17 @@
+name = "Litematica"
+filename = "litematica-fabric-1.19.2-0.12.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bdc104132b776c68dcf8146b841e2822a45a885a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929766
+project-id = 308892
+
+[option]
+optional = true
+description = "Build schematic mod."

@@ -1,0 +1,17 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.19.2-0.13.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "adc66c8c481293d6fe316da539eb5b8e46e8ac76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3923052
+project-id = 303119
+
+[option]
+optional = false
+description = "Library for masa's client-side mods."

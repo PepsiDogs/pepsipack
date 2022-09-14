@@ -1,0 +1,17 @@
+name = "Bookshelf"
+filename = "Bookshelf-Fabric-1.19.2-16.1.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a8f0b827c599a20303f22ab2da799e0d8a9b02fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3964324
+project-id = 228525
+
+[option]
+optional = false
+description = "Client mod library used by Enchantment Descriptions"

@@ -1,0 +1,18 @@
+name = "Simple Discord RPC [Forge/Fabric/Quilt]"
+filename = "SimpleRPC-fabric-1.19-3.1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3ac520e8208c611d584e9ec4d241e3399f4636db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3899282
+project-id = 411816
+
+[option]
+optional = true
+description = "Display what you are doing in Minecraft in your Discord status"
+default = true

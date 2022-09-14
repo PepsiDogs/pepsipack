@@ -1,0 +1,18 @@
+name = "Sound Physics Remastered"
+filename = "soundphysics-fabric-1.19.2-1.0.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cccab0a5cfe9b75987c61983743a9a449b994a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3949790
+project-id = 535489
+
+[option]
+optional = true
+description = "Provides realistic sound attenuation, reverberation, and absorption through blocks. Helps with Voice Chat."
+default = true

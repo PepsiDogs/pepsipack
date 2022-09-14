@@ -1,0 +1,17 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.19.2-0.14.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "26f27bfe870778a8986aea9fb403aa812b5f2d83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3923075
+project-id = 297344
+
+[option]
+optional = true
+description = "Adds a bunch of various tweaks, including auto-clicker, freecam, tool change, etc."

@@ -1,0 +1,17 @@
+name = "ServerCore"
+filename = "servercore-1.3.1-1.19.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c92240fc35c56eebbb8b1adadf6ba99c07a6d873"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3905927
+project-id = 550579
+
+[option]
+optional = false
+description = "Optimisations for the Minecraft server"
