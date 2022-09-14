@@ -760,7 +760,7 @@ file = "mods/architectury.toml"
 metafile = true
 
 [[files]]
-file = "mods/beenfo.toml"
+file = "mods/beenfo.pw.toml"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ file = "mods/fabric-language-kotlin.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabricproxy-lite.toml"
+file = "mods/fabricproxy-lite.pw.toml"
 metafile = true
 
 [[files]]

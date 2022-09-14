@@ -13,4 +13,5 @@ file-id = 3548092
 project-id = 411705
 
 [option]
+optional = false
 description = "Restores camera tilt in direction of damage."

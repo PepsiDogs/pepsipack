@@ -13,4 +13,5 @@ file-id = 3209972
 project-id = 433518
 
 [option]
+optional = false
 description = "Lazy-loads the DataFixerUpper."

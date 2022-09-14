@@ -1,0 +1,17 @@
+name = "FabricProxy-Lite"
+filename = "FabricProxy-Lite-1.1.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.6/FabricProxy-Lite-1.1.6.jar"
+hash-format = "sha1"
+hash = "a7911405ce8f3c2126acde7a1cd1cf0c603b3f61"
+
+[update]
+[update.modrinth]
+mod-id = "8dI2tmqs"
+version = "KUX0HBRJ"
+
+[option]
+optional = false
+description = "Enables the server to communicate with a Velocity proxy."

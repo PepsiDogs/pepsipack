@@ -1,16 +1,17 @@
 name = "ServerCore"
-filename = "servercore-1.2.8-1.18.2.jar"
+filename = "servercore-1.2.9-1.18.2.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3667/424/servercore-1.2.8-1.18.2.jar"
 hash-format = "sha1"
-hash = "949d3e5c84d1f42e917766ed90795d9809307397"
+hash = "34aa64703ee1269b6ff3e460b5c0ea75e3a46938"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3667424
+file-id = 3765366
 project-id = 550579
 
 [option]
+optional = false
 description = "Optimisations for the Minecraft server"

@@ -1,14 +1,14 @@
 name = "Pepsi Dogs"
 author = "Dan Porter"
-version = "4.2.0"
-pack-format = "packwiz:1.0.0"
+version = "4.3.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.13.3"
+fabric = "0.14.9"
 minecraft = "1.18.2"
 
 [options]

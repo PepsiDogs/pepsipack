@@ -1,15 +1,15 @@
 name = "Tweakeroo"
-filename = "tweakeroo-fabric-1.18.2-0.13.1.jar"
+filename = "tweakeroo-fabric-1.18.2-0.13.3.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3672/640/tweakeroo-fabric-1.18.2-0.13.1.jar"
 hash-format = "sha1"
-hash = "7ccbb23910574cf972c93137832043900f44fcb9"
+hash = "86b73189a898f8618f7534bef7c4e2a0facb160d"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3672640
+file-id = 3783910
 project-id = 297344
 
 [option]

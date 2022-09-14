@@ -1,15 +1,15 @@
 name = "Indium"
-filename = "indium-1.0.2+mc1.18.2.jar"
+filename = "indium-1.0.7+mc1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3669/436/indium-1.0.2+mc1.18.2.jar"
 hash-format = "sha1"
-hash = "9421de0ce575f84ac652694f8f2bc9a468a42375"
+hash = "5f5e0910181572f844171ed4f2f11e23f3c68af6"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3669436
+file-id = 3911811
 project-id = 459496
 
 [option]

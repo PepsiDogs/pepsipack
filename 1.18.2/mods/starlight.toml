@@ -13,4 +13,5 @@ file-id = 3667443
 project-id = 521783
 
 [option]
+optional = false
 description = "Rewrites the light engine to fix lighting performance and lighting errors."
