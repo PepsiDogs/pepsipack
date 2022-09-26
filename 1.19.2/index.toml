@@ -908,7 +908,7 @@ file = "mods/simple-discord-rpc.toml"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.toml"
+file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ file = "mods/sodium.toml"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.toml"
+file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
@@ -925,6 +925,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
 metafile = true
 
 [[files]]

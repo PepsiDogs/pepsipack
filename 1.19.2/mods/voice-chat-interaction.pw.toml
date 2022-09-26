@@ -1,0 +1,17 @@
+name = "Voice Chat Interaction"
+filename = "vcinteraction-1.19.2-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/fabric-1.19.2-1.0.2/vcinteraction-1.19.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "d4a2cc3bdbed819f60f87e5f9db5c395b1b47c21"
+
+[update]
+[update.modrinth]
+mod-id = "qsSP2ZZ0"
+version = "ilZ1Gyt5"
+
+[option]
+optional = false
+description = "Allows Simple Voice Chat to interact with your Minecraft world"
