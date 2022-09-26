@@ -896,6 +896,10 @@ file = "mods/open-loader.toml"
 metafile = true
 
 [[files]]
+file = "mods/replay-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.toml"
 metafile = true
 

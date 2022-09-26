@@ -10,3 +10,4 @@ hash = "031f924a9452e9e77b29e5d8d2283df07823757b"
 [option]
 optional = true
 description = "Allows for recording gameplay sessions to later render out as timelapses or VODs."
+default = false
