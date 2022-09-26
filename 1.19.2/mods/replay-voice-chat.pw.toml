@@ -1,0 +1,13 @@
+name = "Replay Voice Chat"
+filename = "replayvoicechat-1.19.2-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yI6ANuOK/versions/UqaOBhDN/replayvoicechat-1.19.2-1.2.2.jar"
+hash-format = "sha1"
+hash = "c858d374a3ae1199e719614a3f1f5be8c646d706"
+
+[update]
+[update.modrinth]
+mod-id = "yI6ANuOK"
+version = "UqaOBhDN"
