@@ -1,0 +1,12 @@
+name = "Custom Entity Models"
+filename = "cem-0.7.1.S4.jar"
+side = "client"
+
+[download]
+url = "https://github.com/YoungSoulluoS/cem/releases/download/Soul__Fork_4/cem-0.7.1.S4.jar"
+hash-format = "sha1"
+hash = "8149685300b3d92d764f628a0c5a6764c78eedee"
+
+[option]
+optional = false
+description = "An implementation of custom entity models heavily based off of Optifine's format"
