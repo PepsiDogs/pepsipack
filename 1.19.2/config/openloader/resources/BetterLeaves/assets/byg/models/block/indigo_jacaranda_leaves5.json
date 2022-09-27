@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves5",
+    "textures": {
+        "0":"byg:block/indigo_jacaranda_leaves"
+    }
+}
