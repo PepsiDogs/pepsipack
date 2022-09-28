@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves5",
-    "textures": {
-        "0":"mubble:block/press_garden_leaves"
-    }
+  "parent": "block/leaves5",
+  "textures": {
+    "0": "mubble:block/press_garden_leaves"
+  }
 }

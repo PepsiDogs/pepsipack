@@ -96,4 +96,3 @@ tag @e[type=armor_stand,tag=as_selected] remove as_selected
 #
 scoreboard players set @s as_trigger 0
 scoreboard players enable @s as_trigger
-

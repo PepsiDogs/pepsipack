@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves2",
-    "textures": {
-        "0":"terrestria:block/rubber_leaves"
-    }
+  "parent": "block/leaves2",
+  "textures": {
+    "0": "terrestria:block/rubber_leaves"
+  }
 }

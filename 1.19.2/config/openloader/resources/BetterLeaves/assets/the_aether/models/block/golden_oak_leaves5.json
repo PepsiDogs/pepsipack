@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves5",
-    "textures": {
-        "0":"the_aether:block/golden_oak_leaves"
-    }
+  "parent": "block/leaves5",
+  "textures": {
+    "0": "the_aether:block/golden_oak_leaves"
+  }
 }

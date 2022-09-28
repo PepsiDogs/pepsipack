@@ -1,6 +1,6 @@
 {
-	"values": [
-		"afk_display:load",
-		"afk_display:second"
-	]
+  "values": [
+    "afk_display:load",
+    "afk_display:second"
+  ]
 }

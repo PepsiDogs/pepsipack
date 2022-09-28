@@ -1,4 +1,4 @@
-# 
+#
 # Description:	Randomizes armor stand pose
 # Called by:	armor_statues:trigger
 # Entity @s:	armor stand

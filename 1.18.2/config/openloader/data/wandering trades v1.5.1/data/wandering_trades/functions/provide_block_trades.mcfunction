@@ -27,7 +27,7 @@ function wandering_trades:math/random_trade_index
 # Check if trade index is in existing trades
 execute at @s[tag=!success,tag=!has_new_block_trades] as @e[type=minecraft:item,distance=..0.5,tag=trade_index_copy] run function wandering_trades:check_existing_trades
 
-# Add trade to Trade Index  
+# Add trade to Trade Index
 execute at @s[tag=success,tag=!has_new_block_trades] as @e[type=minecraft:item,distance=..0.5,tag=trade_index] run function wandering_trades:append_trade_index_to_list
 
 # Add trade to wandering trader if it has not been added already

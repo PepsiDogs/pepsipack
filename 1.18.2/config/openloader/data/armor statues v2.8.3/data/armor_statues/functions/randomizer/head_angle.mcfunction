@@ -1,4 +1,4 @@
-# 
+#
 # Description:	adjusts probability
 # Called by:	armor_statues:randomizer/head
 # Entity @s:	temp armor stand

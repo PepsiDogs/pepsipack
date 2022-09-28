@@ -1,4 +1,4 @@
-# 
+#
 # Description:	Nudge postion of armor stand relative to player and aligned to the world grid
 # Called by:	armor_statues:trigger/position_relative
 # Entity @s:	armor stand

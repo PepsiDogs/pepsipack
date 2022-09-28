@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves5",
-    "textures": {
-        "0":"druidcraft:block/darkwood_leaves"
-    }
+  "parent": "block/leaves5",
+  "textures": {
+    "0": "druidcraft:block/darkwood_leaves"
+  }
 }

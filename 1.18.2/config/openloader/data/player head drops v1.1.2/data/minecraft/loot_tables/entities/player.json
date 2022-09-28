@@ -1,20 +1,24 @@
 {
   "type": "minecraft:entity",
   "pools": [
-  	{
-  	  "rolls": 1,
-  	  "entries": [
-  	    {
-  	  	  "type": "item",
-  	  	  "name": "minecraft:player_head",
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:player_head",
           "functions": [
             {
               "function": "set_lore",
               "replace": true,
               "lore": [
                 [
-                  {"text":"§rKilled by §r§e"},
-                  {"selector":"@s"}
+                  {
+                    "text": "\u00a7rKilled by \u00a7r\u00a7e"
+                  },
+                  {
+                    "selector": "@s"
+                  }
                 ]
               ],
               "entity": "killer_player"
@@ -24,13 +28,13 @@
               "entity": "this"
             }
           ],
-					"conditions": [
-						{
-							"condition": "killed_by_player"
-						}
-					]
-  	    }
-  	  ]
-  	}
+          "conditions": [
+            {
+              "condition": "killed_by_player"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

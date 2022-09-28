@@ -1,4 +1,4 @@
-# 
+#
 # Description:	Points an appendage at the player for small armor stands
 # Called by:	armor_statues:trigger
 # Entity @s:	armor stand

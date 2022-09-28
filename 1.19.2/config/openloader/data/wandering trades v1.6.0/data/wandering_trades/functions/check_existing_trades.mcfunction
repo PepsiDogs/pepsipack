@@ -2,7 +2,7 @@
 # Desc: Checks if this trade has already been added to the trader
 #
 # Called by: wandering_trades:provide_trades
-# 
+#
 # Trade Index: @e[type=item,sort=nearest,limit=1,tag=trade_index]
 
 # Copy "Trade Index" Item to "Trade Index Copy" Item

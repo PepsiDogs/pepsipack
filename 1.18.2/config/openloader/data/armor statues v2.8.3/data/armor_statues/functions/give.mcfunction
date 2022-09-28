@@ -22,4 +22,3 @@
 # Give control book
 #
 loot give @s loot armor_statues:book
-

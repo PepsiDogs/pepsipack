@@ -1,4 +1,4 @@
-# 
+#
 # Description:	Randomizes appendage rotation
 # Called by:	armor_statues:trigger/random_pose
 # Entity @s:	temp armor stand

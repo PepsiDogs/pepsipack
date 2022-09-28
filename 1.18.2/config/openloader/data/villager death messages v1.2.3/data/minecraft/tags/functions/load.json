@@ -1,6 +1,6 @@
 {
-	"values": [
-		"villager_death:load",
-		"villager_death:tick"
-	]
+  "values": [
+    "villager_death:load",
+    "villager_death:tick"
+  ]
 }

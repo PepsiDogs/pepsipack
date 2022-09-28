@@ -102,7 +102,7 @@ Here you can find what mods we include across Minecraft versions.
 [Fabric API]: https://www.curseforge.com/minecraft/mc-mods/fabric-api
 [Fabric Language Kotlin]: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
 [FabricProxy-Lite]: https://www.curseforge.com/minecraft/mc-mods/fabricproxy-lite
-[FerriteCore]: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric 
+[FerriteCore]: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
 [Giselbaer's Durability Viewer]: https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
 [Indium]: https://www.curseforge.com/minecraft/mc-mods/indium
 [Iris Shaders]: https://www.curseforge.com/minecraft/mc-mods/irisshaders

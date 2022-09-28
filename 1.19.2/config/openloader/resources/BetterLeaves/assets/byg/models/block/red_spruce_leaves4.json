@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves4",
-    "textures": {
-        "0":"byg:block/spruce_leaves_red"
-    }
+  "parent": "block/leaves4",
+  "textures": {
+    "0": "byg:block/spruce_leaves_red"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves3",
-    "textures": {
-        "0":"lint:block/features/corrupt_tree/corrupt_leaves"
-    }
+  "parent": "block/leaves3",
+  "textures": {
+    "0": "lint:block/features/corrupt_tree/corrupt_leaves"
+  }
 }

@@ -22,27 +22,27 @@
 					{\"text\":\"\\\\u24be\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"This book allows you to apply basic settings to an armor stand. Clicking the coloured links will adjust the closest armor stand within three blocks.\",\"color\":\"yellow\"}]}},
 					{\"text\":\"\\\\n\\\\n  Table of Contents\",\"color\":\"black\"},
 					{\"text\":\"\\\\n\",\"color\":\"white\"},
-					
+
 					{\"text\":\"\\\\nStyles\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":2}},
 					{\"text\":\"     \",\"color\":\"white\"},
 					{\"text\":\"Auto Align\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":7}},
-					
+
 					{\"text\":\"\\\\nNudge\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":3}},
 					{\"text\":\"    ..\",\"color\":\"white\"},
 					{\"text\":\"Swap Slots\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":7}},
-					
+
 					{\"text\":\"\\\\nRotation\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":4}},
 					{\"text\":\"  .\",\"color\":\"white\"},
 					{\"text\":\"Mirror/Flip\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":8}},
-					
+
 					{\"text\":\"\\\\nPointing\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":4}},
 					{\"text\":\"   \",\"color\":\"white\"},
 					{\"text\":\"Utilities\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":8}},
-					
+
 					{\"text\":\"\\\\nPresets\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":5}},
 					{\"text\":\"  .\",\"color\":\"white\"},
 					{\"text\":\"Item Frames\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":9}},
-					
+
 					{\"text\":\"\\\\n\",\"color\":\"white\"},
 					{\"text\":\"Pose Adjust\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":6}},
 					{\"text\":\"   \",\"color\":\"white\"},
@@ -478,7 +478,7 @@
 					{\"text\":\"Yes\",\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/trigger if_invisible set 2\"}},
 					{\"text\":\" / \",\"color\":\"black\"},
 					{\"text\":\"No\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/trigger if_invisible set 3\"}},
-					
+
 					{\"text\":\"\",\"color\":\"white\"}
 				  ]',
 				  '[
@@ -488,7 +488,7 @@
 					{\"text\":\"Credits\",\"color\":\"dark_blue\"},
 					{\"text\":\"      \",\"color\":\"white\"},
 					{\"text\":\"\\\\u24be\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Click on names for links.\",\"color\":\"yellow\"}]}},
-					
+
 					{\"text\":\"\\\\n\\\\n  Original concept by\",\"color\":\"black\"},
 					{\"text\":\"\\\\n       \",\"color\":\"white\"},
 					{\"text\":\"Phssthpok\",\"color\":\"#87325d\",\"bold\":\"true\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://twitter.com/MCPhssthpok\"}},
