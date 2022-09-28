@@ -5665,6 +5665,36 @@ file = "config/openloader/resources/FreshAnimations/pack.mcmeta"
 file = "config/openloader/resources/FreshAnimations/pack.png"
 
 [[files]]
+file = "config/openloader/resources/PlsCraft/assets/custom/models/item/minipumpkindude.json"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/custom/models/item/pumpkinantenna.json"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/custom/models/item/toffee_apple.json"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/custom/textures/item/minipumpkindude.png"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/custom/textures/item/pumpkinantenna.png"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/custom/textures/item/toffee_apple.png"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/minecraft/models/item/carved_pumpkin.json"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/assets/minecraft/models/item/golden_carrot.json"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/model_list.csv"
+
+[[files]]
+file = "config/openloader/resources/PlsCraft/pack.mcmeta"
+
+[[files]]
 file = "config/openloader/resources/VanillaTweaks/Selected Packs.txt"
 
 [[files]]
