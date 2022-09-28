@@ -1,29 +1,59 @@
+---
 name: packwiz-ci
 
-on: [ push ]
+on: [push]
+
+permissions:
+  contents: read
+  deployments: write
+  id-token: write
+  pages: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+          lfs: true
 
       - name: Set up go
         uses: actions/setup-go@v2
         with:
-          go-version: '^1.17.7'
+          go-version: ^1.19.1
 
       - name: Set up packwiz
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Packwiz refresh build
-        run: for pack in $(find . -type f -name 'pack.toml' -exec dirname "{}" \;); do (echo "Running packwiz refresh --build on '${pack}'" && cd ${pack} && packwiz refresh --build); done
+        run: for pack in $(find . -type f -name 'pack.toml' -exec dirname "{}" \;);
+          do (echo "Running packwiz refresh --build on '${pack}'" && cd ${pack} &&
+          packwiz refresh --build); done
 
-      - name: Publish to GitHub Pages
-        if : ${{github.ref == 'refs/heads/main' }}
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          # Upload entire repository
+          path: .
+
+  deploy:
+    needs: build
+    if: ${{github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
