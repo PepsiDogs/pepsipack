@@ -1,0 +1,4 @@
+item,custom_model_data,model
+minecraft:item/carved_pumpkin,1,custom:item/minipumpkindude
+,2,custom:item/pumpkinantenna
+minecraft:item/golden_carrot,1,custom:item/toffee_apple
