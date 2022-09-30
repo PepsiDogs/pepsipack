@@ -1,15 +1,15 @@
 name = "ServerCore"
-filename = "servercore-1.3.1-1.19.1.jar"
+filename = "servercore-1.3.2-1.19.2.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "c92240fc35c56eebbb8b1adadf6ba99c07a6d873"
+hash = "50ccc2bdfb4e13475eae83672d6a489d3db7513e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3905927
+file-id = 4012542
 project-id = 550579
 
 [option]
