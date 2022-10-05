@@ -5305,6 +5305,9 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/ce
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/magma_cube1.jem"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/magma_cubeold.jem"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/mooshroom.jem"
 
 [[files]]

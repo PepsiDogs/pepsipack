@@ -84,12 +84,12 @@
 					"left_arm.tz": " -sin((limb_swing/2+age)/if(is_child, 45, 80)*pi*2)/4 +if(is_child, -0.5, -1.8) -torad(head_yaw) -(sin(pi*swing_progress)*4)"
 				},
 				{
-					"right_leg.rx": "if(is_riding, right_leg.rx, sin((limb_swing/2+age)/if(is_child, 45, 80)*pi*2)/40 +sin((limb_swing/if(is_child, 3, 1))/1.4)/6 +sin((limb_swing/if(is_child, 3, 1))/1.4)/if(is_child, 1, 1.5)*limb_speed +clamp(-cos(torad(45)+(limb_swing/if(is_child, 3, 1))/1.4)/3*clamp(limb_speed*1.5, 0, 1), 0, torad(30)) +torad(7)*limb_speed +if(is_child, torad(2), 0)) -torad(head_yaw)/30 +(sin(-pi*swing_progress)/5)",
-					"left_leg.rx": " if(is_riding,  left_leg.rx, sin((limb_swing/2+age)/if(is_child, 45, 80)*pi*2)/40 -sin((limb_swing/if(is_child, 3, 1))/1.4)/6 -sin((limb_swing/if(is_child, 3, 1))/1.4)/if(is_child, 1, 1.5)*limb_speed +clamp( cos(torad(45)+(limb_swing/if(is_child, 3, 1))/1.4)/3*clamp(limb_speed*1.5, 0, 1), 0, torad(30)) +torad(7)*limb_speed +if(is_child, torad(2), 0)) +torad(head_yaw)/30 +(sin(-pi*swing_progress)/5)",
-					"right_leg.ry": "if(is_riding, right_leg.ry, torad( 5)) +if(is_child, clamp(torad( 15)-limb_speed, 0, torad( 15)), 0)",
-					"left_leg.ry": " if(is_riding,  left_leg.ry, torad(-5)) +if(is_child, clamp(torad(-15)+limb_speed, torad(-15), 0), 0)",
-					"right_leg.rz": "if(is_riding, right_leg.rz, torad( 2)) +if(is_child,  sin((limb_swing/2+age)/45*pi*2)/100, 0)",
-					"left_leg.rz": " if(is_riding,  left_leg.rz, torad(-2)) +if(is_child, -sin((limb_swing/2+age)/45*pi*2)/100, 0)",
+					"right_leg.rx": "if(is_riding, torad(-80), sin((limb_swing/2+age)/if(is_child, 45, 80)*pi*2)/40 +sin((limb_swing/if(is_child, 3, 1))/1.4)/6 +sin((limb_swing/if(is_child, 3, 1))/1.4)/if(is_child, 1, 1.5)*limb_speed +clamp(-cos(torad(45)+(limb_swing/if(is_child, 3, 1))/1.4)/3*clamp(limb_speed*1.5, 0, 1), 0, torad(30)) +torad(7)*limb_speed +if(is_child, torad(2), 0)) -torad(head_yaw)/30 +(sin(-pi*swing_progress)/5)",
+					"left_leg.rx": " if(is_riding,  torad(-80), sin((limb_swing/2+age)/if(is_child, 45, 80)*pi*2)/40 -sin((limb_swing/if(is_child, 3, 1))/1.4)/6 -sin((limb_swing/if(is_child, 3, 1))/1.4)/if(is_child, 1, 1.5)*limb_speed +clamp( cos(torad(45)+(limb_swing/if(is_child, 3, 1))/1.4)/3*clamp(limb_speed*1.5, 0, 1), 0, torad(30)) +torad(7)*limb_speed +if(is_child, torad(2), 0)) +torad(head_yaw)/30 +(sin(-pi*swing_progress)/5)",
+					"right_leg.ry": "+if(is_riding, torad( 20), 0) +if(is_child, clamp(torad( 15)-limb_speed, 0, torad( 15)), 0)",
+					"left_leg.ry": " +if(is_riding, torad(-20), 0) +if(is_child, clamp(torad(-15)+limb_speed, torad(-15), 0), 0)",
+					"right_leg.rz": "if(is_riding, 0, torad( 2)) +if(is_child,  sin((limb_swing/2+age)/45*pi*2)/100, 0)",
+					"left_leg.rz": " if(is_riding,  0, torad(-2)) +if(is_child, -sin((limb_swing/2+age)/45*pi*2)/100, 0)",
 					"right_leg.tx": "-2 -sin((limb_swing/if(is_child, 3, 1))/1.4 +sin((limb_swing/if(is_child, 3, 1))/1.4)/2)*limb_speed",
 					"left_leg.tx": "  2 -sin((limb_swing/if(is_child, 3, 1))/1.4 +sin((limb_swing/if(is_child, 3, 1))/1.4)/2)*limb_speed",
 					"right_leg.ty": "12.2 +clamp( sin(torad(45)+(limb_swing/if(is_child, 3, 1))/1.4)*4*limb_speed +(1*limb_speed) +head.ty*limb_speed*2, -4, 0)",

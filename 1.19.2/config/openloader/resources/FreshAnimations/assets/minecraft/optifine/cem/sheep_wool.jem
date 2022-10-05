@@ -85,8 +85,8 @@
 					"rotation.ry": "if(limb_speed>=if(is_child, 0.5, 0.7), -sin(limb_swing*0.85)/24*limb_speed, -sin(limb_swing*0.85)/10*limb_speed)",
 					"rotation.rz": "-torad(head_yaw)/5*clamp(1-limb_speed*2, 0, 1)",
 					"rotation.tx": "if(limb_speed>=if(is_child, 0.5, 0.7), 0, -sin(limb_swing*0.85)/2 *limb_speed)",
-					"rotation.ty": "if(!is_on_ground&&is_touching_water, sin(torad(-45)+limb_swing/2+age/2/2)/2, limb_speed>=if(is_child, 0.5, 0.7), 0, sin(torad(-135)+limb_swing*0.85/0.5)/4*limb_speed) -18.5",
-					"rotation.tz": "if(!is_on_ground&&is_touching_water, -5, limb_speed>=if(is_child, 0.5, 0.7), limb_speed +sin(torad(-90)+limb_swing*0.85)*limb_speed, (-1*limb_speed) +sin(limb_swing*0.85/0.5)*limb_speed) -4 +sin(limb_swing/2+age/if(is_child, 5.5, 11))/6 -(head.ty-6)/3"
+					"rotation.ty": "-1 +if(!is_on_ground&&is_touching_water, sin(torad(-45)+limb_swing/2+age/2/2)/2, limb_speed>=if(is_child, 0.5, 0.7), 0, sin(torad(-135)+limb_swing*0.85/0.5)/4*limb_speed) -18.5",
+					"rotation.tz": "-1 +if(!is_on_ground&&is_touching_water, -5, limb_speed>=if(is_child, 0.5, 0.7), limb_speed +sin(torad(-90)+limb_swing*0.85)*limb_speed, (-1*limb_speed) +sin(limb_swing*0.85/0.5)*limb_speed) -4 +sin(limb_swing/2+age/if(is_child, 5.5, 11))/6 -(head.ty-6)/3"
 				},
 				{
 					"leg1.rx": " sin(limb_swing/2+age/if(is_child, 5.5, 11))/60           +if(!is_on_ground&&is_touching_water,  sin(limb_swing/2+age/2.5)/2, limb_speed>=if(is_child, 0.5, 0.7), sin(torad( 0 -22.5)+limb_swing*0.85)/2*limb_speed, sin(torad(-90 +25)+limb_swing*0.85)/4 +(sin(torad(-90 +25)+limb_swing*0.85)/3 +torad(10) +clamp(sin(torad(  0 +25)+limb_swing*0.85)/2, torad(-30), 0) )*limb_speed) +torad(head_yaw)/12*clamp(1-limb_speed*2, 0, 1)",
