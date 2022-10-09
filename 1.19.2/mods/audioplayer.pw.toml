@@ -1,13 +1,13 @@
 name = "AudioPlayer"
-filename = "audioplayer-1.19.2-1.4.4.jar"
+filename = "audioplayer-1.19.2-1.4.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/6LbglOp5/audioplayer-1.19.2-1.4.4.jar"
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/BhQxltzU/audioplayer-1.19.2-1.4.5.jar"
 hash-format = "sha1"
-hash = "4df5df8cf832b48889686276ca51a29eb4f99ecf"
+hash = "ba3a3d88b17b4f7049339485f59431f17656da5c"
 
 [update]
 [update.modrinth]
 mod-id = "SRlzjEBS"
-version = "6LbglOp5"
+version = "BhQxltzU"
