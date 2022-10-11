@@ -1,15 +1,15 @@
 name = "Better Mount HUD"
-filename = "bettermounthud-1.1.4.jar"
+filename = "bettermounthud-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3637/536/bettermounthud-1.1.4.jar"
-hash-format = "murmur2"
-hash = "464303316"
+hash-format = "sha1"
+hash = "af91cf0d8944ce4d8d15592a0615174c26ce141a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3637536
+file-id = 4023319
 project-id = 475358
 
 [option]

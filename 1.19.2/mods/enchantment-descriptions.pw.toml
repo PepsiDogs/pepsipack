@@ -1,15 +1,15 @@
 name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-Fabric-1.19.2-13.0.5.jar"
+filename = "EnchantmentDescriptions-Fabric-1.19.2-13.0.6.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e75e54eba32b0eb67c266b7ef0e9083135b07257"
+hash = "cd5f9131021f46a68e88b6312dd3afe1987f8cee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4014278
+file-id = 4023968
 project-id = 250419
 
 [option]
