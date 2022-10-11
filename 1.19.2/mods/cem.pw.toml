@@ -1,11 +1,11 @@
 name = "Custom Entity Models"
-filename = "cem-0.7.1_S5.jar"
+filename = "cem-0.7.1_S6.jar"
 side = "client"
 
 [download]
-url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_5/cem-0.7.1_S5.jar"
+url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_6/cem-0.7.1_S6.jar"
 hash-format = "sha1"
-hash = "6c41fe094e2ad2de57cc6f1c132872a40f79d86a"
+hash = "92c5e88bc12bdca9c1a063b37134bec130941456"
 
 [option]
 optional = false

@@ -5230,9 +5230,6 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/ce
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/cat.jem"
 
 [[files]]
-file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/cat1.jem"
-
-[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/cat_collar.jem"
 
 [[files]]
@@ -5300,12 +5297,6 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/ce
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/magma_cube.jem"
-
-[[files]]
-file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/magma_cube1.jem"
-
-[[files]]
-file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/magma_cubeold.jem"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/mooshroom.jem"
