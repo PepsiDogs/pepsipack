@@ -11,3 +11,7 @@ hash = "ba3a3d88b17b4f7049339485f59431f17656da5c"
 [update.modrinth]
 mod-id = "SRlzjEBS"
 version = "BhQxltzU"
+
+[option]
+optional = false
+description = "Custom audio for music discs and goat horns."

@@ -15,3 +15,4 @@ version = "m3TU0WFs"
 [option]
 optional = true
 description = "Install if internet shit. Press G to refresh block info."
+default = false

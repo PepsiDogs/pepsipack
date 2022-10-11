@@ -15,3 +15,4 @@ project-id = 265956
 [option]
 optional = true
 description = "Quick crafting in a sidebar menu."
+default = false

@@ -15,3 +15,4 @@ project-id = 325492
 [option]
 optional = true
 description = "Press F7 to see light levels."
+default = false

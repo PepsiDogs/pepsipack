@@ -2,7 +2,7 @@
 
 This repository contains the [packwiz] configuration for the Pepsi Dogs minecraft modpack.
 
-Both server and client configurations are provided. The version of Minecraft supported as of now is 1.18.2.
+Both server and client configurations are provided. The version of Minecraft actively supported as of now is 1.19.2.
 
 ## MultiMC setup
 
@@ -16,7 +16,7 @@ To set up your MultiMC to automatically update and download mods for connecting 
 
 1. Download [packwiz-installer-bootstrap.jar] and place it in your instance's `.minecraft` folder.
 2. Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
-   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.18.2/pack.toml`
+   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.2/pack.toml`
 
 When launching Minecraft, MultiMC should call upon packwiz to update and pull down all required mods, and offer optional mods if you want them!
 
@@ -28,10 +28,10 @@ Here you can find what mods we include across Minecraft versions.
 |---|---|---|---|
 | [AdvancementInfo] | More info on advancement requirements, etc. | Client | ❎ (default) |
 | [AntiGhost] | Install if internet shit. Press G to refresh block info. | Client | ❎ |
-| [Architectury] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
-| [Beenfo] | Adds honey and bee level information to hives. | Both | ❎ (default) |
-| [Better Mount Hud] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
-| [Better Ping Display] | Display player's ping in the player list as a number | Client | ✅ |
+| [Architectury API] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
+| [AudioPlayer] | Custom audio for music discs and goat horns. | Server | ✅ |
+| [Better Mount HUD] | Improves mount HUD, adding your hunger and restoring XP bar when not jumping. | Client | ❎ (default) |
+| [Better Ping Display] | Display player's ping in the player list as a number. | Client | ❎ (default) |
 | [Better Third Person] | Adds independent rotation of the camera from a third person view. | Client | ❎ (default) |
 | [Bobby] | Allows for render distances greater than the server's view-distance setting. | Client | ❎ (default) |
 | [Bookshelf] | Client mod library used by Enchantment Descriptions | Client | ✅ |
@@ -41,6 +41,8 @@ Here you can find what mods we include across Minecraft versions.
 | [Clear Despawn] | Makes dropped items flash when they're about to de-spawn. | Client | ❎ (default) |
 | [ClickThrough] | Allows click-through on chests with frames/signs, crouch to override. | Client | ❎ (default) |
 | [Cloth Config API] | Config Screen API. | Client | ✅ |
+| [Cull Leaves] | Adds OptiFine's "better trees" - fancy leaves are more see-through for better FPS. | Client | ❎ (default) |
+| [Custom Entity Models]² | Support for custom entity models. | Client | ✅ |
 | [Damage Tilt] | Restores camera tilt in direction of damage. | Both | ✅ |
 | [EasierCrafting] | Quick crafting in a sidebar menu. | Client | ❎ |
 | [EasierVillagerTrading] | Villager trades are insta-click. | Client | ❎ (default) |
@@ -65,6 +67,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Not Enough Crashes] | Improves crashes in Minecraft. | Client | ✅ |
 | [Open Loader] | Enables data packs and resource packs to be applied globally | Both | ✅ |
 | [Replay Mod]¹ | Allows for recording gameplay sessions to later render out as timelapses or VODs. | Client | ❎ |
+| [Replay Voice Chat] | Stores voice chat in ReplayMod recordings. | Client | ❎ |
 | [ServerCore] | Optimisations for the Minecraft server | Server | ✅ |
 | [Simple Discord RPC] | Display what you are doing in Minecraft in your Discord status | Client | ❎ (default) |
 | [Simple Voice Chat] | In-game proximity voice chat | Both | ✅ |
@@ -72,22 +75,24 @@ Here you can find what mods we include across Minecraft versions.
 | [Sound Physics Remastered] | Provides realistic sound attenuation, reverberation, and absorption through blocks. Helps with Voice Chat. | Both | ❎ (default) |
 | [Starlight] | Rewrites the light engine to fix lighting performance and lighting errors. | Both | ✅ |
 | [Tweakeroo] | Adds a bunch of various tweaks, including auto-clicker, freecam, tool change, etc. | Client | ❎ |
+| [Voice Chat Interaction] | Allows Simple Voice Chat to interact with your Minecraft world. | Server | ✅ |
 | [Your Options Shall Be Respected] | Provide default configuration where applicable | Client | ✅ |
 
 
 ¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+² Custom fork or release from mainline
 
 
 [packwiz]: https://packwiz.infra.link/
 [packwiz-installer-bootstrap.jar]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
 [AdvancementInfo]: https://www.curseforge.com/minecraft/mc-mods/advancementinfo
 [AntiGhost]: https://www.curseforge.com/minecraft/mc-mods/antighost
-[Architectury]: https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
-[Beenfo]: https://www.curseforge.com/minecraft/mc-mods/beenfo
-[Better Mount Hud]: https://www.curseforge.com/minecraft/mc-mods/better-mount-hud
+[Architectury API]: https://modrinth.com/mod/architectury-api
+[AudioPlayer]: https://modrinth.com/mod/audioplayer
+[Better Mount HUD]: https://www.curseforge.com/minecraft/mc-mods/better-mount-hud
 [Better Ping Display]: https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
 [Better Third Person]: https://www.curseforge.com/minecraft/mc-mods/better-third-person
-[Bobby]: https://www.curseforge.com/minecraft/mc-mods/bobby
+[Bobby]: https://modrinth.com/mod/bobby
 [Bookshelf]: https://www.curseforge.com/minecraft/mc-mods/bookshelf
 [Carpet Extra]: https://www.curseforge.com/minecraft/mc-mods/carpet-extra
 [Carpet]: https://www.curseforge.com/minecraft/mc-mods/carpet
@@ -95,13 +100,15 @@ Here you can find what mods we include across Minecraft versions.
 [Clear Despawn]: https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
 [ClickThrough]: https://www.curseforge.com/minecraft/mc-mods/clickthrough
 [Cloth Config API]: https://www.curseforge.com/minecraft/mc-mods/cloth-config
+[Cull Leaves]: https://modrinth.com/mod/cull-leaves
+[Custom Entity Models]: https://modrinth.com/mod/cem
 [Damage Tilt]: https://www.curseforge.com/minecraft/mc-mods/damage-tilt
 [EasierCrafting]: https://www.curseforge.com/minecraft/mc-mods/easiercrafting
 [EasierVillagerTrading]: https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading
 [Enchantment Descriptions]: https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
-[Fabric API]: https://www.curseforge.com/minecraft/mc-mods/fabric-api
+[Fabric API]: https://modrinth.com/mod/fabric-api
 [Fabric Language Kotlin]: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
-[FabricProxy-Lite]: https://www.curseforge.com/minecraft/mc-mods/fabricproxy-lite
+[FabricProxy-Lite]: https://modrinth.com/mod/fabricproxy-lite
 [FerriteCore]: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric 
 [Giselbaer's Durability Viewer]: https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
 [Indium]: https://www.curseforge.com/minecraft/mc-mods/indium
@@ -120,11 +127,13 @@ Here you can find what mods we include across Minecraft versions.
 [Not Enough Crashes]: https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
 [Open Loader]: https://www.curseforge.com/minecraft/mc-mods/open-loader
 [Replay Mod]: https://www.replaymod.com/
+[Replay Voice Chat]: https://modrinth.com/mod/replay-voice-chat
 [ServerCore]: https://www.curseforge.com/minecraft/mc-mods/servercore
 [Simple Discord RPC]: https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
-[Simple Voice Chat]: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+[Simple Voice Chat]: https://modrinth.com/mod/simple-voice-chat
 [Sodium]: https://www.curseforge.com/minecraft/mc-mods/sodium
-[Sound Physics Remastered]: https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
+[Sound Physics Remastered]: https://modrinth.com/mod/sound-physics-remastered
 [Starlight]: https://www.curseforge.com/minecraft/mc-mods/starlight
 [Tweakeroo]: https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+[Voice Chat Interaction]: https://modrinth.com/mod/voice-chat-interaction
 [Your Options Shall Be Respected]: https://www.curseforge.com/minecraft/mc-mods/yosbr

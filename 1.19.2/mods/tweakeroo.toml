@@ -15,3 +15,4 @@ project-id = 297344
 [option]
 optional = true
 description = "Adds a bunch of various tweaks, including auto-clicker, freecam, tool change, etc."
+default = false
