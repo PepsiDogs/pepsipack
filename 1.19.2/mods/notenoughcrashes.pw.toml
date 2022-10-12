@@ -1,17 +1,17 @@
-name = "Not Enough Crashes (Fabric)"
+name = "Not Enough Crashes"
 filename = "notenoughcrashes-4.1.8+1.19.2-fabric.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/HZlh6stm/notenoughcrashes-4.1.8%2B1.19.2-fabric.jar"
 hash-format = "sha1"
-hash = "0b9f89738ebc7c5309b8a25758fd8229b425aa3e"
-mode = "metadata:curseforge"
+hash = "1d1f0bc85b31e1e5020e88a74dadbdf4a64aebaf"
 
 [update]
-[update.curseforge]
-file-id = 3930707
-project-id = 353890
+[update.modrinth]
+mod-id = "yM94ont6"
+version = "HZlh6stm"
 
 [option]
 optional = false
-description = "Improves crashes in Minecraft."
+description = "When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant."

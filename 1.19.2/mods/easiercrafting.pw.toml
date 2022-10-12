@@ -3,16 +3,16 @@ filename = "easiercrafting-1.19.1-fabric0.58.5-1.7.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/UylF21yz/versions/1.19.1-fabric0.58.5-1.7/easiercrafting-1.19.1-fabric0.58.5-1.7.jar"
 hash-format = "sha1"
 hash = "ddbd28e09b6ac8eda57e956d43f733cf044e9273"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3907247
-project-id = 265956
+[update.modrinth]
+mod-id = "UylF21yz"
+version = "Yu1Ncsek"
 
 [option]
 optional = true
-description = "Quick crafting in a sidebar menu."
+description = "Fewer clicks to craft stuff than the internal recipe book!"
 default = false

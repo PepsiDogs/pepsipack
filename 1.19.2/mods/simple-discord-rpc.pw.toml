@@ -3,16 +3,16 @@ filename = "SimpleRPC-fabric-1.19-3.1.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/1.19-3.1.1f/SimpleRPC-fabric-1.19-3.1.1.jar"
 hash-format = "sha1"
 hash = "3ac520e8208c611d584e9ec4d241e3399f4636db"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3899282
-project-id = 411816
+[update.modrinth]
+mod-id = "ObXSoyrn"
+version = "wYej0R3w"
 
 [option]
 optional = true
-description = "Display what you are doing in Minecraft in your Discord status"
+description = "A simple to use Discord RPC plugin for Minecraft and Modpacks"
 default = true

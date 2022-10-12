@@ -3,15 +3,15 @@ filename = "servercore-1.3.2-1.19.2.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/A6ySBG0U/servercore-1.3.2-1.19.2.jar"
 hash-format = "sha1"
 hash = "a1416ff8a3d3dc82d6e9e9c48086657471e781af"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4018712
-project-id = 550579
+[update.modrinth]
+mod-id = "4WWQxlQP"
+version = "A6ySBG0U"
 
 [option]
 optional = false
-description = "Optimisations for the Minecraft server"
+description = "A fabric mod that aims to optimize the minecraft server."

@@ -3,16 +3,16 @@ filename = "advancementinfo-1.19.1-fabric0.58.5-1.3.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/G1epq3jN/versions/1.19.1-fabric0.58.5-1.3.1/advancementinfo-1.19.1-fabric0.58.5-1.3.1.jar"
 hash-format = "sha1"
 hash = "9ba152030c480c329653f3ae654b3fca5421c23a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3907238
-project-id = 403815
+[update.modrinth]
+mod-id = "G1epq3jN"
+version = "p4psnBkA"
 
 [option]
 optional = true
-description = "Makes the advancement pages bigger, adds a requirement list and search bar"
+description = "Show more information about advancement requirements"
 default = true

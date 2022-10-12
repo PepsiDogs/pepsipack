@@ -3,16 +3,16 @@ filename = "clickthrough-1.19.1-fabric0.58.5-0.4.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.19.1-fabric0.58.5-0.4/clickthrough-1.19.1-fabric0.58.5-0.4.jar"
 hash-format = "sha1"
 hash = "c0323e8daeca558d37287225c33a49840301afa7"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3907241
-project-id = 405262
+[update.modrinth]
+mod-id = "Z5b0cAlD"
+version = "Rxkd5QRH"
 
 [option]
 optional = true
-description = "Allows click-through on chests with frames/signs, crouch to override."
+description = "Click through signs and item frames to chests"
 default = true

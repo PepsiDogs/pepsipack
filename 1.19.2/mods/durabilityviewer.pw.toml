@@ -1,18 +1,18 @@
-name = "Giselbaer's Durability Viewer"
+name = "Durability Viewer"
 filename = "durabilityviewer-1.19.1-fabric0.58.5-1.10.3.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.19.1-fabric0.58.5-1.10.3/durabilityviewer-1.19.1-fabric0.58.5-1.10.3.jar"
 hash-format = "sha1"
 hash = "4c0b3f5906c930d0b28c70248f6a643aa6736632"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3907244
-project-id = 262146
+[update.modrinth]
+mod-id = "LTM1f0yY"
+version = "CYhU3d5T"
 
 [option]
 optional = true
-description = "Tool Durability Viewer HUD"
+description = "Armor and Tool durability HUD"
 default = true

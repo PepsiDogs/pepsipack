@@ -3,16 +3,16 @@ filename = "bettermounthud-1.2.0.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/pRNvuggg/bettermounthud-1.2.0.jar"
 hash-format = "sha1"
 hash = "af91cf0d8944ce4d8d15592a0615174c26ce141a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4023319
-project-id = 475358
+[update.modrinth]
+mod-id = "kqJFAPU9"
+version = "pRNvuggg"
 
 [option]
 optional = true
-description = "Improves mount HUD, adding your hunger and restoring XP bar when not jumping."
+description = "Improves the ingame HUD while riding a mount"
 default = true

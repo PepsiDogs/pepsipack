@@ -1,18 +1,18 @@
-name = "Light Overlay (Rift/Forge/Fabric)"
+name = "Light Overlay"
 filename = "light-overlay-7.0.0.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/YfOlc91N/versions/7.0.0%2Bfabric/light-overlay-7.0.0.jar"
 hash-format = "sha1"
 hash = "188fbcfdc097b1a5309f1588270d075627c84a96"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3832013
-project-id = 325492
+[update.modrinth]
+mod-id = "YfOlc91N"
+version = "8MLUOCy0"
 
 [option]
 optional = true
-description = "Press F7 to see light levels."
+description = "A simple mod to provide users with NEI-like light level overlay."
 default = false

@@ -3,15 +3,15 @@ filename = "ledger-1.2.5.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar"
 hash-format = "sha1"
 hash = "22b7846c9485c0778799978b1e5b77da1763571a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3821659
-project-id = 491137
+[update.modrinth]
+mod-id = "LVN9ygNV"
+version = "KwzHK3mh"
 
 [option]
 optional = false
-description = "Server-side Logging mod"
+description = "A serverside logging mod"

@@ -14,5 +14,5 @@ version = "m3TU0WFs"
 
 [option]
 optional = true
-description = "Install if internet shit. Press G to refresh block info."
+description = "Get rid of ghost blocks by requesting resends from the server"
 default = false

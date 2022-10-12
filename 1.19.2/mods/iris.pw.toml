@@ -3,15 +3,15 @@ filename = "iris-mc1.19.2-1.4.0.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/RRjXTE6G/iris-mc1.19.2-1.4.0.jar"
 hash-format = "sha1"
 hash = "2e62f68c5ae5b4b38728e84ab7779023677bd78a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4023645
-project-id = 455508
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "RRjXTE6G"
 
 [option]
 optional = false
-description = "Optifine shader support for Sodium."
+description = "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs"

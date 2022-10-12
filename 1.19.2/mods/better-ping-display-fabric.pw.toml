@@ -3,16 +3,16 @@ filename = "BetterPingDisplay-Fabric-1.19.2-1.1.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/MS1ZMyR7/versions/DCWtLDt7/BetterPingDisplay-Fabric-1.19.2-1.1.1.jar"
 hash-format = "sha1"
 hash = "7185f04b2089d29af83f4d32366b00c09fb1c90e"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4018586
-project-id = 406343
+[update.modrinth]
+mod-id = "MS1ZMyR7"
+version = "DCWtLDt7"
 
 [option]
 optional = true
-description = "Display player's ping in the player list as a number"
+description = "Adds a configurable numerical ping display to the player list"
 default = true

@@ -14,5 +14,5 @@ project-id = 308793
 
 [option]
 optional = true
-description = "Makes dropped items flash when they're about to de-spawn."
+description = "Make items blink when they're about to despawn"
 default = true
