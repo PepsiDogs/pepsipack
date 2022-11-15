@@ -1,16 +1,16 @@
 name = "ServerCore"
-filename = "servercore-1.3.2-1.19.2.jar"
+filename = "servercore-1.3.3-1.19.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/A6ySBG0U/servercore-1.3.2-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/kzD8EGTS/servercore-1.3.3-1.19.2.jar"
 hash-format = "sha1"
-hash = "a1416ff8a3d3dc82d6e9e9c48086657471e781af"
+hash = "4bea059cb5ae5dcbe0959d6fcf5ac2120e7f1f40"
 
 [update]
 [update.modrinth]
 mod-id = "4WWQxlQP"
-version = "A6ySBG0U"
+version = "kzD8EGTS"
 
 [option]
 optional = false
