@@ -7,11 +7,6 @@ url = "https://www.replaymod.com/download/sodium-fabric-mc1.18.2-0.4.1+replaymod
 hash-format = "sha1"
 hash = "0951e1c41eb42bf851b4477fca6cf587d359dceb"
 
-[update]
-[update.curseforge]
-file-id = 3669187
-project-id = 394468
-
 [option]
 optional = false
 description = "Rendering engine replacement"
