@@ -5747,6 +5747,10 @@ file = "mods/advancementinfo.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 metafile = true
 
@@ -5828,6 +5832,10 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
 metafile = true
 
 [[files]]
