@@ -2,7 +2,7 @@
 
 This repository contains the [packwiz] configuration for the Pepsi Dogs minecraft modpack.
 
-Both server and client configurations are provided. The version of Minecraft actively supported as of now is 1.19.2.
+Both server and client configurations are provided. The version of Minecraft actively supported as of now is 1.19.3.
 
 ## MultiMC setup
 
@@ -16,7 +16,7 @@ To set up your MultiMC to automatically update and download mods for connecting 
 
 1. Download [packwiz-installer-bootstrap.jar] and place it in your instance's `.minecraft` folder.
 2. Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
-   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.2/pack.toml`
+   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.3/pack.toml`
 
 When launching Minecraft, MultiMC should call upon packwiz to update and pull down all required mods, and offer optional mods if you want them!
 
