@@ -3,9 +3,9 @@ filename = "cem-0.7.1_S8_1.19.jar"
 side = "client"
 
 [download]
-url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_8/cem-0.7.1_S8_1.19.jar"
+url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_10/cem-0.7.3_S10_1.19.3.jar"
 hash-format = "sha1"
-hash = "805f07865c131983c71fcdc73839da01b39b3e70"
+hash = "897265c2f9777c99547df32836eedfefe28b436e"
 
 [option]
 optional = false
