@@ -1,18 +1,17 @@
 name = "EasierCrafting"
-filename = "easiercrafting-1.19.1-fabric0.58.5-1.7.jar"
+filename = "easiercrafting-1.19.3-fabric0.68.1-1.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UylF21yz/versions/1.19.1-fabric0.58.5-1.7/easiercrafting-1.19.1-fabric0.58.5-1.7.jar"
+url = "https://cdn.modrinth.com/data/UylF21yz/versions/B0DMqMXo/easiercrafting-1.19.3-fabric0.68.1-1.7.jar"
 hash-format = "sha1"
-hash = "ddbd28e09b6ac8eda57e956d43f733cf044e9273"
+hash = "aa128ef8196addc7d4204424842e14f2d00d0fca"
 
 [update]
 [update.modrinth]
 mod-id = "UylF21yz"
-version = "Yu1Ncsek"
+version = "B0DMqMXo"
 
 [option]
 optional = true
 description = "Fewer clicks to craft stuff than the internal recipe book!"
-default = false

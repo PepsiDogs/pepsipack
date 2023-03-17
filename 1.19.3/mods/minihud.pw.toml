@@ -1,18 +1,17 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.19.2-0.23.3.jar"
+filename = "minihud-fabric-1.19.3-0.25.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "0f0e90fdd87301437c9cb7f383da8bac4c030928"
+hash = "524126044127da79d2d66ddcd498a7ca35771ddc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3923228
+file-id = 4160116
 project-id = 244260
 
 [option]
 optional = true
 description = "Displays various info lines on the screen (mini-F3)."
-default = false

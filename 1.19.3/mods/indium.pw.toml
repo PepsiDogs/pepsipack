@@ -1,18 +1,17 @@
 name = "Indium"
-filename = "indium-1.0.9+mc1.19.2.jar"
+filename = "indium-1.0.14+mc1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTfou6df/indium-1.0.9%2Bmc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/U94NcDpV/indium-1.0.14%2Bmc1.19.3.jar"
 hash-format = "sha1"
-hash = "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+hash = "6dbdca98673403365e87a940f9e7a2a631fa7c30"
 
 [update]
 [update.modrinth]
 mod-id = "Orvt0mRa"
-version = "yTfou6df"
+version = "U94NcDpV"
 
 [option]
 optional = true
 description = "Sodium addon providing support for the Fabric Rendering API, based on Indigo"
-default = false
