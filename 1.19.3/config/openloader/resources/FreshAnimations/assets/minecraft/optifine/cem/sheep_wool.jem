@@ -92,6 +92,23 @@
 					"leg2.tz": " 7 + if(!is_on_ground&&is_in_water, -sin(limb_swing/2+age/2.5)*6, limb_speed>=if(is_child, 0.5, 0.7), sin(torad(-90     )+limb_swing*0.85)*6*limb_speed, sin(torad( 90 +25)+limb_swing*0.85)*3 +sin(torad( 90 +25)+limb_swing*0.85)*5*limb_speed)",
 					"leg3.tz": "-5 + if(!is_on_ground&&is_in_water, -sin(limb_swing/2+age/2.5)*6, limb_speed>=if(is_child, 0.5, 0.7), sin(torad( 90     )+limb_swing*0.85)*6*limb_speed, sin(torad(180    )+limb_swing*0.85)*3 +sin(torad(180    )+limb_swing*0.85)*5*limb_speed)",
 					"leg4.tz": "-5 + if(!is_on_ground&&is_in_water,  sin(limb_swing/2+age/2.5)*6, limb_speed>=if(is_child, 0.5, 0.7), sin(torad(180-22.5)+limb_swing*0.85)*6*limb_speed, sin(torad( 0     )+limb_swing*0.85)*3 +sin(torad( 0     )+limb_swing*0.85)*5*limb_speed)"
+				},
+				{
+					"head_part.rx": "head2.rx",
+					"head_part.ry": "head2.ry",
+					"head_part.rz": "head2.rz",
+					"head_part.tx": "head2.tx",
+					"head_part.ty": "head2.ty+19-6",
+					"head_part.tz": "head2.tz-2",
+					"head_part.sx": "head2.sx",
+					"head_part.sy": "head2.sy",
+					"head_part.sz": "head2.sz",
+					"body_part.rx": "rotation.rx",
+					"body_part.ry": "rotation.ry",
+					"body_part.rz": "rotation.rz",
+					"body_part.tx": "rotation.tx",
+					"body_part.ty": "rotation.ty+19-6",
+					"body_part.tz": "rotation.tz-2"
 				}
 			]
 		},

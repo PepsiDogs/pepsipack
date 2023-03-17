@@ -135,18 +135,32 @@
 					],
 					"submodels": [
 						{
-							"id": "mushroom1",
+							"id": "bone2",
 							"invertAxis": "xy",
 							"translate": [0, 4, -3],
-							"rotate": [0, 33, 0],
-							"boxes": [
+							"submodels": [
 								{
-									"coordinates": [0, -0.25, -6, 0, 7, 12],
-									"uvEast": [64, 7, 52, 14]
-								},
-								{
-									"coordinates": [-6, -0.25, 0, 12, 7, 0],
-									"uvNorth": [52, 7, 64, 14]
+									"id": "bone",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"submodels": [
+										{
+											"id": "mushroom1",
+											"invertAxis": "xy",
+											"translate": [0, 0, 0],
+											"rotate": [0, 33, 0],
+											"boxes": [
+												{
+													"coordinates": [0, -0.25, -6, 0, 7, 12],
+													"uvEast": [64, 7, 52, 14]
+												},
+												{
+													"coordinates": [-6, -0.25, 0, 12, 7, 0],
+													"uvNorth": [52, 7, 64, 14]
+												}
+											]
+										}
+									]
 								}
 							]
 						},
@@ -258,70 +272,84 @@
 							]
 						},
 						{
-							"id": "baby_horns",
+							"id": "bone3",
 							"invertAxis": "xy",
 							"translate": [0, 0, 0],
-							"boxes": [
-								{
-									"coordinates": [-3, 4, -3, 1, 1, 1],
-									"uvNorth": [14, 17, 15, 18],
-									"uvEast": [13, 17, 14, 18],
-									"uvSouth": [16, 17, 17, 18],
-									"uvWest": [15, 17, 16, 18],
-									"uvUp": [15, 16, 14, 15],
-									"uvDown": [16, 15, 15, 16]
-								}
-							],
 							"submodels": [
 								{
-									"id": "body_sub_11",
+									"id": "baby_horns",
 									"invertAxis": "xy",
-									"mirrorTexture": "u",
 									"translate": [0, 0, 0],
 									"boxes": [
 										{
-											"coordinates": [2, 4, -3, 1, 1, 1],
+											"coordinates": [-3, 4, -3, 1, 1, 1],
 											"uvNorth": [14, 17, 15, 18],
 											"uvEast": [13, 17, 14, 18],
 											"uvSouth": [16, 17, 17, 18],
 											"uvWest": [15, 17, 16, 18],
-											"uvUp": [14, 16, 15, 15],
-											"uvDown": [15, 15, 16, 16]
+											"uvUp": [15, 16, 14, 15],
+											"uvDown": [16, 15, 15, 16]
+										}
+									],
+									"submodels": [
+										{
+											"id": "body_sub_11",
+											"invertAxis": "xy",
+											"mirrorTexture": "u",
+											"translate": [0, 0, 0],
+											"boxes": [
+												{
+													"coordinates": [2, 4, -3, 1, 1, 1],
+													"uvNorth": [14, 17, 15, 18],
+													"uvEast": [13, 17, 14, 18],
+													"uvSouth": [16, 17, 17, 18],
+													"uvWest": [15, 17, 16, 18],
+													"uvUp": [14, 16, 15, 15],
+													"uvDown": [15, 15, 16, 16]
+												}
+											]
 										}
 									]
 								}
 							]
 						},
 						{
-							"id": "adult_horns",
+							"id": "bone4",
 							"invertAxis": "xy",
 							"translate": [0, 0, 0],
-							"boxes": [
-								{
-									"coordinates": [-5, 2, -3, 1, 3, 1],
-									"uvNorth": [14, 16, 15, 19],
-									"uvEast": [13, 16, 14, 19],
-									"uvSouth": [16, 16, 17, 19],
-									"uvWest": [15, 16, 16, 19],
-									"uvUp": [15, 16, 14, 15],
-									"uvDown": [16, 15, 15, 16]
-								}
-							],
 							"submodels": [
 								{
-									"id": "body_sub_3",
+									"id": "adult_horns",
 									"invertAxis": "xy",
-									"mirrorTexture": "u",
 									"translate": [0, 0, 0],
 									"boxes": [
 										{
-											"coordinates": [4, 2, -3, 1, 3, 1],
-											"uvNorth": [15, 16, 14, 19],
-											"uvEast": [16, 16, 15, 19],
-											"uvSouth": [17, 16, 16, 19],
-											"uvWest": [14, 16, 13, 19],
-											"uvUp": [14, 16, 15, 15],
-											"uvDown": [15, 15, 16, 16]
+											"coordinates": [-5, 2, -3, 1, 3, 1],
+											"uvNorth": [14, 16, 15, 19],
+											"uvEast": [13, 16, 14, 19],
+											"uvSouth": [16, 16, 17, 19],
+											"uvWest": [15, 16, 16, 19],
+											"uvUp": [15, 16, 14, 15],
+											"uvDown": [16, 15, 15, 16]
+										}
+									],
+									"submodels": [
+										{
+											"id": "body_sub_3",
+											"invertAxis": "xy",
+											"mirrorTexture": "u",
+											"translate": [0, 0, 0],
+											"boxes": [
+												{
+													"coordinates": [4, 2, -3, 1, 3, 1],
+													"uvNorth": [15, 16, 14, 19],
+													"uvEast": [16, 16, 15, 19],
+													"uvSouth": [17, 16, 16, 19],
+													"uvWest": [14, 16, 13, 19],
+													"uvUp": [14, 16, 15, 15],
+													"uvDown": [15, 15, 16, 16]
+												}
+											]
 										}
 									]
 								}
@@ -386,8 +414,17 @@
 					"left_ear.ry": " clamp(-torad(50) -torad(15)*limb_speed -sin(torad(-45)+(limb_swing/2+age)/if(is_child, 35, 70)*pi*2)/15 +if(limb_speed>=if(is_child, 0.4, 0.7), -sin(torad(-90)+limb_swing*0.75)/4 *limb_speed,  sin(torad(-135)+limb_swing*0.75/0.5)/6*limb_speed) -torad(head_yaw)/3, torad(-70), 0)",
 					"tail.rx": "torad(5) +torad(45)*limb_speed +if(limb_speed>=if(is_child, 0.4, 0.7), -sin(torad(-90)+limb_swing*0.75)/4 *limb_speed, 0) +sin((limb_swing/2+age)/if(is_child, 35, 70)*pi*2)/20",
 					"tail.ry": "if(limb_speed>=if(is_child, 0.4, 0.7), -sin(torad(-90)+limb_swing*0.75)/10 *limb_speed, sin(torad(-45)+limb_swing*0.75)/3*limb_speed) +torad(head_yaw)/6*clamp(1-limb_speed, 0, 1)",
-					"mushroom2.ty": "-2 +if(is_child, 0, 1)",
-					"mushroom3.ty": "6 +if(is_child, 0, 1)",
+					"mushroom2.ty": "-2",
+					"mushroom3.ty": "6",
+					"mushroom1.sy": "if(is_child, 0, 1)",
+					"mushroom1.sx": "mushroom1.sy",
+					"mushroom1.sz": "mushroom1.sy",
+					"mushroom2.sy": "if(is_child, 0, 1)",
+					"mushroom2.sx": "mushroom2.sy",
+					"mushroom2.sz": "mushroom2.sy",
+					"mushroom3.sy": "if(is_child, 0, 1)",
+					"mushroom3.sx": "mushroom3.sy",
+					"mushroom3.sz": "mushroom3.sy",
 					"mushroom1.rx": "torad( 8 ) +sin(torad( 45)+limb_swing*0.75)/6*limb_speed -torad(20)*limb_speed",
 					"mushroom2.rx": "torad(-85) +sin(torad( 90)+limb_swing*0.75)/8*limb_speed -torad(10)*limb_speed",
 					"mushroom3.rx": "torad(-99) +sin(torad( 90)+limb_swing*0.75)/8*limb_speed -torad(20)*limb_speed",
