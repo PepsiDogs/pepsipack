@@ -63,8 +63,8 @@ Here you can find what mods we include across Minecraft versions.
 | [Lithium] | No-compromises game logic/server optimization mod | Both | ✅ |
 | [MaLiLib] | Library for masa's client-side mods. | Client | ✅ |
 | [MiniHUD] | Displays various info lines on the screen (mini-F3). | Client | ❎ |
+| [MixinTrace] | Adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports. | Both | ✅ |
 | [Mod Menu] | Adds a mod menu to view the list of mods you have installed. | Client | ✅ |
-| [Not Enough Crashes] | When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant. | Client | ✅ |
 | [Open Loader] | Enables data packs and resource packs to be applied globally | Both | ✅ |
 | [Replay Mod]¹ | Allows for recording gameplay sessions to later render out as timelapses or VODs. | Client | ❎ |
 | [Replay Voice Chat] | Stores voice chat in ReplayMod recordings. | Client | ❎ |
@@ -122,8 +122,8 @@ Here you can find what mods we include across Minecraft versions.
 [Lithium]: https://modrinth.com/mod/lithium
 [MaLiLib]: https://www.curseforge.com/minecraft/mc-mods/malilib
 [MiniHUD]: https://www.curseforge.com/minecraft/mc-mods/minihud
+[MixinTrace]: https://modrinth.com/mod/mixintrace
 [Mod Menu]: https://modrinth.com/mod/modmenu
-[Not Enough Crashes]: https://modrinth.com/mod/notenoughcrashes
 [Open Loader]: https://www.curseforge.com/minecraft/mc-mods/open-loader
 [Replay Mod]: https://www.replaymod.com/
 [Replay Voice Chat]: https://modrinth.com/mod/replay-voice-chat

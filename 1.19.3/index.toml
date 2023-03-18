@@ -5899,11 +5899,11 @@ file = "mods/minihud.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "mods/mixintrace.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
+file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
