@@ -1,0 +1,11 @@
+splitTickDistance = true
+tickDistance = 10
+
+[dynamic]
+dynamicTickDistance = true
+minTickDistance = 8
+dynamicRenderDistance = true
+minRenderDistance = 12
+maxRenderDistance = 64
+targetMSPT = 50.0
+itemDespawnTicks = 6000

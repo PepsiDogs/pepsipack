@@ -1,0 +1,13 @@
+name = "TickTools"
+filename = "ticktools-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com//data/EXBW22iA/versions/1.1.0/ticktools-1.1.0.jar"
+hash-format = "sha1"
+hash = "a90b357277542412fa0b3007a9fb4ea0729a388c"
+
+[update]
+[update.modrinth]
+mod-id = "EXBW22iA"
+version = "5jF8G7pi"

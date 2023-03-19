@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "config/FabricProxy-Lite.toml"
 
 [[files]]
+file = "config/ticktools.toml"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 
 [[files]]
@@ -44,4 +47,8 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
+metafile = true
+
+[[files]]
+file = "mods/ticktools.pw.toml"
 metafile = true
