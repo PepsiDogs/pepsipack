@@ -66,6 +66,7 @@ Here you can find what mods we include across Minecraft versions.
 | [MixinTrace] | Adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports. | Both | ✅ |
 | [Mod Menu] | Adds a mod menu to view the list of mods you have installed. | Client | ✅ |
 | [Open Loader] | Enables data packs and resource packs to be applied globally | Both | ✅ |
+| [Raknetify] | Uses RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections. | Client | ✅ |
 | [Replay Mod]¹ | Allows for recording gameplay sessions to later render out as timelapses or VODs. | Client | ❎ |
 | [Replay Voice Chat] | Stores voice chat in ReplayMod recordings. | Client | ❎ |
 | [ServerCore] | A fabric mod that aims to optimize the minecraft server. | Server | ✅ |
@@ -125,6 +126,7 @@ Here you can find what mods we include across Minecraft versions.
 [MixinTrace]: https://modrinth.com/mod/mixintrace
 [Mod Menu]: https://modrinth.com/mod/modmenu
 [Open Loader]: https://www.curseforge.com/minecraft/mc-mods/open-loader
+[Raknetify]: https://modrinth.com/plugin/raknetify
 [Replay Mod]: https://www.replaymod.com/
 [Replay Voice Chat]: https://modrinth.com/mod/replay-voice-chat
 [ServerCore]: https://modrinth.com/mod/servercore

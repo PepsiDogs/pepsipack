@@ -5911,6 +5911,10 @@ file = "mods/open-loader.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/replay-voice-chat.pw.toml"
 metafile = true
 
