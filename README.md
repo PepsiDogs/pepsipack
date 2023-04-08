@@ -2,7 +2,7 @@
 
 This repository contains the [packwiz] configuration for the Pepsi Dogs minecraft modpack.
 
-Both server and client configurations are provided. The version of Minecraft actively supported as of now is 1.19.3.
+Both server and client configurations are provided. The version of Minecraft actively supported as of now is 1.19.4.
 
 ## Prism Launcher / MultiMC setup
 
@@ -16,7 +16,7 @@ To set up your Prism/MultiMC to automatically update and download mods for conne
 
 1. Download [packwiz-installer-bootstrap.jar] and place it in your instance's `.minecraft` folder.
 2. Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
-   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.3/pack.toml`
+   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.4/pack.toml`
 
 When launching Minecraft, Prism/MultiMC should call upon packwiz to update and pull down all required mods, and offer optional mods if you want them!
 
@@ -31,7 +31,6 @@ Here you can find what mods we include across Minecraft versions.
 | [Architectury API] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
 | [AudioPlayer] | Custom audio for music discs and goat horns. | Server | ✅ |
 | [Better Mount HUD] | Improves the ingame HUD while riding a mount | Client | ❎ (default) |
-| [Better Ping Display] | Adds a configurable numerical ping display to the player list | Client | ❎ (default) |
 | [Better Third Person] | Adds independent rotation of the camera from a third person view. | Client | ❎ (default) |
 | [Bobby] | Allows for render distances greater than the server's view-distance setting. | Client | ❎ (default) |
 | [Bookshelf] | Client mod library used by Enchantment Descriptions | Client | ✅ |
@@ -91,7 +90,6 @@ Here you can find what mods we include across Minecraft versions.
 [Architectury API]: https://modrinth.com/mod/architectury-api
 [AudioPlayer]: https://modrinth.com/mod/audioplayer
 [Better Mount HUD]: https://modrinth.com/mod/better-mount-hud
-[Better Ping Display]: https://modrinth.com/mod/better-ping-display-fabric
 [Better Third Person]: https://www.curseforge.com/minecraft/mc-mods/better-third-person
 [Bobby]: https://modrinth.com/mod/bobby
 [Bookshelf]: https://www.curseforge.com/minecraft/mc-mods/bookshelf

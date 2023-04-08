@@ -5767,10 +5767,6 @@ file = "mods/better-mount-hud.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 metafile = true
 
@@ -5812,10 +5808,6 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/damage-tilt.pw.toml"
 metafile = true
 
 [[files]]
