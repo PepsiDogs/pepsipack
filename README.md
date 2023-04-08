@@ -16,7 +16,7 @@ To set up your Prism/MultiMC to automatically update and download mods for conne
 
 1. Download [packwiz-installer-bootstrap.jar] and place it in your instance's `.minecraft` folder.
 2. Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
-   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.4/pack.toml`
+   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://pepsidogs.github.io/pepsipack/1.19.x/pack.toml`
 
 When launching Minecraft, Prism/MultiMC should call upon packwiz to update and pull down all required mods, and offer optional mods if you want them!
 
