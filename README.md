@@ -50,7 +50,6 @@ Here you can find what mods we include across Minecraft versions.
 | [Fabric Language Kotlin] | Fabric Language Kotlin | Both | ✅ |
 | [FabricProxy-Lite] | Enables the server to communicate with a Velocity proxy. | Server | ✅ |
 | [FerriteCore] | Memory usage optimizations | Both | ✅ |
-| [Durability Viewer] | Armor and Tool durability HUD | Client | ❎ (default) |
 | [Indium] | Sodium addon providing support for the Fabric Rendering API, based on Indigo | Client | ❎ |
 | [Iris Shaders] | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Client | ✅ |
 | [Item Scroller] | Adds several ways of moving items in inventory GUIs. | Client | ❎ (default) |
@@ -109,7 +108,6 @@ Here you can find what mods we include across Minecraft versions.
 [Fabric Language Kotlin]: https://modrinth.com/mod/fabric-language-kotlin
 [FabricProxy-Lite]: https://modrinth.com/mod/fabricproxy-lite
 [FerriteCore]: https://modrinth.com/mod/ferrite-core
-[Durability Viewer]: https://modrinth.com/mod/durabilityviewer
 [Indium]: https://modrinth.com/mod/indium
 [Iris Shaders]: https://modrinth.com/mod/iris
 [Item Scroller]: https://www.curseforge.com/minecraft/mc-mods/item-scroller

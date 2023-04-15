@@ -5811,10 +5811,6 @@ file = "mods/cull-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/durabilityviewer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/easiercrafting.pw.toml"
 metafile = true
 
