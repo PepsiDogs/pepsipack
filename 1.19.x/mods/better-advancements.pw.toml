@@ -1,0 +1,18 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-Fabric-1.19.4-0.3.1.156.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/XbRG4Rhv/BetterAdvancements-Fabric-1.19.4-0.3.1.156.jar"
+hash-format = "sha1"
+hash = "39d30c03ab616ff02a8ed7d9a5f9310e9256b45f"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "XbRG4Rhv"
+
+[option]
+optional = true
+description = "Improve the UI and UX for the advancements system"
+default = true

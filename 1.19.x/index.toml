@@ -5743,10 +5743,6 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/servers.dat"
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 metafile = true
 
@@ -5755,11 +5751,19 @@ file = "mods/antighost.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
 metafile = true
 
 [[files]]
@@ -5795,6 +5799,10 @@ file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 metafile = true
 
@@ -5804,6 +5812,10 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
 metafile = true
 
 [[files]]
@@ -5900,6 +5912,10 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]

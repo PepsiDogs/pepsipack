@@ -1,0 +1,17 @@
+name = "Clumps"
+filename = "Clumps-fabric-1.19.4-10.0.0.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "1ad1a7b5e76666017528893cc6161c838700bae8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4444793
+project-id = 256717
+
+[option]
+optional = true
+description = "Groups XP orbs together to reduce lag."

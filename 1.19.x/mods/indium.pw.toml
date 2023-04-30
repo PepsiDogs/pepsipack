@@ -13,5 +13,5 @@ mod-id = "Orvt0mRa"
 version = "qqiFL8NF"
 
 [option]
-optional = true
+optional = false
 description = "Sodium addon providing support for the Fabric Rendering API, based on Indigo"

@@ -26,20 +26,23 @@ Here you can find what mods we include across Minecraft versions.
 
 | Name | Description | Side | Required |
 |---|---|---|---|
-| [AdvancementInfo] | Show more information about advancement requirements | Client | ❎ (default) |
 | [AntiGhost] | Get rid of ghost blocks by requesting resends from the server | Client | ❎ |
+| [AppleSkin] | Adds various food-related HUD improvements | Both | ❎ (default) |
 | [Architectury API] | An intermediary api aimed to ease developing multiplatform mods. | Both | ✅ |
 | [AudioPlayer] | Custom audio for music discs and goat horns. | Server | ✅ |
+| [Better Advancements] | Improve the UI and UX for the advancements system | Client | ❎ (default) |
 | [Better Mount HUD] | Improves the ingame HUD while riding a mount | Client | ❎ (default) |
 | [Better Third Person] | Adds independent rotation of the camera from a third person view. | Client | ❎ (default) |
 | [Bobby] | Allows for render distances greater than the server's view-distance setting. | Client | ❎ (default) |
 | [Bookshelf] | Client mod library used by Enchantment Descriptions | Client | ✅ |
+| [CIT Resewn] | Re-implements MCPatcher's CIT | Client | ✅ |
 | [Carpet Extra] | Carpet extensions. | Both | ✅ |
 | [Carpet] | Carpet mod. | Both | ✅ |
 | [Chat Heads] | Adds player heads next to chat messages | Client | ❎ (default) |
 | [Clear Despawn] | Make items blink when they're about to despawn | Client | ❎ (default) |
 | [ClickThrough] | Click through signs and item frames to chests | Client | ❎ (default) |
 | [Cloth Config API] | Configuration Library for Minecraft Mods | Client | ✅ |
+| [Clumps] | Groups XP orbs together to reduce lag | Server | ✅ |
 | [Cull Leaves] | Adds OptiFine's "better trees" - fancy leaves are more see-through for better FPS. | Client | ❎ (default) |
 | [Custom Entity Models]² | Support for custom entity models. | Client | ✅ |
 | [Damage Tilt] | Restores camera tilt in direction of damage. | Both | ✅ |
@@ -50,7 +53,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Fabric Language Kotlin] | Fabric Language Kotlin | Both | ✅ |
 | [FabricProxy-Lite] | Enables the server to communicate with a Velocity proxy. | Server | ✅ |
 | [FerriteCore] | Memory usage optimizations | Both | ✅ |
-| [Indium] | Sodium addon providing support for the Fabric Rendering API, based on Indigo | Client | ❎ |
+| [Indium] | Sodium addon providing support for the Fabric Rendering API, based on Indigo | Client | ✅ |
 | [Iris Shaders] | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Client | ✅ |
 | [Item Scroller] | Adds several ways of moving items in inventory GUIs. | Client | ❎ (default) |
 | [Krypton] | A mod to optimize the Minecraft networking stack | Both | ✅ |
@@ -67,6 +70,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Raknetify] | Uses RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections. | Client | ✅ |
 | [Replay Mod]¹ | Allows for recording gameplay sessions to later render out as timelapses or VODs. | Client | ❎ |
 | [Replay Voice Chat] | Stores voice chat in ReplayMod recordings. | Client | ❎ |
+| [Roughly Enough Items] | An easy way to browse recipes. | Client | ❎ |
 | [ServerCore] | A fabric mod that aims to optimize the minecraft server. | Server | ✅ |
 | [Simple Discord RPC] | A simple to use Discord RPC plugin for Minecraft and Modpacks | Client | ❎ (default) |
 | [Simple Voice Chat] | In-game proximity voice chat | Both | ✅ |
@@ -84,20 +88,23 @@ Here you can find what mods we include across Minecraft versions.
 
 [packwiz]: https://packwiz.infra.link/
 [packwiz-installer-bootstrap.jar]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
-[AdvancementInfo]: https://modrinth.com/mod/advancementinfo
 [AntiGhost]: https://modrinth.com/mod/antighost
+[AppleSkin]: https://modrinth.com/mod/appleskin
 [Architectury API]: https://modrinth.com/mod/architectury-api
 [AudioPlayer]: https://modrinth.com/mod/audioplayer
+[Better Advancements]: https://modrinth.com/mod/better-advancements
 [Better Mount HUD]: https://modrinth.com/mod/better-mount-hud
 [Better Third Person]: https://www.curseforge.com/minecraft/mc-mods/better-third-person
 [Bobby]: https://modrinth.com/mod/bobby
 [Bookshelf]: https://www.curseforge.com/minecraft/mc-mods/bookshelf
+[CIT Resewn]: https://modrinth.com/mod/cit-resewn
 [Carpet Extra]: https://www.curseforge.com/minecraft/mc-mods/carpet-extra
 [Carpet]: https://www.curseforge.com/minecraft/mc-mods/carpet
 [Chat Heads]: https://www.curseforge.com/minecraft/mc-mods/chat-heads
 [Clear Despawn]: https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
 [ClickThrough]: https://modrinth.com/mod/clickthrough
 [Cloth Config API]: https://modrinth.com/mod/cloth-config
+[Clumps]: https://www.curseforge.com/minecraft/mc-mods/clumps
 [Cull Leaves]: https://modrinth.com/mod/cull-leaves
 [Custom Entity Models]: https://modrinth.com/mod/cem
 [Damage Tilt]: https://www.curseforge.com/minecraft/mc-mods/damage-tilt
@@ -125,6 +132,7 @@ Here you can find what mods we include across Minecraft versions.
 [Raknetify]: https://modrinth.com/plugin/raknetify
 [Replay Mod]: https://www.replaymod.com/
 [Replay Voice Chat]: https://modrinth.com/mod/replay-voice-chat
+[Roughly Enough Items]: https://modrinth.com/mod/rei
 [ServerCore]: https://modrinth.com/mod/servercore
 [Simple Discord RPC]: https://modrinth.com/mod/simple-discord-rpc
 [Simple Voice Chat]: https://modrinth.com/mod/simple-voice-chat
