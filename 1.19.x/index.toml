@@ -5224,6 +5224,429 @@ file = "config/openloader/resources/BetterLeaves/pack.mcmeta"
 file = "config/openloader/resources/BetterLeaves/pack.png"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/blaze_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/blaze_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/all_black_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/all_black_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/black_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/black_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/british_shorthair_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/british_shorthair_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/calico_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/calico_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/jellie_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/jellie_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/ocelot_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/ocelot_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/persian_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/persian_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/ragdoll_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/ragdoll_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/red_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/red_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/siamese_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/siamese_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/tabby_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/tabby_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/white_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cat/white_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/chicken/chicken2_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/chicken/chicken2_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/chicken/chicken3_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/chicken/chicken3_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/chicken/chicken_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/chicken/chicken_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cow/cow_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cow/cow_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cow/mooshroom_brown_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cow/mooshroom_brown_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cow/mooshroom_red_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/cow/mooshroom_red_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/creeper/creeper_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/creeper/creeper_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/creeper/creeper_blink_2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/dolphin_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/dolphin_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/enderman/bart_enderman_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/enderman/bart_enderman_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/enderman/enderman_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/enderman/enderman_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/enderman/enderman_eyes_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/enderman/enderman_eyes_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/fox/fox_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/fox/fox_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/fox/snow_fox_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/fox/snow_fox_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/hoglin/hoglin_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/hoglin/hoglin_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/hoglin/zoglin_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/hoglin/zoglin_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/donkey_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/donkey_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_black_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_black_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_brown_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_brown_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_chestnut_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_chestnut_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_creamy_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_creamy_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_darkbrown_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_darkbrown_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_gray_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_gray_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_white_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/horse_white_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/mule_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/horse/mule_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/evoker_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/evoker_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/illusioner_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/illusioner_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/pillager_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/pillager_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/ravager_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/ravager_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/vex_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/vex_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/vindicator_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/illager/vindicator_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_brown_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_brown_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_creamy_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_creamy_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_gray_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_gray_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_white_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/llama/llama_white_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_blue_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_blue_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_green_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_green_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_grey_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_grey_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_red_blue_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_red_blue_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_yellow_blue_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/parrot/parrot_yellow_blue_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/pig/pig_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/pig/pig_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/pig/pig_muddy_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/pig/pig_muddy_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/pig/pig_tusked_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/pig/pig_tusked_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/piglin/piglin_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/piglin/piglin_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/piglin/piglin_brute_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/piglin/piglin_brute_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/piglin/zombified_piglin_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/piglin/zombified_piglin_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/sheep_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/sheep_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/strider/strider_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/strider/strider_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/strider/strider_cold_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/strider/strider_cold_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/turtle_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/turtle_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/villager/villager_baby_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/villager/villager_baby_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/villager/villager_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/villager/villager_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/villager/wandering_trader_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/villager/wandering_trader_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/witch_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/witch_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/wolf/wolf_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/wolf/wolf_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/wolf/wolf_tame_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/wolf/wolf_tame_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/zombie_villager/zombie_villager_baby_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/zombie_villager/zombie_villager_baby_blink.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/zombie_villager/zombie_villager_blink.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/anim/zombie_villager/zombie_villager_blink.properties"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/blaze.jem"
 
 [[files]]
@@ -5350,6 +5773,9 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/ce
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/stray.jem"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/stray_outer.jem"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/strider.jem"
 
 [[files]]
@@ -5360,9 +5786,6 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/ce
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/turtle.jem"
-
-[[files]]
-file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/vex.jem"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/villager.jem"
@@ -5399,6 +5822,57 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/ce
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/cem/zombified_piglin.jem"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/emissive.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/chicken.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/chicken2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/chicken3.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/enderman/enderman.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/enderman/enderman2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/enderman/enderman_parts.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/enderman/enderman_parts2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/pig/pig.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/pig/pig2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/pig/pig3.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/villager/villager.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/villager/villager2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/zombie/zombie.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/zombie/zombie2.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/zombie_villager/zombie_villager.properties"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/optifine/random/entity/zombie_villager/zombie_villager2.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/particles/mycelium.json"
@@ -5443,7 +5917,13 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cat/white.png"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cave_spider_eyes.png"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/chicken.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/chicken_tmp.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cow/brown_mooshroom.png"
@@ -5455,10 +5935,19 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cow/cow.png"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cow/cow_tmp.png"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cow/red_mooshroom.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/cow/red_mushroom.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/creeper/creeper.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/creeper/creeper_default.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/dolphin.png"
@@ -5468,6 +5957,9 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/enderman/enderman_eyes.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/enderman/enderman_parts.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/fox/fox.png"
@@ -5480,6 +5972,21 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/fox/snow_fox_sleep.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/ghast/ghast_shooting_e.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/guardian.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/guardian_elder.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/hoglin/hoglin.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/hoglin/zoglin.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/horse/donkey.png"
@@ -5527,12 +6034,6 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/illager/ravager.png"
 
 [[files]]
-file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/illager/vex.png"
-
-[[files]]
-file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/illager/vex_charging.png"
-
-[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/illager/vindicator.png"
 
 [[files]]
@@ -5540,6 +6041,9 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/iron_golem/iron_golem_e.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/iron_golem/iron_golem_tmp.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/llama/brown.png"
@@ -5554,10 +6058,28 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/llama/white.png"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/parrot/parrot_blue.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/parrot/parrot_green.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/parrot/parrot_grey.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/parrot/parrot_red_blue.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/parrot/parrot_yellow_blue.png"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/pig/pig.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/pig/pig_saddle.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/pig/pig_tmp.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/piglin/piglin.png"
@@ -5572,10 +6094,22 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/sheep/sheep.png"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/sheep/sheep_fur.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/sheep/sheep_tmp.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/skeleton/skeleton.png"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/skeleton/stray.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/skeleton/stray_clothing.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/skeleton/stray_e.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/skeleton/stray_overlay.png"
@@ -5587,7 +6121,19 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/spider/cave_spider.png"
 
 [[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/spider/cave_spider_e.png"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/spider/spider.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/spider/spider_e.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/spider/spider_tmp.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/spider_eyes.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/strider/strider.png"
@@ -5630,6 +6176,9 @@ file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/en
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/zombie/drowned.png"
+
+[[files]]
+file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/zombie/drowned_e.png"
 
 [[files]]
 file = "config/openloader/resources/FreshAnimations/assets/minecraft/textures/entity/zombie/drowned_outer_layer.png"
