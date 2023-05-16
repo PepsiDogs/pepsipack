@@ -6420,15 +6420,7 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ledger.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/light-overlay.pw.toml"
 metafile = true
 
 [[files]]

@@ -57,9 +57,7 @@ Here you can find what mods we include across Minecraft versions.
 | [Iris Shaders] | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Client | ✅ |
 | [Item Scroller] | Adds several ways of moving items in inventory GUIs. | Client | ❎ (default) |
 | [Krypton] | A mod to optimize the Minecraft networking stack | Both | ✅ |
-| [LazyDFU] | Makes the game boot faster by deferring non-essential initialization | Both | ✅ |
 | [Ledger] | A serverside logging mod | Server | ✅ |
-| [Light Overlay] | A simple mod to provide users with NEI-like light level overlay. | Client | ❎ |
 | [Litematica] | Build schematic mod. | Client | ❎ |
 | [Lithium] | No-compromises game logic/server optimization mod | Both | ✅ |
 | [MaLiLib] | Library for masa's client-side mods. | Client | ✅ |
@@ -119,9 +117,7 @@ Here you can find what mods we include across Minecraft versions.
 [Iris Shaders]: https://modrinth.com/mod/iris
 [Item Scroller]: https://www.curseforge.com/minecraft/mc-mods/item-scroller
 [Krypton]: https://modrinth.com/mod/krypton
-[LazyDFU]: https://modrinth.com/mod/lazydfu
 [Ledger]: https://modrinth.com/mod/ledger
-[Light Overlay]: https://modrinth.com/mod/light-overlay
 [Litematica]: https://www.curseforge.com/minecraft/mc-mods/litematica
 [Lithium]: https://modrinth.com/mod/lithium
 [MaLiLib]: https://www.curseforge.com/minecraft/mc-mods/malilib
