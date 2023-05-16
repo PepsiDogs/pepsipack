@@ -10,43 +10,43 @@ file = "config/ticktools.toml"
 file = "config/voicechat/voicechat-server.properties"
 
 [[files]]
-file = "mods/carpet.toml"
+file = "mods/carpet.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/damage-tilt.toml"
+file = "mods/damage-tilt.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
+file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabricproxy-lite.toml"
+file = "mods/fabricproxy-lite.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.toml"
+file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.toml"
+file = "mods/lazydfu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.toml"
+file = "mods/open-loader.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.toml"
+file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/starlight.toml"
+file = "mods/starlight.pw.toml"
 metafile = true
 
 [[files]]

@@ -3,9 +3,9 @@ filename = "DamageTilt-1.17-fabric-0.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3347/434/DamageTilt-1.17-fabric-0.1.2.jar"
-hash-format = "murmur2"
-hash = "1360270612"
+hash-format = "sha1"
+hash = "bc29dc1a9df3938af6c5c560931dff9c2bac79a2"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

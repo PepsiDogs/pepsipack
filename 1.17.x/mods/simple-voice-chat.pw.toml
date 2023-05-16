@@ -3,11 +3,11 @@ filename = "voicechat-fabric-1.17.1-2.4.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/MjtI3KV4/voicechat-fabric-1.17.1-2.4.7.jar"
 hash-format = "sha1"
 hash = "fa6ea30768896292098dd0e9920c562d1768e295"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4526249
-project-id = 416089
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "MjtI3KV4"
