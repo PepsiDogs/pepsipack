@@ -1,6 +1,6 @@
 {
-   "pack":{
-      "pack_format":9,
-      "description":"PlsCraft S3"
-   }
+    "pack": {
+        "pack_format": 13,
+        "description": "PlsCraft S3"
+    }
 }
