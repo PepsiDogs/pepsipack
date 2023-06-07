@@ -881,6 +881,10 @@ file = "mods/entity-model-features.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 metafile = true
 
