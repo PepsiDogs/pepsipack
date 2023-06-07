@@ -1,6 +1,0 @@
-{
-    "parent":"block/leaves1",
-    "textures": {
-        "0":"mubble:block/cherry_oak_leaves"
-    }
-}

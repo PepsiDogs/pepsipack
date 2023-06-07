@@ -1,0 +1,13 @@
+name = "Jerm's Better Leaves Add-on"
+filename = "Better Leaves Add-on V2.9.1-1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2b5aabb29d35849f1f9b380f7188111ab58aab6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4364692
+project-id = 301900
