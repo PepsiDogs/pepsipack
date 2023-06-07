@@ -1,0 +1,13 @@
+name = "Complementary Reimagined"
+filename = "ComplementaryReimagined_r2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3646be8288ada1777d2e3361fb7342947ce21b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4570501
+project-id = 627557

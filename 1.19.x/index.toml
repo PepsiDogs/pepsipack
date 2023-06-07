@@ -1003,3 +1003,7 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true
