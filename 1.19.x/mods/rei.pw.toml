@@ -1,18 +1,17 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-11.0.597.jar"
+filename = "RoughlyEnoughItems-11.0.617.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/BrnPgqv6/RoughlyEnoughItems-11.0.597.jar"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/vdL2DwYt/RoughlyEnoughItems-11.0.617.jar"
 hash-format = "sha1"
-hash = "53eedebdeff9d1b44c7bb82f77afb2b3aadf65fb"
+hash = "7509056d9d6e5e4d9c5421b0d31ef5d9c318785b"
 
 [update]
 [update.modrinth]
 mod-id = "nfn13YXA"
-version = "BrnPgqv6"
+version = "vdL2DwYt"
 
 [option]
 optional = true
 description = "An easy way to browse recipes"
-default = false
