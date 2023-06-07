@@ -1,6 +1,6 @@
 name = "Jerm's Better Leaves Add-on"
 filename = "Better Leaves Add-on V2.9.1-1.19.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
