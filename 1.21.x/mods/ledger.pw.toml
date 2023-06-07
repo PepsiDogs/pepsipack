@@ -1,0 +1,17 @@
+name = "Ledger"
+filename = "ledger-1.3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar"
+hash-format = "sha512"
+hash = "9701759b8507478ec19a8d441d884e2c5c41f7932207805e18ec1f14f17e3ff64394e31ee28d47b776730dde0c3a97ceca5f27af49d8b38d4a1577fb39351b44"
+
+[update]
+[update.modrinth]
+mod-id = "LVN9ygNV"
+version = "mb29Srom"
+
+[option]
+optional = false
+description = "A serverside logging mod"

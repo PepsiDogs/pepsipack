@@ -1,0 +1,18 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-Fabric-1.21.1-0.4.2.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/BN65Mp38/BetterAdvancements-Fabric-1.21.1-0.4.2.19.jar"
+hash-format = "sha512"
+hash = "ce004b65a014e04e9382a1b5f21d9d15481397660fd5332cde8e5602afd83ce637e922ee214c4ff06859771a17766a4b3a07dc82483e49e683f602e0937b3f41"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "BN65Mp38"
+
+[option]
+optional = true
+description = "Improve the UI and UX for the advancements system"
+default = true

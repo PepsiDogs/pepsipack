@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{data:{villager_death:1b}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

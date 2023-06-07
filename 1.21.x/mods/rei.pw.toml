@@ -1,0 +1,17 @@
+name = "Roughly Enough Items (REI)"
+filename = "RoughlyEnoughItems-16.0.783-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/nJkymL31/RoughlyEnoughItems-16.0.783-fabric.jar"
+hash-format = "sha512"
+hash = "1b442bcce6e79dc2cdfa582a1824191c116d68788d94a3486f01ad3ad163cb404560f8f8b10b5db18f919928f84b3456838f1986c5b635f40f640a7b30ec83bc"
+
+[update]
+[update.modrinth]
+mod-id = "nfn13YXA"
+version = "nJkymL31"
+
+[option]
+optional = true
+description = "An easy way to browse recipes"

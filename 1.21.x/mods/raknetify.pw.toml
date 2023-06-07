@@ -1,0 +1,18 @@
+name = "Raknetify"
+filename = "raknetify-fabric-0.1.0+alpha.5.129-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/KtbMEJkl/raknetify-fabric-0.1.0%2Balpha.5.129-all.jar"
+hash-format = "sha512"
+hash = "22d8ee70c8d2df750d56258476400a3f04f170de3c6edeeacc5d03b436edd53fab3fba6ebb8614a523f1b70dcc79fca17acb618e594d45fa2085b8cbfd39b9e6"
+
+[update]
+[update.modrinth]
+mod-id = "5IovSY3u"
+version = "KtbMEJkl"
+
+[option]
+optional = false
+description = "Uses RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections."
+default = true

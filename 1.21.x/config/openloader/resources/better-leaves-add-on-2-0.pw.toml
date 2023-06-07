@@ -1,0 +1,13 @@
+name = "Jerm's Better Leaves Add-on"
+filename = "JermsyBoy's Better Leaves V3.1-1.21.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "197ab65b285308d028a58cec91c24bd612b2fc8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5424884
+project-id = 301900

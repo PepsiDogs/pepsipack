@@ -1,0 +1,18 @@
+name = "Clear Despawn [Fabric]"
+filename = "ClearDespawn-fabric-1.20.2-1.1.15.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "95fd76b8d7df30384df4906013da65152a0bebc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4901772
+project-id = 308793
+
+[option]
+optional = true
+description = "Make items blink when they're about to despawn"
+default = true

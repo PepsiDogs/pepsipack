@@ -1,0 +1,18 @@
+version:3120
+autoJump:false
+enableVsync:false
+darkMojangStudiosBackground:true
+fov:0.5
+gamma:0.5
+renderDistance:32
+simulationDistance:12
+guiScale:2
+maxFps:260
+resourcePacks:["vanilla","Fabric Mods"]
+lang:en_gb
+tutorialStep:none
+rawMouseInput:true
+skipMultiplayerWarning:true
+hideMatchedNames:true
+joinedFirstServer:true
+hideBundleTutorial:false

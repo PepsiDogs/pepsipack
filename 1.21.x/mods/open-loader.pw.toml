@@ -1,0 +1,17 @@
+name = "Open Loader"
+filename = "OpenLoader-Fabric-1.20.4-22.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "767d4552fd44a408f9cd72b320a6a10ae829583e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5173675
+project-id = 354339
+
+[option]
+optional = false
+description = "Enables data packs and resource packs to be applied globally"
