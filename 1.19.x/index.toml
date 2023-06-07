@@ -4,9 +4,6 @@ hash-format = "sha256"
 file = "config/FabricProxy-Lite.toml"
 
 [[files]]
-file = "config/cem.conf"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 
 [[files]]
@@ -840,10 +837,6 @@ file = "mods/carpet.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 metafile = true
 
@@ -881,6 +874,10 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
 metafile = true
 
 [[files]]
