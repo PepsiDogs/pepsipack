@@ -853,6 +853,10 @@ file = "mods/clumps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 metafile = true
 
@@ -938,6 +942,10 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
 metafile = true
 
 [[files]]
